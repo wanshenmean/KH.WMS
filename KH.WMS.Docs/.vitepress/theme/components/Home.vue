@@ -1,9 +1,19 @@
 <script setup lang="ts">
-import { computed } from 'vue';
+import { computed, inject } from 'vue';
 import { useData, withBase } from 'vitepress';
 import { VPNavBarSearch } from 'vitepress/theme';
 
-const { site } = useData();
+const { site, isDark } = useData();
+const toggleAppearance = inject<() => void>('toggle-appearance', () => {
+  isDark.value = !isDark.value;
+});
+const handleAppearanceKeydown = (event: KeyboardEvent) => {
+  if (event.key === 'Enter' || event.key === ' ') {
+    event.preventDefault();
+    toggleAppearance();
+  }
+};
+const appearanceLabel = computed(() => isDark.value ? '切换到浅色模式' : '切换到深色模式');
 const routes = computed(() => [
   { title: '前端实战', description: '从启动、路由、权限到组件、状态、请求与 E2E。', href: withBase('/backend/KH.WMS前端开发指引%20V3.0'), icon: '⌘' },
   { title: '后端主线', description: '用完整 CRUD、Contract、事务与校验串起真实业务开发。', href: withBase('/backend/后端开发指引V3教程/01-KH.WMS后端整体地图'), icon: '↗' },
@@ -24,7 +34,21 @@ const routes = computed(() => [
         <a :href="withBase('/backend/后端开发指引V3教程/01-KH.WMS后端整体地图')">后端开发</a>
         <a :href="withBase('/backend/后端底层概念/01-启动入口与程序集扫描')">底层概念</a>
       </nav>
-      <div class="academy-search"><VPNavBarSearch /></div>
+      <div class="academy-tools">
+        <div class="academy-search"><VPNavBarSearch /></div>
+        <button
+          class="academy-appearance"
+          type="button"
+          :aria-label="appearanceLabel"
+          :title="appearanceLabel"
+          :aria-pressed="isDark"
+          @click="toggleAppearance"
+          @keydown="handleAppearanceKeydown"
+        >
+          <span class="vpi-sun theme-icon theme-sun" aria-hidden="true"></span>
+          <span class="vpi-moon theme-icon theme-moon" aria-hidden="true"></span>
+        </button>
+      </div>
     </header>
 
     <main>
