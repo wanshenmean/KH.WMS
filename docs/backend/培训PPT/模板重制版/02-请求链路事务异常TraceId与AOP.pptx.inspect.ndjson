@@ -1,0 +1,285 @@
+{"kind":"deck","id":"pr/0zc7th","name":"Deck"}
+{"kind":"layout","layoutId":"/ppt/slideMasters/slideMaster1.xml","name":"","type":"master","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout1.xml","name":"标题幻灯片","type":"title","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"subtitle","type":"subtitle","textPreview":"单击此处编辑母版副标题样式"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout2.xml","name":"标题和内容","type":"obj","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"2","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout3.xml","name":"节标题","type":"secHead","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout4.xml","name":"两栏内容","type":"twoObj","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"2","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"3","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout5.xml","name":"比较","type":"twoTxTwoObj","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式"},{"name":"3","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式"},{"name":"5","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout6.xml","name":"仅标题","type":"titleOnly","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout7.xml","name":"空白","type":"blank","placeholders":[{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout8.xml","name":"内容与标题","type":"objTx","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"2","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout9.xml","name":"图片与标题","type":"picTx","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"picture","type":"picture"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout10.xml","name":"标题和竖排文字","type":"vertTx","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout11.xml","name":"竖排标题与文本","type":"vertTitleAndTx","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"slide","id":"sl/y90nupkv","slide":1,"title":"事务与追踪","textShapes":4}
+{"kind":"textbox","id":"sh/1cvuxc7e","slide":1,"name":"文本框 19","text":"事务与追踪","textPreview":"事务与追踪","textChars":5,"textLines":1,"bbox":[635,275,600,102]}
+{"kind":"textbox","id":"sh/0bmd476t","slide":1,"name":"文本框 20","text":"请求链路","textPreview":"请求链路","textChars":4,"textLines":1,"bbox":[635,178,600,102]}
+{"kind":"textbox","id":"sh/90ve1w7q","slide":1,"name":"文本框 23","text":"沿着一次请求，看清框架能力在哪里接管业务","textPreview":"沿着一次请求，看清框架能力在哪里接管业务","textChars":20,"textLines":1,"bbox":[618.67,421.45,366,46.19]}
+{"kind":"shape","id":"sh/mx4v6hoz","slide":1,"name":"直接连接符 26","bbox":[523.91,344.35,158.03,148.43]}
+{"kind":"textbox","id":"sh/p4bu5s76","slide":1,"name":"文本框 27","text":"第 02 讲 · KH.WMS 后端培训","textPreview":"第 02 讲 · KH.WMS 后端培训","textChars":20,"textLines":1,"bbox":[655.47,379.44,243.72,42.01]}
+{"kind":"shape","id":"sh/uxgjq907","slide":1,"name":"弧形 29","bbox":[442.62,153.5,203.57,203.57]}
+{"kind":"shape","id":"sh/vyp0je1s","slide":1,"name":"直接连接符 30","bbox":[582.06,311.12,158.03,148.43]}
+{"kind":"shape","id":"sh/h072l4jy","slide":1,"name":"椭圆 32","bbox":[511.66,142.67,28.09,28.09]}
+{"kind":"image","id":"im/5kjidwzq","slide":1,"name":"图片 16","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/y90nupkv","slide":1,"text":"建议时长：2 分钟\n讲师提示：说明本讲的核心问题：为什么 Controller 里只有几行代码，请求却经历了许多层。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\03-请求链路事务异常TraceIdAOP.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\05-请求管道统一响应异常TraceId日志.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/hwbqtkby","slide":2,"title":"范围","textShapes":14}
+{"kind":"textbox","id":"sh/b29kza94","slide":2,"name":"文本框 3","text":"范围","textPreview":"范围","textChars":2,"textLines":1,"bbox":[192.88,96.54,213.26,116.33]}
+{"kind":"textbox","id":"sh/a10jqpsj","slide":2,"name":"文本框 4","text":"SCOPE","textPreview":"SCOPE","textChars":5,"textLines":1,"bbox":[404.72,156.07,172.2,42.01]}
+{"kind":"shape","id":"sh/x4r21kru","slide":2,"name":"弧形 5","bbox":[-563.93,54.29,203.57,203.57]}
+{"kind":"shape","id":"sh/w3i1sfa9","slide":2,"name":"椭圆 6","bbox":[-564.65,84.41,28.09,28.09]}
+{"kind":"textbox","id":"sh/q5wjelsz","slide":2,"name":"矩形: 圆角 8","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[363.35,263.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/ove9o7yd","slide":2,"name":"文本框 9","text":"请求管道与中间件顺序","textPreview":"请求管道与中间件顺序","textChars":10,"textLines":1,"bbox":[431.66,261.48,650,42.01]}
+{"kind":"textbox","id":"sh/9wnqhczy","slide":2,"name":"文本框 10","text":"能画出请求到数据库的主线","textPreview":"能画出请求到数据库的主线","textChars":12,"textLines":1,"bbox":[431.66,298.71,453.84,24.23]}
+{"kind":"textbox","id":"sh/nu58f2hs","slide":2,"name":"矩形: 圆角 12","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[445.6,358.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/xk7qlczu","slide":2,"name":"文本框 14","text":"DI 代理与 AOP 拦截器","textPreview":"DI 代理与 AOP 拦截器","textChars":14,"textLines":1,"bbox":[513.91,356.48,620,42.01]}
+{"kind":"textbox","id":"sh/ahwrqhgj","slide":2,"name":"文本框 15","text":"知道 AOP 不生效时检查代理条件","textPreview":"知道 AOP 不生效时检查代理条件","textChars":17,"textLines":1,"bbox":[513.91,393.71,453.84,24.23]}
+{"kind":"textbox","id":"sh/cnupgny5","slide":2,"name":"矩形: 圆角 17","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[506.79,466.45,59.73,59.73]}
+{"kind":"textbox","id":"sh/65kfmpor","slide":2,"name":"文本框 22","text":"事务边界与回滚语义","textPreview":"事务边界与回滚语义","textChars":9,"textLines":1,"bbox":[575.1,464.4,580,42.01]}
+{"kind":"textbox","id":"sh/gbmxszmt","slide":2,"name":"文本框 24","text":"区分返回失败和抛异常的回滚语义","textPreview":"区分返回失败和抛异常的回滚语义","textChars":15,"textLines":1,"bbox":[575.1,501.62,453.84,24.23]}
+{"kind":"textbox","id":"sh/fadgzu58","slide":2,"name":"矩形: 圆角 25","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[603.17,572.63,59.73,59.73]}
+{"kind":"textbox","id":"sh/p0vy54na","slide":2,"name":"文本框 27","text":"异常、TraceId 与 JSON 契约","textPreview":"异常、TraceId 与 JSON 契约","textChars":20,"textLines":1,"bbox":[671.47,570.58,520,42.01]}
+{"kind":"textbox","id":"sh/4zmxwzmp","slide":2,"name":"文本框 28","text":"用 TraceId 关联响应和日志","textPreview":"用 TraceId 关联响应和日志","textChars":17,"textLines":1,"bbox":[671.47,607.81,453.84,24.23]}
+{"kind":"image","id":"im/xo7il4ne","slide":2,"name":"图片 30","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/hwbqtkby","slide":2,"text":"建议时长：5 分钟\n讲师提示：强调本讲不要求记中间件的每一行配置，而是要建立正确的排查顺序。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\03-请求链路事务异常TraceIdAOP.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\03-依赖注入自动注册与AOP代理.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\05-请求管道统一响应异常TraceId日志.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/ofy9wn61","slide":3,"title":"03","textShapes":11}
+{"kind":"textbox","id":"sh/03ix43e5","slide":3,"name":"矩形: 圆角 21","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[54.02,51.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/6d0fytg3","slide":3,"name":"文本框 23","text":"一次请求经过的层远多于 Controller","textPreview":"一次请求经过的层远多于 Controller","textChars":22,"textLines":1,"bbox":[127.66,60.39,940,42.01]}
+{"kind":"textbox","id":"sh/tgry9ofu","slide":3,"name":"文本框 26","text":"KH.WMS","textPreview":"KH.WMS","textChars":6,"textLines":1,"bbox":[772.14,60.39,453.84,42.01]}
+{"kind":"shape","id":"sh/z2d07mh4","slide":3,"name":"直接连接符 31","bbox":[127.66,104.59,1098.32,0]}
+{"kind":"shape","id":"sh/cza94vmx","slide":3,"name":"直接连接符 1","bbox":[54.02,661.92,1171.96,0]}
+{"kind":"shape","id":"sh/obq90bml","slide":3,"name":"椭圆 5","bbox":[172.36,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/3ah8rqlg","slide":3,"name":"椭圆 4","bbox":[194.7,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/n2l4fq98","slide":3,"name":"文本框 9","text":"License、认证和授权可能提前终止请求","textPreview":"License、认证和授权可能提前终止请求","textChars":21,"textLines":1,"bbox":[123.91,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/m1c3mlsn","slide":3,"name":"文本框 10","text":"判断 01","textPreview":"判断 01","textChars":5,"textLines":1,"bbox":[105.84,358.92,266.91,42.01]}
+{"kind":"shape","id":"sh/ja54na9g","slide":3,"name":"椭圆 17","bbox":[439.27,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/i9w3u58v","slide":3,"name":"椭圆 18","bbox":[461.62,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/e10f2twf","slide":3,"name":"文本框 19","text":"AOP 决定日志、缓存、校验与性能步骤","textPreview":"AOP 决定日志、缓存、校验与性能步骤","textChars":19,"textLines":1,"bbox":[390.83,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/f29gbyx0","slide":3,"name":"文本框 20","text":"判断 02","textPreview":"判断 02","textChars":5,"textLines":1,"bbox":[372.75,358.92,266.91,42.01]}
+{"kind":"shape","id":"sh/re9g7yxo","slide":3,"name":"椭圆 24","bbox":[706.18,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/sfix03y9","slide":3,"name":"椭圆 25","bbox":[728.53,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/a9kfadwn","slide":3,"name":"文本框 27","text":"事务边界决定写入能否一致回滚","textPreview":"事务边界决定写入能否一致回滚","textChars":14,"textLines":1,"bbox":[657.74,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/batgjixs","slide":3,"name":"文本框 28","text":"判断 03","textPreview":"判断 03","textChars":5,"textLines":1,"bbox":[639.66,358.92,266.91,42.01]}
+{"kind":"shape","id":"sh/k3m1g7yp","slide":3,"name":"椭圆 30","bbox":[973.09,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/y14jehgj","slide":3,"name":"椭圆 32","bbox":[995.44,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/x0vi5czy","slide":3,"name":"文本框 33","text":"全局异常出口决定响应格式和 TraceId","textPreview":"全局异常出口决定响应格式和 TraceId","textChars":21,"textLines":1,"bbox":[924.65,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/czmhc7id","slide":3,"name":"文本框 34","text":"判断 04","textPreview":"判断 04","textChars":5,"textLines":1,"bbox":[906.57,358.92,266.91,42.01]}
+{"kind":"image","id":"im/gfy9wfil","slide":3,"name":"图形 35","bbox":[757.47,240.58,43.73,43.73]}
+{"kind":"image","id":"im/hg7apkj6","slide":3,"name":"图形 36","bbox":[490.56,239.02,43.73,43.73]}
+{"kind":"image","id":"im/e90b690z","slide":3,"name":"图形 37","bbox":[1024.38,238.98,43.73,43.73]}
+{"kind":"image","id":"im/fa9szehk","slide":3,"name":"图形 38","bbox":[223.87,239.16,43.73,43.73]}
+{"kind":"notes","id":"nt/ofy9wn61","slide":3,"text":"建议时长：4 分钟\n讲师提示：用“Swagger 能看到但返回 402”说明接口发现和请求执行不是同一件事。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\03-请求链路事务异常TraceIdAOP.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\13-鉴权缓存用户上下文与运行期开关.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/jyx0ra1s","slide":4,"title":"04","textShapes":11}
+{"kind":"textbox","id":"sh/3ytsrmpw","slide":4,"name":"矩形: 圆角 21","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[54.02,51.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/1wbapc7q","slide":4,"name":"文本框 23","text":"请求管道顺序决定谁先拦截","textPreview":"请求管道顺序决定谁先拦截","textChars":12,"textLines":1,"bbox":[127.66,60.39,940,42.01]}
+{"kind":"textbox","id":"sh/et0reh8f","slide":4,"name":"文本框 26","text":"KH.WMS","textPreview":"KH.WMS","textChars":6,"textLines":1,"bbox":[772.14,60.39,453.84,42.01]}
+{"kind":"shape","id":"sh/knex8j21","slide":4,"name":"直接连接符 31","bbox":[127.66,104.59,1098.32,0]}
+{"kind":"shape","id":"sh/1cj2d8b6","slide":4,"name":"直接连接符 1","bbox":[54.02,661.92,1171.96,0]}
+{"kind":"shape","id":"sh/doj29oba","slide":4,"name":"椭圆 5","bbox":[172.36,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/ql8jytsj","slide":4,"name":"椭圆 4","bbox":[194.7,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/kbm987y5","slide":4,"name":"文本框 9","text":"TraceId / 日志：建立关联标识并记录请求上下文。\nLicense：许可无效时可直接返回 402。","textPreview":"TraceId / 日志：建立关联标识并记录请求上下文。 | License：许可无效时可直接返回 402。","textChars":52,"textLines":2,"bbox":[123.91,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/5cva1cfq","slide":4,"name":"文本框 10","text":"TraceId / 日志 / License","textPreview":"TraceId / 日志 / License","textChars":22,"textLines":1,"bbox":[105.84,358.92,266.91,73.6]}
+{"kind":"shape","id":"sh/g36tgryd","slide":4,"name":"椭圆 17","bbox":[439.27,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/h4fa9wfy","slide":4,"name":"椭圆 18","bbox":[461.62,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/p0batw72","slide":4,"name":"文本框 19","text":"路由：把 URL 匹配到具体 Endpoint。","textPreview":"路由：把 URL 匹配到具体 Endpoint。","textChars":24,"textLines":1,"bbox":[390.83,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/oz29krqh","slide":4,"name":"文本框 20","text":"路由","textPreview":"路由","textChars":2,"textLines":1,"bbox":[372.75,358.92,266.91,42.01]}
+{"kind":"shape","id":"sh/gv29g7q5","slide":4,"name":"椭圆 24","bbox":[706.18,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/fu9sn2p0","slide":4,"name":"椭圆 25","bbox":[728.53,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/tsrqlc7u","slide":4,"name":"文本框 27","text":"认证 / 授权：解析用户身份并判断访问权限。\nController / Filter：模型绑定、事务 Filter 和 Action 执行。","textPreview":"认证 / 授权：解析用户身份并判断访问权限。 | Controller / Filter：模型绑定、事务 Filter 和 Action 执行。","textChars":70,"textLines":2,"bbox":[657.74,409.78,230.75,182.4]}
+{"kind":"textbox","id":"sh/sri9s7q9","slide":4,"name":"文本框 28","text":"认证 / 授权","textPreview":"认证 / 授权","textChars":7,"textLines":1,"bbox":[639.66,358.92,266.91,42.01]}
+{"kind":"shape","id":"sh/jm5gze1g","slide":4,"name":"椭圆 30","bbox":[973.09,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/5ony1oj6","slide":4,"name":"椭圆 32","bbox":[995.44,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/axcf29kj","slide":4,"name":"文本框 33","text":"统一异常出口：把未处理异常转换为 ApiResponse。","textPreview":"统一异常出口：把未处理异常转换为 ApiResponse。","textChars":29,"textLines":1,"bbox":[924.65,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/vy5gbe14","slide":4,"name":"文本框 34","text":"统一异常出口","textPreview":"统一异常出口","textChars":6,"textLines":1,"bbox":[906.57,358.92,266.91,42.01]}
+{"kind":"image","id":"im/fqps72l4","slide":4,"name":"图形 35","bbox":[757.47,240.58,43.73,43.73]}
+{"kind":"image","id":"im/upwbex4j","slide":4,"name":"图形 36","bbox":[490.56,239.02,43.73,43.73]}
+{"kind":"image","id":"im/xw3ax8nq","slide":4,"name":"图形 37","bbox":[1024.38,238.98,43.73,43.73]}
+{"kind":"image","id":"im/wvut43ml","slide":4,"name":"图形 38","bbox":[223.87,239.16,43.73,43.73]}
+{"kind":"notes","id":"nt/jyx0ra1s","slide":4,"text":"建议时长：6 分钟\n讲师提示：顺序只讲逻辑层次，具体 Program.cs 以仓库实现为准。强调短路发生点。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\02-后端基础配置与启动机制.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\03-请求链路事务异常TraceIdAOP.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\05-请求管道统一响应异常TraceId日志.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/i107q5of","slide":5,"title":"05","textShapes":11}
+{"kind":"textbox","id":"sh/fe94nm1w","slide":5,"name":"矩形: 圆角 21","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[54.02,51.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/pkr6tgjy","slide":5,"name":"文本框 23","text":"AOP 能否生效，先看对象是不是代理","textPreview":"AOP 能否生效，先看对象是不是代理","textChars":18,"textLines":1,"bbox":[127.66,60.39,940,42.01]}
+{"kind":"textbox","id":"sh/2h0ni107","slide":5,"name":"文本框 26","text":"KH.WMS","textPreview":"KH.WMS","textChars":6,"textLines":1,"bbox":[772.14,60.39,453.84,42.01]}
+{"kind":"shape","id":"sh/wve1knyx","slide":5,"name":"直接连接符 31","bbox":[127.66,104.59,1098.32,0]}
+{"kind":"shape","id":"sh/dgbulwnm","slide":5,"name":"直接连接符 1","bbox":[54.02,661.92,1171.96,0]}
+{"kind":"shape","id":"sh/yhkbe1o7","slide":5,"name":"矩形: 圆角 4","bbox":[95.88,167.8,534.78,210.86]}
+{"kind":"textbox","id":"sh/032tgr6d","slide":5,"name":"矩形: 圆角 6","text":"会经过代理","textPreview":"会经过代理","textChars":5,"textLines":1,"bbox":[113.75,186.22,283.59,60]}
+{"kind":"textbox","id":"sh/n6dcr65o","slide":5,"name":"文本框 7","text":"• Service 标记 RegisteredService\n• 显式注册到业务接口","textPreview":"• Service 标记 RegisteredService | • 显式注册到业务接口","textChars":42,"textLines":2,"bbox":[113.75,260.89,500.92,93.53]}
+{"kind":"shape","id":"sh/w32dkbuh","slide":5,"name":"矩形: 圆角 9","bbox":[95.88,397.08,534.78,210.86]}
+{"kind":"textbox","id":"sh/x4vedgvm","slide":5,"name":"矩形: 圆角 10","text":"继续检查","textPreview":"继续检查","textChars":4,"textLines":1,"bbox":[113.75,415.5,283.59,60]}
+{"kind":"textbox","id":"sh/ahkvi1cb","slide":5,"name":"文本框 11","text":"• 通过接口构造注入\n• 目标方法由外部代理对象调用","textPreview":"• 通过接口构造注入 | • 目标方法由外部代理对象调用","textChars":26,"textLines":2,"bbox":[113.75,490.16,500.92,93.53]}
+{"kind":"shape","id":"sh/v2twb6dw","slide":5,"name":"矩形: 圆角 12","bbox":[648.53,167.8,534.78,210.86]}
+{"kind":"textbox","id":"sh/k7mxovud","slide":5,"name":"矩形: 圆角 13","text":"常见绕过方式","textPreview":"常见绕过方式","textChars":6,"textLines":1,"bbox":[666.4,186.22,283.59,60]}
+{"kind":"textbox","id":"sh/58vehgvy","slide":5,"name":"文本框 14","text":"• 业务代码手动 new Service\n• 直接注入实现类但仅生成接口代理","textPreview":"• 业务代码手动 new Service | • 直接注入实现类但仅生成接口代理","textChars":38,"textLines":2,"bbox":[666.4,260.89,500.92,93.53]}
+{"kind":"shape","id":"sh/i54fmlc7","slide":5,"name":"矩形: 圆角 15","bbox":[648.53,397.08,534.78,210.86]}
+{"kind":"textbox","id":"sh/j6dwfqds","slide":5,"name":"矩形: 圆角 16","text":"继续检查","textPreview":"继续检查","textChars":4,"textLines":1,"bbox":[666.4,415.5,283.59,60]}
+{"kind":"textbox","id":"sh/sb6xsvu9","slide":5,"name":"文本框 17","text":"• WithoutInterceptor = true\n• 对象内部自调用同一个代理方法","textPreview":"• WithoutInterceptor = true | • 对象内部自调用同一个代理方法","textChars":44,"textLines":2,"bbox":[666.4,490.16,500.92,93.53]}
+{"kind":"notes","id":"nt/i107q5of","slide":5,"text":"建议时长：6 分钟\n讲师提示：让听众记住 AOP 排错四问：谁创建、注入什么类型、是否关闭拦截器、调用是否穿过代理。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\03-依赖注入自动注册与AOP代理.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\05-服务自动注册RegisteredService.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/x8f69ofe","slide":6,"title":"06","textShapes":12}
+{"kind":"textbox","id":"sh/qpwnet0b","slide":6,"name":"矩形: 圆角 21","text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[54.02,51.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/0fy5k3id","slide":6,"name":"文本框 23","text":"五类拦截器各管一件横切能力","textPreview":"五类拦截器各管一件横切能力","textChars":13,"textLines":1,"bbox":[127.66,60.39,940,42.01]}
+{"kind":"textbox","id":"sh/zep4byhs","slide":6,"name":"文本框 26","text":"KH.WMS","textPreview":"KH.WMS","textChars":6,"textLines":1,"bbox":[772.14,60.39,453.84,42.01]}
+{"kind":"shape","id":"sh/50bqpcj2","slide":6,"name":"直接连接符 31","bbox":[127.66,104.59,1098.32,0]}
+{"kind":"shape","id":"sh/yhg7epsj","slide":6,"name":"直接连接符 1","bbox":[54.02,661.92,1171.96,0]}
+{"kind":"textbox","id":"sh/7m98ru9g","slide":6,"name":"文本框 6","text":"• LoggingInterceptor\n• CachingInterceptor\n• ConfigValidationInterceptor\n• ExceptionInterceptor\n• PerformanceInterceptor","textPreview":"• LoggingInterceptor | • CachingInterceptor | • ConfigValidationInterceptor | • ExceptionInterceptor | • PerformanceInterceptor","textChars":119,"textLines":5,"bbox":[107.78,350.07,311.91,153.6]}
+{"kind":"textbox","id":"sh/oryp8fah","slide":6,"name":"文本框 7","text":"拦截器","textPreview":"拦截器","textChars":3,"textLines":1,"bbox":[134.38,293.42,258.7,42.01]}
+{"kind":"textbox","id":"sh/pc76hkr2","slide":6,"name":"矩形: 圆角 8","text":"PART ONE","textPreview":"PART ONE","textChars":8,"textLines":1,"bbox":[157.02,524.26,213.42,57.14]}
+{"kind":"textbox","id":"sh/u1kbu1ov","slide":6,"name":"文本框 12","text":"• 记录方法调用与必要上下文 • 读取、写入或清理方法结果缓存 • 执行业务方法前的配置化校验 • 记录代理层异常并保持异常语义","textPreview":"• 记录方法调用与必要上下文 • 读取、写入或清理方法结果缓存 • 执行业务方法前的配置化校验 • 记录代理层异常并保持异常语义","textChars":64,"textLines":1,"bbox":[485.24,350.07,311.91,151.69]}
+{"kind":"textbox","id":"sh/5svutgni","slide":6,"name":"文本框 13","text":"主要职责","textPreview":"主要职责","textChars":4,"textLines":1,"bbox":[511.84,293.42,258.7,42.01]}
+{"kind":"textbox","id":"sh/47mt0b6x","slide":6,"name":"矩形: 圆角 14","text":"PART TWO","textPreview":"PART TWO","textChars":8,"textLines":1,"bbox":[534.48,524.26,213.42,57.14]}
+{"kind":"textbox","id":"sh/j6dcr65c","slide":6,"name":"文本框 15","text":"• LogInterceptor 特性或统一策略\n• Cache 特性\n• ConfigValidation 特性\n• 代理调用异常\n• 代理方法调用","textPreview":"• LogInterceptor 特性或统一策略 | • Cache 特性 | • ConfigValidation 特性 | • 代理调用异常 | • 代理方法调用","textChars":75,"textLines":5,"bbox":[853.56,350.07,311.91,153.6]}
+{"kind":"textbox","id":"sh/i54bylor","slide":6,"name":"文本框 16","text":"常见触发点","textPreview":"常见触发点","textChars":5,"textLines":1,"bbox":[880.16,293.42,258.7,42.01]}
+{"kind":"textbox","id":"sh/twfux0ne","slide":6,"name":"矩形: 圆角 17","text":"PART THREE","textPreview":"PART THREE","textChars":10,"textLines":1,"bbox":[902.8,524.26,213.42,57.14]}
+{"kind":"image","id":"im/7mtoj2po","slide":6,"name":"图形 9","bbox":[218.32,181.37,90.83,90.83]}
+{"kind":"image","id":"im/kji587qd","slide":6,"name":"图形 10","bbox":[592.25,183.03,92.47,92.47]}
+{"kind":"image","id":"im/lkr6hc7i","slide":6,"name":"图形 11","bbox":[972.73,179.53,92.47,92.47]}
+{"kind":"notes","id":"nt/x8f69ofe","slide":6,"text":"建议时长：7 分钟\n讲师提示：特别说明：事务不是这组 Autofac AOP 拦截器，而是 MVC Filter 或 IUnitOfWork。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\04-AOP拦截器与特性使用.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\03-请求链路事务异常TraceIdAOP.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/gnmp4jqx","slide":7,"title":"07","textShapes":12}
+{"kind":"textbox","id":"sh/4fm1wb6p","slide":7,"name":"矩形: 圆角 21","text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[54.02,51.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/q143ylov","slide":7,"name":"文本框 23","text":"事务有三种常见边界，按场景选择","textPreview":"事务有三种常见边界，按场景选择","textChars":15,"textLines":1,"bbox":[127.66,60.39,940,42.01]}
+{"kind":"textbox","id":"sh/d4f2t0nm","slide":7,"name":"文本框 26","text":"KH.WMS","textPreview":"KH.WMS","textChars":6,"textLines":1,"bbox":[772.14,60.39,453.84,42.01]}
+{"kind":"shape","id":"sh/nyh4jupo","slide":7,"name":"直接连接符 31","bbox":[127.66,104.59,1098.32,0]}
+{"kind":"shape","id":"sh/cb2tkvap","slide":7,"name":"直接连接符 1","bbox":[54.02,661.92,1171.96,0]}
+{"kind":"textbox","id":"sh/l0vuh0rm","slide":7,"name":"文本框 6","text":"• CRUD 内置事务\n• IUnitOfWork\n• Transaction Filter","textPreview":"• CRUD 内置事务 | • IUnitOfWork | • Transaction Filter","textChars":46,"textLines":3,"bbox":[107.78,350.07,311.91,151.69]}
+{"kind":"textbox","id":"sh/eh0ba1sr","slide":7,"name":"文本框 7","text":"边界","textPreview":"边界","textChars":2,"textLines":1,"bbox":[134.38,293.42,258.7,42.01]}
+{"kind":"textbox","id":"sh/fi9c369c","slide":7,"name":"矩形: 圆角 8","text":"PART ONE","textPreview":"PART ONE","textChars":8,"textLines":1,"bbox":[157.02,524.26,213.42,57.14]}
+{"kind":"textbox","id":"sh/cbq1sv25","slide":7,"name":"文本框 12","text":"• 单实体新增、更新、删除\n• Service 内多次写入、跨 Contract 流程\n• Controller / Action 级整体事务","textPreview":"• 单实体新增、更新、删除 | • Service 内多次写入、跨 Contract 流程 | • Controller / Action 级整体事务","textChars":71,"textLines":3,"bbox":[485.24,350.07,311.91,151.69]}
+{"kind":"textbox","id":"sh/n6x0fqlo","slide":7,"name":"文本框 13","text":"适用场景","textPreview":"适用场景","textChars":4,"textLines":1,"bbox":[511.84,293.42,258.7,42.01]}
+{"kind":"textbox","id":"sh/25ojml43","slide":7,"name":"矩形: 圆角 14","text":"PART TWO","textPreview":"PART TWO","textChars":8,"textLines":1,"bbox":[534.48,524.26,213.42,57.14]}
+{"kind":"textbox","id":"sh/p8fih03e","slide":7,"name":"文本框 15","text":"• 优先使用基类能力，不手动再开事务\n• 调用方控制 begin / commit / rollback\n• 避免内部 Service 再启动同类事务","textPreview":"• 优先使用基类能力，不手动再开事务 | • 调用方控制 begin / commit / rollback | • 避免内部 Service 再启动同类事务","textChars":75,"textLines":3,"bbox":[853.56,350.07,311.91,151.69]}
+{"kind":"textbox","id":"sh/o761ov2t","slide":7,"name":"文本框 16","text":"关键提醒","textPreview":"关键提醒","textChars":4,"textLines":1,"bbox":[880.16,293.42,258.7,42.01]}
+{"kind":"textbox","id":"sh/f2d0b6lc","slide":7,"name":"矩形: 圆角 17","text":"PART THREE","textPreview":"PART THREE","textChars":10,"textLines":1,"bbox":[902.8,524.26,213.42,57.14]}
+{"kind":"image","id":"im/xc72tk3a","slide":7,"name":"图形 9","bbox":[218.32,181.37,90.83,90.83]}
+{"kind":"image","id":"im/ydg3m54v","slide":7,"name":"图形 10","bbox":[592.25,183.03,92.47,92.47]}
+{"kind":"image","id":"im/je9kvalg","slide":7,"name":"图形 11","bbox":[972.73,179.53,92.47,92.47]}
+{"kind":"notes","id":"nt/gnmp4jqx","slide":7,"text":"建议时长：6 分钟\n讲师提示：此处先建立选择框架，第 5 讲会结合跨模块流程深入事务责任。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\06-数据访问仓储与事务边界.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\03-请求链路事务异常TraceIdAOP.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/fu1gfa1s","slide":8,"title":"08","textShapes":11}
+{"kind":"textbox","id":"sh/7u5w765k","slide":8,"name":"矩形: 圆角 21","text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[54.02,51.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/5sne5wne","slide":8,"name":"文本框 23","text":"返回失败不等于抛异常，回滚语义不同","textPreview":"返回失败不等于抛异常，回滚语义不同","textChars":17,"textLines":1,"bbox":[127.66,60.39,940,42.01]}
+{"kind":"textbox","id":"sh/i5wva1o3","slide":8,"name":"文本框 26","text":"KH.WMS","textPreview":"KH.WMS","textChars":6,"textLines":1,"bbox":[772.14,60.39,453.84,42.01]}
+{"kind":"shape","id":"sh/8bat47ml","slide":8,"name":"直接连接符 31","bbox":[127.66,104.59,1098.32,0]}
+{"kind":"shape","id":"sh/18byd4zy","slide":8,"name":"直接连接符 1","bbox":[54.02,661.92,1171.96,0]}
+{"kind":"shape","id":"sh/6h0fypgb","slide":8,"name":"矩形: 圆角 4","bbox":[95.88,167.8,534.78,210.86]}
+{"kind":"textbox","id":"sh/sjix0zy1","slide":8,"name":"矩形: 圆角 6","text":"返回失败结果","textPreview":"返回失败结果","textChars":6,"textLines":1,"bbox":[113.75,186.22,283.59,60]}
+{"kind":"textbox","id":"sh/je9g3ahk","slide":8,"name":"文本框 7","text":"• 业务方法正常结束\n• 外层自动事务可能继续提交","textPreview":"• 业务方法正常结束 | • 外层自动事务可能继续提交","textChars":25,"textLines":2,"bbox":[113.75,260.89,500.92,93.53]}
+{"kind":"shape","id":"sh/o7ydoret","slide":8,"name":"矩形: 圆角 9","bbox":[95.88,397.08,534.78,210.86]}
+{"kind":"textbox","id":"sh/98rehwve","slide":8,"name":"矩形: 圆角 10","text":"继续检查","textPreview":"继续检查","textChars":4,"textLines":1,"bbox":[113.75,415.5,283.59,60]}
+{"kind":"textbox","id":"sh/m5gvmhwn","slide":8,"name":"文本框 11","text":"• 手动事务必须在返回前 rollback\n• 适合已明确处理完状态的业务失败","textPreview":"• 手动事务必须在返回前 rollback | • 适合已明确处理完状态的业务失败","textChars":39,"textLines":2,"bbox":[113.75,490.16,500.92,93.53]}
+{"kind":"shape","id":"sh/n6pwfmd8","slide":8,"name":"矩形: 圆角 12","bbox":[648.53,167.8,534.78,210.86]}
+{"kind":"textbox","id":"sh/0jydkreh","slide":8,"name":"矩形: 圆角 13","text":"抛出异常","textPreview":"抛出异常","textChars":4,"textLines":1,"bbox":[666.4,186.22,283.59,60]}
+{"kind":"textbox","id":"sh/1k7edwv2","slide":8,"name":"文本框 14","text":"• 异常沿调用栈向外传播\n• 事务 Filter / UnitOfWork 可感知并回滚","textPreview":"• 异常沿调用栈向外传播 | • 事务 Filter / UnitOfWork 可感知并回滚","textChars":44,"textLines":2,"bbox":[666.4,260.89,500.92,93.53]}
+{"kind":"shape","id":"sh/ehgvihwr","slide":8,"name":"矩形: 圆角 15","bbox":[648.53,397.08,534.78,210.86]}
+{"kind":"textbox","id":"sh/zipwbmdc","slide":8,"name":"矩形: 圆角 16","text":"继续检查","textPreview":"继续检查","textChars":4,"textLines":1,"bbox":[666.4,415.5,283.59,60]}
+{"kind":"textbox","id":"sh/kfixwbe1","slide":8,"name":"文本框 17","text":"• 全局异常出口转为 ApiResponse\n• CRUD 钩子失败更适合保留异常语义","textPreview":"• 全局异常出口转为 ApiResponse | • CRUD 钩子失败更适合保留异常语义","textChars":43,"textLines":2,"bbox":[666.4,490.16,500.92,93.53]}
+{"kind":"notes","id":"nt/fu1gfa1s","slide":8,"text":"建议时长：6 分钟\n讲师提示：用“校验失败早返回但前面已写库”举例，提醒流程接口尤其危险。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\05-请求管道统一响应异常TraceId日志.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\06-数据访问仓储与事务边界.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/udsvah03","slide":9,"title":"09","textShapes":9}
+{"kind":"textbox","id":"sh/76h0zup8","slide":9,"name":"矩形: 圆角 21","text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[54.02,51.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/hcji5o7a","slide":9,"name":"文本框 23","text":"统一响应让前端稳定处理成功与失败","textPreview":"统一响应让前端稳定处理成功与失败","textChars":16,"textLines":1,"bbox":[127.66,60.39,940,42.01]}
+{"kind":"textbox","id":"sh/u9sja98z","slide":9,"name":"文本框 26","text":"KH.WMS","textPreview":"KH.WMS","textChars":6,"textLines":1,"bbox":[772.14,60.39,453.84,42.01]}
+{"kind":"shape","id":"sh/onmxcv69","slide":9,"name":"直接连接符 31","bbox":[127.66,104.59,1098.32,0]}
+{"kind":"shape","id":"sh/1cfmhgne","slide":9,"name":"直接连接符 1","bbox":[54.02,661.92,1171.96,0]}
+{"kind":"textbox","id":"sh/mdonql4z","slide":9,"name":"矩形: 圆角 4","text":"public class ApiResponse<T>\n{\n    public bool Success { get; set; }\n    public string? Code { get; set; }\n    public string? Message { get; set; }\n    public T? Data { get; set; }\n    public string? TraceId { get; set; }\n}\n\n// 对外接口统一返回\nreturn ApiResponse.Ok(data);","textPreview":"public class ApiResponse<T> | { |     public bool Success { get; set; } |     public string? Code { get; set; } |     public string? Mess...","textChars":264,"textLines":11,"bbox":[101.75,181.33,280.92,417.33]}
+{"kind":"textbox","id":"sh/9gzml0nq","slide":9,"name":"矩形: 圆角 5","text":"统一契约的价值","textPreview":"统一契约的价值","textChars":7,"textLines":1,"bbox":[407.08,181.33,324.92,60]}
+{"kind":"shape","id":"sh/ofq5svm5","slide":9,"name":"文本框 6","bbox":[407.08,239.97,794.25,64.45]}
+{"kind":"textbox","id":"sh/bih4na5w","slide":9,"name":"矩形: 圆角 7","text":"关键检查","textPreview":"关键检查","textChars":4,"textLines":1,"bbox":[407.08,334.31,324.92,60]}
+{"kind":"textbox","id":"sh/ah8nu54b","slide":9,"name":"文本框 8","text":"• 前端固定读取 success / code / message / data\n• 异常响应也保留同一结构","textPreview":"• 前端固定读取 success / code / message / data | • 异常响应也保留同一结构","textChars":54,"textLines":2,"bbox":[407.08,392.94,794.25,67.2]}
+{"kind":"textbox","id":"sh/oza1gfyh","slide":9,"name":"矩形: 圆角 9","text":"继续追踪","textPreview":"继续追踪","textChars":4,"textLines":1,"bbox":[407.08,483.02,324.92,60]}
+{"kind":"textbox","id":"sh/p0ji9kf2","slide":9,"name":"文本框 10","text":"• traceId 提供排查入口\n• 避免裸返回匿名对象\n• Service 内流程可使用 ServiceResult","textPreview":"• traceId 提供排查入口 | • 避免裸返回匿名对象 | • Service 内流程可使用 ServiceResult","textChars":59,"textLines":3,"bbox":[407.08,541.65,794.25,96]}
+{"kind":"notes","id":"nt/udsvah03","slide":9,"text":"建议时长：5 分钟\n讲师提示：类型示意只呈现稳定字段语义，不要求成员背实现。强调外部 ApiResponse、内部 ServiceResult 的边界。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\05-请求管道统一响应异常TraceId日志.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\C-常见坑.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/m90b6t0r","slide":10,"title":"10","textShapes":11}
+{"kind":"textbox","id":"sh/bu5cnqd8","slide":10,"name":"矩形: 圆角 21","text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[54.02,51.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/lk7ut0va","slide":10,"name":"文本框 23","text":"未处理异常应该交给全局出口收敛","textPreview":"未处理异常应该交给全局出口收敛","textChars":15,"textLines":1,"bbox":[127.66,60.39,940,42.01]}
+{"kind":"textbox","id":"sh/yxgbilcj","slide":10,"name":"文本框 26","text":"KH.WMS","textPreview":"KH.WMS","textChars":6,"textLines":1,"bbox":[772.14,60.39,453.84,42.01]}
+{"kind":"shape","id":"sh/cva9k7a9","slide":10,"name":"直接连接符 31","bbox":[127.66,104.59,1098.32,0]}
+{"kind":"shape","id":"sh/xc3mho32","slide":10,"name":"直接连接符 1","bbox":[54.02,661.92,1171.96,0]}
+{"kind":"shape","id":"sh/l036l83y","slide":10,"name":"椭圆 5","bbox":[172.36,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/ydcnatkn","slide":10,"name":"椭圆 4","bbox":[194.7,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/s7yt4b21","slide":10,"name":"文本框 9","text":"业务方法抛异常：保留原始失败语义和调用栈。","textPreview":"业务方法抛异常：保留原始失败语义和调用栈。","textChars":21,"textLines":1,"bbox":[123.91,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/d87uxg3m","slide":10,"name":"文本框 10","text":"业务方法抛异常","textPreview":"业务方法抛异常","textChars":7,"textLines":1,"bbox":[105.84,358.92,266.91,42.01]}
+{"kind":"shape","id":"sh/ozitcv29","slide":10,"name":"椭圆 17","bbox":[439.27,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/p0ru503u","slide":10,"name":"椭圆 18","bbox":[461.62,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/xwnupgvy","slide":10,"name":"文本框 19","text":"事务执行回滚：Filter 或 UnitOfWork 清理写入状态。","textPreview":"事务执行回滚：Filter 或 UnitOfWork 清理写入状态。","textChars":34,"textLines":1,"bbox":[390.83,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/wvetgbud","slide":10,"name":"文本框 20","text":"事务执行回滚","textPreview":"事务执行回滚","textChars":6,"textLines":1,"bbox":[372.75,358.92,266.91,42.01]}
+{"kind":"shape","id":"sh/kjytkvup","slide":10,"name":"椭圆 24","bbox":[706.18,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/jypcrqd4","slide":10,"name":"椭圆 25","bbox":[728.53,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/1o3ahwvq","slide":10,"name":"文本框 27","text":"异常 Filter 接管：记录异常、映射错误信息。","textPreview":"异常 Filter 接管：记录异常、映射错误信息。","textChars":25,"textLines":1,"bbox":[657.74,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/0nut8rul","slide":10,"name":"文本框 28","text":"异常 Filter 接管","textPreview":"异常 Filter 接管","textChars":12,"textLines":1,"bbox":[639.66,358.92,266.91,42.01]}
+{"kind":"shape","id":"sh/ru18r2to","slide":10,"name":"椭圆 30","bbox":[973.09,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/dwjqtcbu","slide":10,"name":"椭圆 32","bbox":[995.44,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/exsrmhsf","slide":10,"name":"文本框 33","text":"返回 ApiResponse：带 code、message 和 traceId。","textPreview":"返回 ApiResponse：带 code、message 和 traceId。","textChars":40,"textLines":1,"bbox":[924.65,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/zyl8vmt0","slide":10,"name":"文本框 34","text":"返回 ApiResponse","textPreview":"返回 ApiResponse","textChars":14,"textLines":1,"bbox":[906.57,358.92,266.91,42.01]}
+{"kind":"image","id":"im/f61wvu94","slide":10,"name":"图形 35","bbox":[757.47,240.58,43.73,43.73]}
+{"kind":"image","id":"im/e5sfmpsj","slide":10,"name":"图形 36","bbox":[490.56,239.02,43.73,43.73]}
+{"kind":"image","id":"im/hczel0bq","slide":10,"name":"图形 37","bbox":[1024.38,238.98,43.73,43.73]}
+{"kind":"image","id":"im/wb6dcval","slide":10,"name":"图形 38","bbox":[223.87,239.16,43.73,43.73]}
+{"kind":"notes","id":"nt/m90b6t0r","slide":10,"text":"建议时长：5 分钟\n讲师提示：指出可预期业务失败可使用明确结果，但跨写操作早返回必须先处理事务。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\05-请求管道统一响应异常TraceId日志.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\03-请求链路事务异常TraceIdAOP.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/jetc3ut0","slide":11,"title":"11","textShapes":11}
+{"kind":"textbox","id":"sh/7650nq5s","slide":11,"name":"矩形: 圆角 21","text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[54.02,51.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/l43ilgn2","slide":11,"name":"文本框 23","text":"TraceId 把用户反馈、响应和日志串成证据链","textPreview":"TraceId 把用户反馈、响应和日志串成证据链","textChars":24,"textLines":1,"bbox":[127.66,60.39,940,42.01]}
+{"kind":"textbox","id":"sh/y1czalob","slide":11,"name":"文本框 26","text":"KH.WMS","textPreview":"KH.WMS","textChars":6,"textLines":1,"bbox":[772.14,60.39,453.84,42.01]}
+{"kind":"shape","id":"sh/o7axk7m9","slide":11,"name":"直接连接符 31","bbox":[127.66,104.59,1098.32,0]}
+{"kind":"shape","id":"sh/xcryxg7y","slide":11,"name":"直接连接符 1","bbox":[54.02,661.92,1171.96,0]}
+{"kind":"shape","id":"sh/98rytw72","slide":11,"name":"椭圆 5","bbox":[172.36,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/250zy18b","slide":11,"name":"椭圆 4","bbox":[194.7,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/ofqtgnyt","slide":11,"name":"文本框 9","text":"请求进入：创建或读取 TraceId。\n日志上下文：Serilog 记录同一关联标识。","textPreview":"请求进入：创建或读取 TraceId。 | 日志上下文：Serilog 记录同一关联标识。","textChars":43,"textLines":2,"bbox":[123.91,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/9gza9sze","slide":11,"name":"文本框 10","text":"请求进入 / 日志上下文","textPreview":"请求进入 / 日志上下文","textChars":12,"textLines":1,"bbox":[105.84,358.92,266.91,73.6]}
+{"kind":"shape","id":"sh/cn6t83y1","slide":11,"name":"椭圆 17","bbox":[439.27,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/dofa18z6","slide":11,"name":"椭圆 18","bbox":[461.62,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/tsnip0ny","slide":11,"name":"文本框 19","text":"异常 / 失败：全局出口保留 TraceId。","textPreview":"异常 / 失败：全局出口保留 TraceId。","textChars":23,"textLines":1,"bbox":[390.83,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/87ehgv6d","slide":11,"name":"文本框 20","text":"异常 / 失败","textPreview":"异常 / 失败","textChars":7,"textLines":1,"bbox":[372.75,358.92,266.91,42.01]}
+{"kind":"shape","id":"sh/k3uhcb6h","slide":11,"name":"椭圆 24","bbox":[706.18,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/j2lgjq5w","slide":11,"name":"椭圆 25","bbox":[728.53,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/p07ixkn6","slide":11,"name":"文本框 27","text":"前端响应：用户反馈时提供 TraceId。","textPreview":"前端响应：用户反馈时提供 TraceId。","textChars":21,"textLines":1,"bbox":[657.74,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/4zyhofml","slide":11,"name":"文本框 28","text":"前端响应","textPreview":"前端响应","textChars":4,"textLines":1,"bbox":[639.66,358.92,266.91,42.01]}
+{"kind":"shape","id":"sh/n61wbmlo","slide":11,"name":"椭圆 30","bbox":[973.09,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/98jedc3u","slide":11,"name":"椭圆 32","bbox":[995.44,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/eh8fex47","slide":11,"name":"文本框 33","text":"后端检索：按 TraceId 聚合请求、SQL 和异常。","textPreview":"后端检索：按 TraceId 聚合请求、SQL 和异常。","textChars":28,"textLines":1,"bbox":[924.65,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/z2hw72lc","slide":11,"name":"文本框 34","text":"后端检索","textPreview":"后端检索","textChars":4,"textLines":1,"bbox":[906.57,358.92,266.91,42.01]}
+{"kind":"image","id":"im/behkb294","slide":11,"name":"图形 35","bbox":[757.47,240.58,43.73,43.73]}
+{"kind":"image","id":"im/qd83ixsj","slide":11,"name":"图形 36","bbox":[490.56,239.02,43.73,43.73]}
+{"kind":"image","id":"im/tkf218bq","slide":11,"name":"图形 37","bbox":[1024.38,238.98,43.73,43.73]}
+{"kind":"image","id":"im/sj6l83a5","slide":11,"name":"图形 38","bbox":[223.87,239.16,43.73,43.73]}
+{"kind":"notes","id":"nt/jetc3ut0","slide":11,"text":"建议时长：5 分钟\n讲师提示：演示排障思路：不要只说“接口报错”，先拿到响应 traceId。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\05-请求管道统一响应异常TraceId日志.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\03-请求链路事务异常TraceIdAOP.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/8f2psfyx","slide":12,"title":"12","textShapes":12}
+{"kind":"textbox","id":"sh/fit436ho","slide":12,"name":"矩形: 圆角 21","text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[54.02,51.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/tgrm1wzy","slide":12,"name":"文本框 23","text":"JSON 契约异常先检查序列化边界","textPreview":"JSON 契约异常先检查序列化边界","textChars":17,"textLines":1,"bbox":[127.66,60.39,940,42.01]}
+{"kind":"textbox","id":"sh/6t0n6hg7","slide":12,"name":"文本框 26","text":"KH.WMS","textPreview":"KH.WMS","textChars":6,"textLines":1,"bbox":[772.14,60.39,453.84,42.01]}
+{"kind":"shape","id":"sh/wnetkjat","slide":12,"name":"直接连接符 31","bbox":[127.66,104.59,1098.32,0]}
+{"kind":"shape","id":"sh/1gbm9s3a","slide":12,"name":"直接连接符 1","bbox":[54.02,661.92,1171.96,0]}
+{"kind":"shape","id":"sh/0f2lgnmp","slide":12,"name":"椭圆 2","bbox":[113.75,321.46,73.61,73.61]}
+{"kind":"textbox","id":"sh/dcbm583y","slide":12,"name":"文本框 5","text":"• 字段是否按 camelCase 输出\n• null 字段是否按全局策略被忽略","textPreview":"• 字段是否按 camelCase 输出 | • null 字段是否按全局策略被忽略","textChars":40,"textLines":2,"bbox":[206.81,333.39,414.52,93.53]}
+{"kind":"textbox","id":"sh/sb2lcnmd","slide":12,"name":"文本框 6","text":"返回格式 · 1","textPreview":"返回格式 · 1","textChars":8,"textLines":1,"bbox":[206.81,293,383.02,42.01]}
+{"kind":"shape","id":"sh/a543mx4r","slide":12,"name":"椭圆 8","bbox":[113.75,489.07,73.61,73.61]}
+{"kind":"textbox","id":"sh/xw3q94ne","slide":12,"name":"文本框 10","text":"• 日期、枚举和 bool 转换是否符合约定\n• 中间件手写 JSON 是否仍返回 ApiResponse","textPreview":"• 日期、枚举和 bool 转换是否符合约定 | • 中间件手写 JSON 是否仍返回 ApiResponse","textChars":53,"textLines":2,"bbox":[206.81,501.01,414.52,93.53]}
+{"kind":"textbox","id":"sh/atc7epon","slide":12,"name":"文本框 11","text":"返回格式 · 2","textPreview":"返回格式 · 2","textChars":8,"textLines":1,"bbox":[206.81,460.62,383.02,42.01]}
+{"kind":"shape","id":"sh/orapcf6h","slide":12,"name":"椭圆 13","bbox":[668.41,321.46,73.61,73.61]}
+{"kind":"textbox","id":"sh/mps7a5or","slide":12,"name":"文本框 15","text":"• 请求体是否启用 EnableBuffering\n• extDataRaw 是否为合法 JSON 字符串","textPreview":"• 请求体是否启用 EnableBuffering | • extDataRaw 是否为合法 JSON 字符串","textChars":53,"textLines":2,"bbox":[761.48,333.39,414.52,93.53]}
+{"kind":"textbox","id":"sh/nq1o3a5w","slide":12,"name":"文本框 16","text":"请求解析 · 1","textPreview":"请求解析 · 1","textChars":8,"textLines":1,"bbox":[761.48,293,383.02,42.01]}
+{"kind":"shape","id":"sh/1oj61kn6","slide":12,"name":"椭圆 18","bbox":[668.41,489.07,73.61,73.61]}
+{"kind":"textbox","id":"sh/gj25cry9","slide":12,"name":"文本框 20","text":"• DTO 字段名与前端协议是否一致\n• 异常是否被全局 Filter 统一接管","textPreview":"• DTO 字段名与前端协议是否一致 | • 异常是否被全局 Filter 统一接管","textChars":40,"textLines":2,"bbox":[761.48,501.01,414.52,93.53]}
+{"kind":"textbox","id":"sh/uh0na1g3","slide":12,"name":"文本框 22","text":"请求解析 · 2","textPreview":"请求解析 · 2","textChars":8,"textLines":1,"bbox":[761.48,460.62,383.02,42.01]}
+{"kind":"shape","id":"sh/sfi58ryd","slide":12,"name":"矩形: 圆角 24","bbox":[113.75,160.27,1052.5,105.51]}
+{"kind":"textbox","id":"sh/mhcbe9sr","slide":12,"name":"文本框 33","text":"字段缺失、日期不对或 ExtData 失败，未必是业务查询没有数据。","textPreview":"字段缺失、日期不对或 ExtData 失败，未必是业务查询没有数据。","textChars":34,"textLines":1,"bbox":[142.96,179.94,994.09,64.45]}
+{"kind":"image","id":"im/gnelo7ux","slide":12,"name":"图形 3","bbox":[133.21,340.92,34.69,34.69]}
+{"kind":"image","id":"im/vm5kf2tc","slide":12,"name":"图形 28","bbox":[687.87,340.92,34.69,34.69]}
+{"kind":"image","id":"im/ulw3mxc7","slide":12,"name":"图形 29","bbox":[687.87,508.53,34.69,34.69]}
+{"kind":"image","id":"im/tk32dsbm","slide":12,"name":"图形 30","bbox":[134.21,509.35,34.69,34.69]}
+{"kind":"notes","id":"nt/8f2psfyx","slide":12,"text":"建议时长：5 分钟\n讲师提示：强调 JsonSetup 与 MVC 配置边界，手写中间件响应也要保持 content-type 和 camelCase。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\17-JSON序列化与HTTP契约约定.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\05-请求管道统一响应异常TraceId日志.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/hgzapcr6","slide":13,"title":"小测","textShapes":14}
+{"kind":"textbox","id":"sh/o3i5w3ad","slide":13,"name":"文本框 3","text":"小测","textPreview":"小测","textChars":2,"textLines":1,"bbox":[192.88,96.54,213.26,116.33]}
+{"kind":"textbox","id":"sh/p4r6p8by","slide":13,"name":"文本框 4","text":"QUIZ","textPreview":"QUIZ","textChars":4,"textLines":1,"bbox":[404.72,156.07,172.2,42.01]}
+{"kind":"shape","id":"sh/21gnuts7","slide":13,"name":"弧形 5","bbox":[-563.93,54.29,203.57,203.57]}
+{"kind":"shape","id":"sh/32ponyts","slide":13,"name":"椭圆 6","bbox":[-564.65,84.41,28.09,28.09]}
+{"kind":"textbox","id":"sh/1076lobm","slide":13,"name":"矩形: 圆角 8","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[363.35,263.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/hcfy9k3u","slide":13,"name":"文本框 9","text":"AOP 特性已经写上但不生效","textPreview":"AOP 特性已经写上但不生效","textChars":14,"textLines":1,"bbox":[431.66,261.48,453.84,42.01]}
+{"kind":"textbox","id":"sh/gb6x0zm9","slide":13,"name":"文本框 10","text":"优先检查哪四件事？","textPreview":"优先检查哪四件事？","textChars":9,"textLines":1,"bbox":[431.66,298.71,453.84,24.23]}
+{"kind":"textbox","id":"sh/u9ofyp43","slide":13,"name":"矩形: 圆角 12","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[445.6,358.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/876xwfmx","slide":13,"name":"文本框 14","text":"为什么事务不属于这组","textPreview":"为什么事务不属于这组","textChars":10,"textLines":1,"bbox":[513.91,356.48,453.84,42.01]}
+{"kind":"textbox","id":"sh/7mdg3als","slide":13,"name":"文本框 15","text":"Autofac 拦截器？","textPreview":"Autofac 拦截器？","textChars":12,"textLines":1,"bbox":[513.91,393.71,453.84,24.23]}
+{"kind":"textbox","id":"sh/lkvy103m","slide":13,"name":"矩形: 圆角 17","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[506.79,466.45,59.73,59.73]}
+{"kind":"textbox","id":"sh/bmhgfatc","slide":13,"name":"文本框 22","text":"业务方法返回失败结果时","textPreview":"业务方法返回失败结果时","textChars":11,"textLines":1,"bbox":[575.1,464.4,453.84,42.01]}
+{"kind":"textbox","id":"sh/p0zyd0b6","slide":13,"name":"文本框 24","text":"事务为什么可能仍然提交？","textPreview":"事务为什么可能仍然提交？","textChars":12,"textLines":1,"bbox":[575.1,501.62,453.84,24.23]}
+{"kind":"textbox","id":"sh/2xof2lcv","slide":13,"name":"矩形: 圆角 25","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[603.17,572.63,59.73,59.73]}
+{"kind":"textbox","id":"sh/8vahgzu5","slide":13,"name":"文本框 27","text":"如何用 TraceId","textPreview":"如何用 TraceId","textChars":11,"textLines":1,"bbox":[671.47,570.58,453.84,42.01]}
+{"kind":"textbox","id":"sh/9wjyp4bq","slide":13,"name":"文本框 28","text":"完成一次接口异常排查？","textPreview":"完成一次接口异常排查？","textChars":11,"textLines":1,"bbox":[671.47,607.81,453.84,24.23]}
+{"kind":"image","id":"im/wbylczmp","slide":13,"name":"图片 30","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/hgzapcr6","slide":13,"text":"建议时长：8 分钟（含答疑）\n讲师提示：小测回答后，要求成员用一句话复述完整请求链。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\03-依赖注入自动注册与AOP代理.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\04-AOP拦截器与特性使用.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\05-请求管道统一响应异常TraceId日志.md\n小测参考答案：1. 检查容器创建、接口注入、WithoutInterceptor、是否绕过代理或内部自调用。2. 项目事务通过 MVC Filter 或 IUnitOfWork 管理。3. 普通返回不产生异常，自动事务可能认为方法成功结束。4. 从响应拿 TraceId，在日志、SQL 和异常记录中按同一标识检索。\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}

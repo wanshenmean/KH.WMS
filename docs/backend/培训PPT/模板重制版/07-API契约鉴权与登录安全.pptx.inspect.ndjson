@@ -1,0 +1,258 @@
+{"kind":"deck","id":"pr/ushqhx","name":"Deck"}
+{"kind":"layout","layoutId":"/ppt/slideMasters/slideMaster1.xml","name":"","type":"master","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout1.xml","name":"标题幻灯片","type":"title","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"subtitle","type":"subtitle","textPreview":"单击此处编辑母版副标题样式"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout2.xml","name":"标题和内容","type":"obj","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"2","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout3.xml","name":"节标题","type":"secHead","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout4.xml","name":"两栏内容","type":"twoObj","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"2","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"3","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout5.xml","name":"比较","type":"twoTxTwoObj","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式"},{"name":"3","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式"},{"name":"5","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout6.xml","name":"仅标题","type":"titleOnly","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout7.xml","name":"空白","type":"blank","placeholders":[{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout8.xml","name":"内容与标题","type":"objTx","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"2","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout9.xml","name":"图片与标题","type":"picTx","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"picture","type":"picture"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout10.xml","name":"标题和竖排文字","type":"vertTx","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout11.xml","name":"竖排标题与文本","type":"vertTitleAndTx","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"slide","id":"sl/y90nupkv","slide":1,"title":"鉴权与安全","textShapes":4}
+{"kind":"textbox","id":"sh/1cvuxc7e","slide":1,"name":"文本框 19","text":"鉴权与安全","textPreview":"鉴权与安全","textChars":5,"textLines":1,"bbox":[635,275,600,102]}
+{"kind":"textbox","id":"sh/0bmd476t","slide":1,"name":"文本框 20","text":"API 契约","textPreview":"API 契约","textChars":6,"textLines":1,"bbox":[635,178,600,102]}
+{"kind":"textbox","id":"sh/90ve1w7q","slide":1,"name":"文本框 23","text":"先判断接口在哪一层被拒绝，再处理身份、许可和密码安全","textPreview":"先判断接口在哪一层被拒绝，再处理身份、许可和密码安全","textChars":26,"textLines":1,"bbox":[618.67,421.45,366,46.19]}
+{"kind":"shape","id":"sh/mx4v6hoz","slide":1,"name":"直接连接符 26","bbox":[523.91,344.35,158.03,148.43]}
+{"kind":"textbox","id":"sh/p4bu5s76","slide":1,"name":"文本框 27","text":"第 07 讲 · KH.WMS 后端培训","textPreview":"第 07 讲 · KH.WMS 后端培训","textChars":20,"textLines":1,"bbox":[655.47,379.44,243.72,42.01]}
+{"kind":"shape","id":"sh/uxgjq907","slide":1,"name":"弧形 29","bbox":[442.62,153.5,203.57,203.57]}
+{"kind":"shape","id":"sh/vyp0je1s","slide":1,"name":"直接连接符 30","bbox":[582.06,311.12,158.03,148.43]}
+{"kind":"shape","id":"sh/h072l4jy","slide":1,"name":"椭圆 32","bbox":[511.66,142.67,28.09,28.09]}
+{"kind":"image","id":"im/5kjidwzq","slide":1,"name":"图片 16","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/y90nupkv","slide":1,"text":"建议时长：2 分钟\n讲师提示：开场强调：Swagger、认证、授权、License 和登录加密解决的是不同问题。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\16-Swagger与OpenAPI接口文档底座.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\13-鉴权缓存用户上下文与运行期开关.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\22-登录加密与密码哈希.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/hwbqtkby","slide":2,"title":"范围","textShapes":14}
+{"kind":"textbox","id":"sh/b29kza94","slide":2,"name":"文本框 3","text":"范围","textPreview":"范围","textChars":2,"textLines":1,"bbox":[192.88,96.54,213.26,116.33]}
+{"kind":"textbox","id":"sh/a10jqpsj","slide":2,"name":"文本框 4","text":"SCOPE","textPreview":"SCOPE","textChars":5,"textLines":1,"bbox":[404.72,156.07,172.2,42.01]}
+{"kind":"shape","id":"sh/x4r21kru","slide":2,"name":"弧形 5","bbox":[-563.93,54.29,203.57,203.57]}
+{"kind":"shape","id":"sh/w3i1sfa9","slide":2,"name":"椭圆 6","bbox":[-564.65,84.41,28.09,28.09]}
+{"kind":"textbox","id":"sh/q5wjelsz","slide":2,"name":"矩形: 圆角 8","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[363.35,263.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/ove9o7yd","slide":2,"name":"文本框 9","text":"Swagger / OpenAPI 发现","textPreview":"Swagger / OpenAPI 发现","textChars":20,"textLines":1,"bbox":[431.66,261.48,650,42.01]}
+{"kind":"textbox","id":"sh/9wnqhczy","slide":2,"name":"文本框 10","text":"能定位接口发现和授权问题","textPreview":"能定位接口发现和授权问题","textChars":12,"textLines":1,"bbox":[431.66,298.71,453.84,24.23]}
+{"kind":"textbox","id":"sh/nu58f2hs","slide":2,"name":"矩形: 圆角 12","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[445.6,358.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/xk7qlczu","slide":2,"name":"文本框 14","text":"HTTP 状态码与 JSON 契约","textPreview":"HTTP 状态码与 JSON 契约","textChars":17,"textLines":1,"bbox":[513.91,356.48,620,42.01]}
+{"kind":"textbox","id":"sh/ahwrqhgj","slide":2,"name":"文本框 15","text":"按状态码判断失败层级","textPreview":"按状态码判断失败层级","textChars":10,"textLines":1,"bbox":[513.91,393.71,453.84,24.23]}
+{"kind":"textbox","id":"sh/cnupgny5","slide":2,"name":"矩形: 圆角 17","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[506.79,466.45,59.73,59.73]}
+{"kind":"textbox","id":"sh/65kfmpor","slide":2,"name":"文本框 22","text":"认证、授权与用户上下文","textPreview":"认证、授权与用户上下文","textChars":11,"textLines":1,"bbox":[575.1,464.4,580,42.01]}
+{"kind":"textbox","id":"sh/gbmxszmt","slide":2,"name":"文本框 24","text":"正确使用 AllowAnonymous 和用户上下文","textPreview":"正确使用 AllowAnonymous 和用户上下文","textChars":26,"textLines":1,"bbox":[575.1,501.62,453.84,24.23]}
+{"kind":"textbox","id":"sh/fadgzu58","slide":2,"name":"矩形: 圆角 25","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[603.17,572.63,59.73,59.73]}
+{"kind":"textbox","id":"sh/p0vy54na","slide":2,"name":"文本框 27","text":"License、RSA 与密码哈希","textPreview":"License、RSA 与密码哈希","textChars":17,"textLines":1,"bbox":[671.47,570.58,520,42.01]}
+{"kind":"textbox","id":"sh/4zmxwzmp","slide":2,"name":"文本框 28","text":"理解 License、RSA、哈希的边界","textPreview":"理解 License、RSA、哈希的边界","textChars":20,"textLines":1,"bbox":[671.47,607.81,453.84,24.23]}
+{"kind":"image","id":"im/xo7il4ne","slide":2,"name":"图片 30","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/hwbqtkby","slide":2,"text":"建议时长：5 分钟\n讲师提示：说明本讲不是安全规范全集，而是项目当前接入链路和业务开发边界。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\16-Swagger与OpenAPI接口文档底座.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\17-JSON序列化与HTTP契约约定.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\19-License授权许可与运行时拦截.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\22-登录加密与密码哈希.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/ofy9wn61","slide":3,"title":"03","textShapes":11}
+{"kind":"textbox","id":"sh/03ix43e5","slide":3,"name":"矩形: 圆角 21","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[54.02,51.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/6d0fytg3","slide":3,"name":"文本框 23","text":"Swagger 证明接口被发现，不代表请求一定能通过","textPreview":"Swagger 证明接口被发现，不代表请求一定能通过","textChars":26,"textLines":1,"bbox":[127.66,60.39,940,42.01]}
+{"kind":"textbox","id":"sh/tgry9ofu","slide":3,"name":"文本框 26","text":"KH.WMS","textPreview":"KH.WMS","textChars":6,"textLines":1,"bbox":[772.14,60.39,453.84,42.01]}
+{"kind":"shape","id":"sh/z2d07mh4","slide":3,"name":"直接连接符 31","bbox":[127.66,104.59,1098.32,0]}
+{"kind":"shape","id":"sh/cza94vmx","slide":3,"name":"直接连接符 1","bbox":[54.02,661.92,1171.96,0]}
+{"kind":"shape","id":"sh/obq90bml","slide":3,"name":"椭圆 5","bbox":[172.36,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/3ah8rqlg","slide":3,"name":"椭圆 4","bbox":[194.7,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/n2l4fq98","slide":3,"name":"文本框 9","text":"看不到接口：优先查程序集发现","textPreview":"看不到接口：优先查程序集发现","textChars":14,"textLines":1,"bbox":[123.91,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/m1c3mlsn","slide":3,"name":"文本框 10","text":"判断 01","textPreview":"判断 01","textChars":5,"textLines":1,"bbox":[105.84,358.92,266.91,42.01]}
+{"kind":"shape","id":"sh/ja54na9g","slide":3,"name":"椭圆 17","bbox":[439.27,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/i9w3u58v","slide":3,"name":"椭圆 18","bbox":[461.62,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/e10f2twf","slide":3,"name":"文本框 19","text":"401：身份未通过或 Token 无效","textPreview":"401：身份未通过或 Token 无效","textChars":19,"textLines":1,"bbox":[390.83,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/f29gbyx0","slide":3,"name":"文本框 20","text":"判断 02","textPreview":"判断 02","textChars":5,"textLines":1,"bbox":[372.75,358.92,266.91,42.01]}
+{"kind":"shape","id":"sh/re9g7yxo","slide":3,"name":"椭圆 24","bbox":[706.18,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/sfix03y9","slide":3,"name":"椭圆 25","bbox":[728.53,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/a9kfadwn","slide":3,"name":"文本框 27","text":"402：License 许可拦截","textPreview":"402：License 许可拦截","textChars":16,"textLines":1,"bbox":[657.74,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/batgjixs","slide":3,"name":"文本框 28","text":"判断 03","textPreview":"判断 03","textChars":5,"textLines":1,"bbox":[639.66,358.92,266.91,42.01]}
+{"kind":"shape","id":"sh/k3m1g7yp","slide":3,"name":"椭圆 30","bbox":[973.09,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/y14jehgj","slide":3,"name":"椭圆 32","bbox":[995.44,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/x0vi5czy","slide":3,"name":"文本框 33","text":"403：已认证但没有访问权限","textPreview":"403：已认证但没有访问权限","textChars":14,"textLines":1,"bbox":[924.65,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/czmhc7id","slide":3,"name":"文本框 34","text":"判断 04","textPreview":"判断 04","textChars":5,"textLines":1,"bbox":[906.57,358.92,266.91,42.01]}
+{"kind":"image","id":"im/gfy9wfil","slide":3,"name":"图形 35","bbox":[757.47,240.58,43.73,43.73]}
+{"kind":"image","id":"im/hg7apkj6","slide":3,"name":"图形 36","bbox":[490.56,239.02,43.73,43.73]}
+{"kind":"image","id":"im/e90b690z","slide":3,"name":"图形 37","bbox":[1024.38,238.98,43.73,43.73]}
+{"kind":"image","id":"im/fa9szehk","slide":3,"name":"图形 38","bbox":[223.87,239.16,43.73,43.73]}
+{"kind":"notes","id":"nt/ofy9wn61","slide":3,"text":"建议时长：4 分钟\n讲师提示：让听众先学会用状态码定位层次，不要把所有失败都归结为 Swagger。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\16-Swagger与OpenAPI接口文档底座.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\19-License授权许可与运行时拦截.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\C-常见坑.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/jyx0ra1s","slide":4,"title":"04","textShapes":11}
+{"kind":"textbox","id":"sh/3ytsrmpw","slide":4,"name":"矩形: 圆角 21","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[54.02,51.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/1wbapc7q","slide":4,"name":"文本框 23","text":"接口出现在 Swagger 需要四个基础条件","textPreview":"接口出现在 Swagger 需要四个基础条件","textChars":22,"textLines":1,"bbox":[127.66,60.39,940,42.01]}
+{"kind":"textbox","id":"sh/et0reh8f","slide":4,"name":"文本框 26","text":"KH.WMS","textPreview":"KH.WMS","textChars":6,"textLines":1,"bbox":[772.14,60.39,453.84,42.01]}
+{"kind":"shape","id":"sh/knex8j21","slide":4,"name":"直接连接符 31","bbox":[127.66,104.59,1098.32,0]}
+{"kind":"shape","id":"sh/1cj2d8b6","slide":4,"name":"直接连接符 1","bbox":[54.02,661.92,1171.96,0]}
+{"kind":"shape","id":"sh/0ba143al","slide":4,"name":"椭圆 2","bbox":[113.75,321.46,73.61,73.61]}
+{"kind":"textbox","id":"sh/doj29oba","slide":4,"name":"文本框 5","text":"• public 类并继承 ControllerBase 或项目 CRUD 基类","textPreview":"• public 类并继承 ControllerBase 或项目 CRUD 基类","textChars":40,"textLines":1,"bbox":[206.81,333.39,414.52,93.53]}
+{"kind":"textbox","id":"sh/sna103ap","slide":4,"name":"文本框 6","text":"Controller 本身 · 1","textPreview":"Controller 本身 · 1","textChars":17,"textLines":1,"bbox":[206.81,293,383.02,42.01]}
+{"kind":"shape","id":"sh/ih8ju9sn","slide":4,"name":"椭圆 8","bbox":[113.75,489.07,73.61,73.61]}
+{"kind":"textbox","id":"sh/5cva1cfq","slide":4,"name":"文本框 10","text":"• Action 可被 MVC / ApiExplorer 识别\n• 构造函数依赖能被 DI 容器解析","textPreview":"• Action 可被 MVC / ApiExplorer 识别 | • 构造函数依赖能被 DI 容器解析","textChars":51,"textLines":2,"bbox":[206.81,501.01,414.52,93.53]}
+{"kind":"textbox","id":"sh/i94r6xgz","slide":4,"name":"文本框 11","text":"Controller 本身 · 2","textPreview":"Controller 本身 · 2","textChars":17,"textLines":1,"bbox":[206.81,460.62,383.02,42.01]}
+{"kind":"shape","id":"sh/w72947yt","slide":4,"name":"椭圆 13","bbox":[668.41,321.46,73.61,73.61]}
+{"kind":"textbox","id":"sh/a5kr2xg3","slide":4,"name":"文本框 15","text":"• 模块项目被 KH.WMS.Server 引用\n• 程序集名称包含 .Modules.","textPreview":"• 模块项目被 KH.WMS.Server 引用 | • 程序集名称包含 .Modules.","textChars":44,"textLines":2,"bbox":[761.48,333.39,414.52,93.53]}
+{"kind":"textbox","id":"sh/v6tsv2xo","slide":4,"name":"文本框 16","text":"模块发现 · 1","textPreview":"模块发现 · 1","textChars":8,"textLines":1,"bbox":[761.48,293,383.02,42.01]}
+{"kind":"shape","id":"sh/h4fa9wfy","slide":4,"name":"椭圆 18","bbox":[668.41,489.07,73.61,73.61]}
+{"kind":"textbox","id":"sh/oz29krqh","slide":4,"name":"文本框 20","text":"• ApplicationPartManager 加入模块程序集\n• 编译输出包含最新模块 DLL","textPreview":"• ApplicationPartManager 加入模块程序集 | • 编译输出包含最新模块 DLL","textChars":49,"textLines":2,"bbox":[761.48,501.01,414.52,93.53]}
+{"kind":"textbox","id":"sh/2xkrih8b","slide":4,"name":"文本框 22","text":"模块发现 · 2","textPreview":"模块发现 · 2","textChars":8,"textLines":1,"bbox":[761.48,460.62,383.02,42.01]}
+{"kind":"shape","id":"sh/gv29g7q5","slide":4,"name":"矩形: 圆角 24","bbox":[113.75,160.27,1052.5,105.51]}
+{"kind":"shape","id":"sh/axcf29kj","slide":4,"name":"文本框 33","bbox":[142.96,179.94,994.09,64.45]}
+{"kind":"image","id":"im/grytg7mp","slide":4,"name":"图形 3","bbox":[133.21,340.92,34.69,34.69]}
+{"kind":"image","id":"im/fqps72l4","slide":4,"name":"图形 28","bbox":[687.87,340.92,34.69,34.69]}
+{"kind":"image","id":"im/upwbex4j","slide":4,"name":"图形 29","bbox":[687.87,508.53,34.69,34.69]}
+{"kind":"image","id":"im/xw3ax8nq","slide":4,"name":"图形 30","bbox":[134.21,509.35,34.69,34.69]}
+{"kind":"notes","id":"nt/jyx0ra1s","slide":4,"text":"建议时长：5 分钟\n讲师提示：Swagger 页面打不开和页面打开但缺接口是两类问题，排查入口不同。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\16-Swagger与OpenAPI接口文档底座.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\01-启动入口与程序集扫描.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/i107q5of","slide":5,"title":"05","textShapes":12}
+{"kind":"textbox","id":"sh/fe94nm1w","slide":5,"name":"矩形: 圆角 21","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[54.02,51.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/pkr6tgjy","slide":5,"name":"文本框 23","text":"HTTP 状态码先判断失败发生在哪一层","textPreview":"HTTP 状态码先判断失败发生在哪一层","textChars":19,"textLines":1,"bbox":[127.66,60.39,940,42.01]}
+{"kind":"textbox","id":"sh/2h0ni107","slide":5,"name":"文本框 26","text":"KH.WMS","textPreview":"KH.WMS","textChars":6,"textLines":1,"bbox":[772.14,60.39,453.84,42.01]}
+{"kind":"shape","id":"sh/wve1knyx","slide":5,"name":"直接连接符 31","bbox":[127.66,104.59,1098.32,0]}
+{"kind":"shape","id":"sh/dgbulwnm","slide":5,"name":"直接连接符 1","bbox":[54.02,661.92,1171.96,0]}
+{"kind":"textbox","id":"sh/032tgr6d","slide":5,"name":"文本框 6","text":"• 401\n• 402\n• 403\n• 429\n• 500","textPreview":"• 401 | • 402 | • 403 | • 429 | • 500","textChars":29,"textLines":5,"bbox":[107.78,350.07,311.91,153.6]}
+{"kind":"textbox","id":"sh/n6dcr65o","slide":5,"name":"文本框 7","text":"状态","textPreview":"状态","textChars":2,"textLines":1,"bbox":[134.38,293.42,258.7,42.01]}
+{"kind":"textbox","id":"sh/m5kbi1oj","slide":5,"name":"矩形: 圆角 8","text":"PART ONE","textPreview":"PART ONE","textChars":8,"textLines":1,"bbox":[157.02,524.26,213.42,57.14]}
+{"kind":"textbox","id":"sh/v2twb6dw","slide":5,"name":"文本框 12","text":"• 未认证、Token 无效或登录状态失效\n• License 无效、过期或机器码不匹配\n• 身份有效但权限不足\n• 限流中间件拒绝请求\n• 未处理异常或基础设施错误","textPreview":"• 未认证、Token 无效或登录状态失效 | • License 无效、过期或机器码不匹配 | • 身份有效但权限不足 | • 限流中间件拒绝请求 | • 未处理异常或基础设施错误","textChars":83,"textLines":5,"bbox":[485.24,350.07,311.91,153.6]}
+{"kind":"textbox","id":"sh/k7mxovud","slide":5,"name":"文本框 13","text":"通常表示","textPreview":"通常表示","textChars":4,"textLines":1,"bbox":[511.84,293.42,258.7,42.01]}
+{"kind":"textbox","id":"sh/58vehgvy","slide":5,"name":"矩形: 圆角 14","text":"PART TWO","textPreview":"PART TWO","textChars":8,"textLines":1,"bbox":[534.48,524.26,213.42,57.14]}
+{"kind":"textbox","id":"sh/i54fmlc7","slide":5,"name":"文本框 15","text":"• 认证配置、Authorization 头、Token 刷新 • License:Enabled、文件、机器码、有效期 • 角色、权限、授权策略和资源范围 • 是否启用、key 维度、算法和阈值","textPreview":"• 认证配置、Authorization 头、Token 刷新 • License:Enabled、文件、机器码、有效期 • 角色、权限、授权策略和资源范围 • 是否启用、key 维度、算法和阈值","textChars":98,"textLines":1,"bbox":[853.56,350.07,311.91,151.69]}
+{"kind":"textbox","id":"sh/j6dwfqds","slide":5,"name":"文本框 16","text":"优先排查","textPreview":"优先排查","textChars":4,"textLines":1,"bbox":[880.16,293.42,258.7,42.01]}
+{"kind":"textbox","id":"sh/sb6xsvu9","slide":5,"name":"矩形: 圆角 17","text":"PART THREE","textPreview":"PART THREE","textChars":10,"textLines":1,"bbox":[902.8,524.26,213.42,57.14]}
+{"kind":"image","id":"im/id4ze58b","slide":5,"name":"图形 9","bbox":[218.32,181.37,90.83,90.83]}
+{"kind":"image","id":"im/t4fid4ry","slide":5,"name":"图形 10","bbox":[592.25,183.03,92.47,92.47]}
+{"kind":"image","id":"im/sj61kzqd","slide":5,"name":"图形 11","bbox":[972.73,179.53,92.47,92.47]}
+{"kind":"notes","id":"nt/i107q5of","slide":5,"text":"建议时长：6 分钟\n讲师提示：提醒当前限流默认未启用；429 只有在实际启用并命中时才成立。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\13-鉴权缓存用户上下文与运行期开关.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\19-License授权许可与运行时拦截.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\20-限流RateLimit底座.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/x8f69ofe","slide":6,"title":"06","textShapes":11}
+{"kind":"textbox","id":"sh/qpwnet0b","slide":6,"name":"矩形: 圆角 21","text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[54.02,51.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/0fy5k3id","slide":6,"name":"文本框 23","text":"ApiResponse 与 camelCase 是前后端共同契约","textPreview":"ApiResponse 与 camelCase 是前后端共同契约","textChars":32,"textLines":1,"bbox":[127.66,60.39,940,42.01]}
+{"kind":"textbox","id":"sh/zep4byhs","slide":6,"name":"文本框 26","text":"KH.WMS","textPreview":"KH.WMS","textChars":6,"textLines":1,"bbox":[772.14,60.39,453.84,42.01]}
+{"kind":"shape","id":"sh/50bqpcj2","slide":6,"name":"直接连接符 31","bbox":[127.66,104.59,1098.32,0]}
+{"kind":"shape","id":"sh/yhg7epsj","slide":6,"name":"直接连接符 1","bbox":[54.02,661.92,1171.96,0]}
+{"kind":"shape","id":"sh/98rqt4r6","slide":6,"name":"矩形: 圆角 4","bbox":[95.88,167.8,534.78,210.86]}
+{"kind":"textbox","id":"sh/7m98ru9g","slide":6,"name":"矩形: 圆角 6","text":"后端应保证","textPreview":"后端应保证","textChars":5,"textLines":1,"bbox":[113.75,186.22,283.59,60]}
+{"kind":"textbox","id":"sh/oryp8fah","slide":6,"name":"文本框 7","text":"• 外部接口统一 ApiResponse\n• 属性按 camelCase 输出","textPreview":"• 外部接口统一 ApiResponse | • 属性按 camelCase 输出","textChars":39,"textLines":2,"bbox":[113.75,260.89,500.92,93.53]}
+{"kind":"shape","id":"sh/h4bupgn6","slide":6,"name":"矩形: 圆角 9","bbox":[95.88,397.08,534.78,210.86]}
+{"kind":"textbox","id":"sh/w32twb6l","slide":6,"name":"矩形: 圆角 10","text":"继续检查","textPreview":"继续检查","textChars":4,"textLines":1,"bbox":[113.75,415.5,283.59,60]}
+{"kind":"textbox","id":"sh/v2tcn650","slide":6,"name":"文本框 11","text":"• 日期、枚举、bool 按全局约定\n• 异常和中间件响应仍保持同一结构","textPreview":"• 日期、枚举、bool 按全局约定 | • 异常和中间件响应仍保持同一结构","textChars":36,"textLines":2,"bbox":[113.75,490.16,500.92,93.53]}
+{"kind":"shape","id":"sh/u1kbu1ov","slide":6,"name":"矩形: 圆角 12","bbox":[648.53,167.8,534.78,210.86]}
+{"kind":"textbox","id":"sh/5svutgni","slide":6,"name":"矩形: 圆角 13","text":"前端可依赖","textPreview":"前端可依赖","textChars":5,"textLines":1,"bbox":[666.4,186.22,283.59,60]}
+{"kind":"textbox","id":"sh/47mt0b6x","slide":6,"name":"文本框 14","text":"• 固定读取 success、code、message、data\n• 失败响应仍能取得 traceId","textPreview":"• 固定读取 success、code、message、data | • 失败响应仍能取得 traceId","textChars":51,"textLines":2,"bbox":[666.4,260.89,500.92,93.53]}
+{"kind":"shape","id":"sh/j6dcr65c","slide":6,"name":"矩形: 圆角 15","bbox":[648.53,397.08,534.78,210.86]}
+{"kind":"textbox","id":"sh/i54bylor","slide":6,"name":"矩形: 圆角 16","text":"继续检查","textPreview":"继续检查","textChars":4,"textLines":1,"bbox":[666.4,415.5,283.59,60]}
+{"kind":"textbox","id":"sh/twfux0ne","slide":6,"name":"文本框 17","text":"• 不猜测 PascalCase / camelCase 混用\n• 按约定传递 extDataRaw 字符串","textPreview":"• 不猜测 PascalCase / camelCase 混用 | • 按约定传递 extDataRaw 字符串","textChars":54,"textLines":2,"bbox":[666.4,490.16,500.92,93.53]}
+{"kind":"notes","id":"nt/x8f69ofe","slide":6,"text":"建议时长：5 分钟\n讲师提示：null 字段被忽略时不要误判为后端没查到；先确认全局序列化设置。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\17-JSON序列化与HTTP契约约定.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\05-请求管道统一响应异常TraceId日志.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/gnmp4jqx","slide":7,"title":"07","textShapes":11}
+{"kind":"textbox","id":"sh/4fm1wb6p","slide":7,"name":"矩形: 圆角 21","text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[54.02,51.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/q143ylov","slide":7,"name":"文本框 23","text":"认证负责你是谁，授权负责你能做什么","textPreview":"认证负责你是谁，授权负责你能做什么","textChars":17,"textLines":1,"bbox":[127.66,60.39,940,42.01]}
+{"kind":"textbox","id":"sh/d4f2t0nm","slide":7,"name":"文本框 26","text":"KH.WMS","textPreview":"KH.WMS","textChars":6,"textLines":1,"bbox":[772.14,60.39,453.84,42.01]}
+{"kind":"shape","id":"sh/nyh4jupo","slide":7,"name":"直接连接符 31","bbox":[127.66,104.59,1098.32,0]}
+{"kind":"shape","id":"sh/cb2tkvap","slide":7,"name":"直接连接符 1","bbox":[54.02,661.92,1171.96,0]}
+{"kind":"shape","id":"sh/zedcfa9g","slide":7,"name":"矩形: 圆角 4","bbox":[95.88,167.8,534.78,210.86]}
+{"kind":"textbox","id":"sh/l0vuh0rm","slide":7,"name":"矩形: 圆角 6","text":"Authentication","textPreview":"Authentication","textChars":14,"textLines":1,"bbox":[113.75,186.22,283.59,60]}
+{"kind":"textbox","id":"sh/eh0ba1sr","slide":7,"name":"文本框 7","text":"• 解析 JWT 或其他凭证\n• 建立 ClaimsPrincipal","textPreview":"• 解析 JWT 或其他凭证 | • 建立 ClaimsPrincipal","textChars":35,"textLines":2,"bbox":[113.75,260.89,500.92,93.53]}
+{"kind":"shape","id":"sh/baxkjqlk","slide":7,"name":"矩形: 圆角 9","bbox":[95.88,397.08,534.78,210.86]}
+{"kind":"textbox","id":"sh/a9ojq5kz","slide":7,"name":"矩形: 圆角 10","text":"继续检查","textPreview":"继续检查","textChars":4,"textLines":1,"bbox":[113.75,415.5,283.59,60]}
+{"kind":"textbox","id":"sh/xcz2l03q","slide":7,"name":"文本框 11","text":"• 确定当前用户身份\n• 凭证失败通常返回 401","textPreview":"• 确定当前用户身份 | • 凭证失败通常返回 401","textChars":25,"textLines":2,"bbox":[113.75,490.16,500.92,93.53]}
+{"kind":"shape","id":"sh/cbq1sv25","slide":7,"name":"矩形: 圆角 12","bbox":[648.53,167.8,534.78,210.86]}
+{"kind":"textbox","id":"sh/n6x0fqlo","slide":7,"name":"矩形: 圆角 13","text":"Authorization","textPreview":"Authorization","textChars":13,"textLines":1,"bbox":[666.4,186.22,283.59,60]}
+{"kind":"textbox","id":"sh/25ojml43","slide":7,"name":"文本框 14","text":"• 读取角色、权限或策略\n• 判断当前身份是否可访问资源","textPreview":"• 读取角色、权限或策略 | • 判断当前身份是否可访问资源","textChars":28,"textLines":2,"bbox":[666.4,260.89,500.92,93.53]}
+{"kind":"shape","id":"sh/p8fih03e","slide":7,"name":"矩形: 圆角 15","bbox":[648.53,397.08,534.78,210.86]}
+{"kind":"textbox","id":"sh/o761ov2t","slide":7,"name":"矩形: 圆角 16","text":"继续检查","textPreview":"继续检查","textChars":4,"textLines":1,"bbox":[666.4,415.5,283.59,60]}
+{"kind":"textbox","id":"sh/f2d0b6lc","slide":7,"name":"文本框 17","text":"• 身份存在但权限不足返回 403\n• 不能用 Swagger 授权按钮绕过","textPreview":"• 身份存在但权限不足返回 403 | • 不能用 Swagger 授权按钮绕过","textChars":38,"textLines":2,"bbox":[666.4,490.16,500.92,93.53]}
+{"kind":"notes","id":"nt/gnmp4jqx","slide":7,"text":"建议时长：5 分钟\n讲师提示：Swagger 中输入 Token 只是模拟客户端携带凭证，不会改变后端权限。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\13-鉴权缓存用户上下文与运行期开关.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\16-Swagger与OpenAPI接口文档底座.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/fu1gfa1s","slide":8,"title":"08","textShapes":9}
+{"kind":"textbox","id":"sh/7u5w765k","slide":8,"name":"矩形: 圆角 21","text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[54.02,51.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/5sne5wne","slide":8,"name":"文本框 23","text":"匿名接口与用户上下文都要显式使用","textPreview":"匿名接口与用户上下文都要显式使用","textChars":16,"textLines":1,"bbox":[127.66,60.39,940,42.01]}
+{"kind":"textbox","id":"sh/i5wva1o3","slide":8,"name":"文本框 26","text":"KH.WMS","textPreview":"KH.WMS","textChars":6,"textLines":1,"bbox":[772.14,60.39,453.84,42.01]}
+{"kind":"shape","id":"sh/8bat47ml","slide":8,"name":"直接连接符 31","bbox":[127.66,104.59,1098.32,0]}
+{"kind":"shape","id":"sh/18byd4zy","slide":8,"name":"直接连接符 1","bbox":[54.02,661.92,1171.96,0]}
+{"kind":"textbox","id":"sh/6h0fypgb","slide":8,"name":"矩形: 圆角 4","text":"[HttpGet(\"public-key\"), AllowAnonymous]\npublic ApiResponse GetPublicKey()\n{\n    return ApiResponse.Ok(\n        _rsaCryptoService.GetPublicKey());\n}\n\n// 普通业务服务通过 IUserContext 获取用户\nvar userId = _userContext.UserId;\nvar userName = _userContext.UserName;","textPreview":"[HttpGet(\"public-key\"), AllowAnonymous] | public ApiResponse GetPublicKey() | { |     return ApiResponse.Ok( |         _rsaCryptoService....","textChars":250,"textLines":10,"bbox":[101.75,181.33,280.92,417.33]}
+{"kind":"textbox","id":"sh/tkby9kzm","slide":8,"name":"矩形: 圆角 5","text":"边界提醒","textPreview":"边界提醒","textChars":4,"textLines":1,"bbox":[407.08,181.33,324.92,60]}
+{"kind":"shape","id":"sh/sjix0zy1","slide":8,"name":"文本框 6","bbox":[407.08,239.97,794.25,64.45]}
+{"kind":"textbox","id":"sh/je9g3ahk","slide":8,"name":"矩形: 圆角 7","text":"关键检查","textPreview":"关键检查","textChars":4,"textLines":1,"bbox":[407.08,334.31,324.92,60]}
+{"kind":"textbox","id":"sh/id0fu50z","slide":8,"name":"文本框 8","text":"• 只给真正公开的接口 AllowAnonymous\n• 业务 Service 不直接解析 HttpContext","textPreview":"• 只给真正公开的接口 AllowAnonymous | • 业务 Service 不直接解析 HttpContext","textChars":57,"textLines":2,"bbox":[407.08,392.94,794.25,67.2]}
+{"kind":"textbox","id":"sh/o7ydoret","slide":8,"name":"矩形: 圆角 9","text":"继续追踪","textPreview":"继续追踪","textChars":4,"textLines":1,"bbox":[407.08,483.02,324.92,60]}
+{"kind":"textbox","id":"sh/98rehwve","slide":8,"name":"文本框 10","text":"• 后台任务可能没有当前用户\n• 用户为空时审计逻辑必须有系统语义","textPreview":"• 后台任务可能没有当前用户 | • 用户为空时审计逻辑必须有系统语义","textChars":33,"textLines":2,"bbox":[407.08,541.65,794.25,67.2]}
+{"kind":"notes","id":"nt/fu1gfa1s","slide":8,"text":"建议时长：6 分钟\n讲师提示：公钥接口需要匿名访问，但普通业务接口不能为调试方便随意加入匿名名单。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\13-鉴权缓存用户上下文与运行期开关.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\22-登录加密与密码哈希.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/udsvah03","slide":9,"title":"09","textShapes":11}
+{"kind":"textbox","id":"sh/76h0zup8","slide":9,"name":"矩形: 圆角 21","text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[54.02,51.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/hcji5o7a","slide":9,"name":"文本框 23","text":"402 是 License 拦截，不是用户权限不足","textPreview":"402 是 License 拦截，不是用户权限不足","textChars":25,"textLines":1,"bbox":[127.66,60.39,940,42.01]}
+{"kind":"textbox","id":"sh/u9sja98z","slide":9,"name":"文本框 26","text":"KH.WMS","textPreview":"KH.WMS","textChars":6,"textLines":1,"bbox":[772.14,60.39,453.84,42.01]}
+{"kind":"shape","id":"sh/onmxcv69","slide":9,"name":"直接连接符 31","bbox":[127.66,104.59,1098.32,0]}
+{"kind":"shape","id":"sh/1cfmhgne","slide":9,"name":"直接连接符 1","bbox":[54.02,661.92,1171.96,0]}
+{"kind":"shape","id":"sh/9gzml0nq","slide":9,"name":"椭圆 5","bbox":[172.36,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/mdonql4z","slide":9,"name":"椭圆 4","bbox":[194.7,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/oza1gfyh","slide":9,"name":"文本框 9","text":"确认 License:Enabled 开关","textPreview":"确认 License:Enabled 开关","textChars":21,"textLines":1,"bbox":[123.91,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/p0ji9kf2","slide":9,"name":"文本框 10","text":"判断 01","textPreview":"判断 01","textChars":5,"textLines":1,"bbox":[105.84,358.92,266.91,42.01]}
+{"kind":"shape","id":"sh/0ru1ozyp","slide":9,"name":"椭圆 17","bbox":[439.27,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/lsn2h4fa","slide":9,"name":"椭圆 18","bbox":[461.62,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/98ji147e","slide":9,"name":"文本框 19","text":"检查 License 文件与密钥文件","textPreview":"检查 License 文件与密钥文件","textChars":18,"textLines":1,"bbox":[390.83,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/87a18zqt","slide":9,"name":"文本框 20","text":"判断 02","textPreview":"判断 02","textChars":5,"textLines":1,"bbox":[372.75,358.92,266.91,42.01]}
+{"kind":"shape","id":"sh/wba1cjqp","slide":9,"name":"椭圆 24","bbox":[706.18,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/va103ep4","slide":9,"name":"椭圆 25","bbox":[728.53,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/xgzitk76","slide":9,"name":"文本框 27","text":"核对机器码和部署环境变化","textPreview":"核对机器码和部署环境变化","textChars":12,"textLines":1,"bbox":[657.74,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/cf6h0fql","slide":9,"name":"文本框 28","text":"判断 03","textPreview":"判断 03","textChars":5,"textLines":1,"bbox":[639.66,358.92,266.91,42.01]}
+{"kind":"shape","id":"sh/nmdg3q54","slide":9,"name":"椭圆 30","bbox":[973.09,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/pofy50nu","slide":9,"name":"椭圆 32","bbox":[995.44,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/apofe5of","slide":9,"name":"文本框 33","text":"检查有效期、白名单和默认授权初始化","textPreview":"检查有效期、白名单和默认授权初始化","textChars":17,"textLines":1,"bbox":[924.65,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/bqxg7q50","slide":9,"name":"文本框 34","text":"判断 04","textPreview":"判断 04","textChars":5,"textLines":1,"bbox":[906.57,358.92,266.91,42.01]}
+{"kind":"image","id":"im/f21s7eh0","slide":9,"name":"图形 35","bbox":[757.47,240.58,43.73,43.73]}
+{"kind":"image","id":"im/u1sbe9gf","slide":9,"name":"图形 36","bbox":[490.56,239.02,43.73,43.73]}
+{"kind":"image","id":"im/p83udoz2","slide":9,"name":"图形 37","bbox":[1024.38,238.98,43.73,43.73]}
+{"kind":"image","id":"im/47atkjyh","slide":9,"name":"图形 38","bbox":[223.87,239.16,43.73,43.73]}
+{"kind":"notes","id":"nt/udsvah03","slide":9,"text":"建议时长：5 分钟\n讲师提示：本地可关闭 License 便于开发，但生产环境必须明确启用策略，不能随意白名单业务接口。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\19-License授权许可与运行时拦截.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\C-常见坑.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/m90b6t0r","slide":10,"title":"10","textShapes":11}
+{"kind":"textbox","id":"sh/bu5cnqd8","slide":10,"name":"矩形: 圆角 21","text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[54.02,51.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/lk7ut0va","slide":10,"name":"文本框 23","text":"登录密码经历 RSA 传输保护与哈希存储","textPreview":"登录密码经历 RSA 传输保护与哈希存储","textChars":20,"textLines":1,"bbox":[127.66,60.39,940,42.01]}
+{"kind":"textbox","id":"sh/yxgbilcj","slide":10,"name":"文本框 26","text":"KH.WMS","textPreview":"KH.WMS","textChars":6,"textLines":1,"bbox":[772.14,60.39,453.84,42.01]}
+{"kind":"shape","id":"sh/cva9k7a9","slide":10,"name":"直接连接符 31","bbox":[127.66,104.59,1098.32,0]}
+{"kind":"shape","id":"sh/xc3mho32","slide":10,"name":"直接连接符 1","bbox":[54.02,661.92,1171.96,0]}
+{"kind":"shape","id":"sh/l036l83y","slide":10,"name":"椭圆 5","bbox":[172.36,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/ydcnatkn","slide":10,"name":"椭圆 4","bbox":[194.7,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/s7yt4b21","slide":10,"name":"文本框 9","text":"获取新公钥：登录前调用 /api/user/public-key。\n前端 RSA 加密：避免密码以明文进入网络请求。","textPreview":"获取新公钥：登录前调用 /api/user/public-key。 | 前端 RSA 加密：避免密码以明文进入网络请求。","textChars":58,"textLines":2,"bbox":[123.91,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/d87uxg3m","slide":10,"name":"文本框 10","text":"获取新公钥 / 前端 RSA 加密","textPreview":"获取新公钥 / 前端 RSA 加密","textChars":17,"textLines":1,"bbox":[105.84,358.92,266.91,73.6]}
+{"kind":"shape","id":"sh/ozitcv29","slide":10,"name":"椭圆 17","bbox":[439.27,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/p0ru503u","slide":10,"name":"椭圆 18","bbox":[461.62,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/xwnupgvy","slide":10,"name":"文本框 19","text":"后端 RSA 解密：解密失败返回密码格式错误。","textPreview":"后端 RSA 解密：解密失败返回密码格式错误。","textChars":23,"textLines":1,"bbox":[390.83,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/wvetgbud","slide":10,"name":"文本框 20","text":"后端 RSA 解密","textPreview":"后端 RSA 解密","textChars":9,"textLines":1,"bbox":[372.75,358.92,266.91,42.01]}
+{"kind":"shape","id":"sh/kjytkvup","slide":10,"name":"椭圆 24","bbox":[706.18,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/jypcrqd4","slide":10,"name":"椭圆 25","bbox":[728.53,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/1o3ahwvq","slide":10,"name":"文本框 27","text":"PasswordHasher.Verify：使用数据库中的盐化哈希校验。","textPreview":"PasswordHasher.Verify：使用数据库中的盐化哈希校验。","textChars":36,"textLines":1,"bbox":[657.74,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/0nut8rul","slide":10,"name":"文本框 28","text":"PasswordHasher.Verify","textPreview":"PasswordHasher.Verify","textChars":21,"textLines":1,"bbox":[639.66,358.92,266.91,42.01]}
+{"kind":"shape","id":"sh/ru18r2to","slide":10,"name":"椭圆 30","bbox":[973.09,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/dwjqtcbu","slide":10,"name":"椭圆 32","bbox":[995.44,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/exsrmhsf","slide":10,"name":"文本框 33","text":"签发 JWT：密码匹配后建立登录身份。","textPreview":"签发 JWT：密码匹配后建立登录身份。","textChars":19,"textLines":1,"bbox":[924.65,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/zyl8vmt0","slide":10,"name":"文本框 34","text":"签发 JWT","textPreview":"签发 JWT","textChars":6,"textLines":1,"bbox":[906.57,358.92,266.91,42.01]}
+{"kind":"image","id":"im/f61wvu94","slide":10,"name":"图形 35","bbox":[757.47,240.58,43.73,43.73]}
+{"kind":"image","id":"im/e5sfmpsj","slide":10,"name":"图形 36","bbox":[490.56,239.02,43.73,43.73]}
+{"kind":"image","id":"im/hczel0bq","slide":10,"name":"图形 37","bbox":[1024.38,238.98,43.73,43.73]}
+{"kind":"image","id":"im/wb6dcval","slide":10,"name":"图形 38","bbox":[223.87,239.16,43.73,43.73]}
+{"kind":"notes","id":"nt/m90b6t0r","slide":10,"text":"建议时长：6 分钟\n讲师提示：进程重启后旧公钥可能失效，前端不能长期缓存登录公钥。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\22-登录加密与密码哈希.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/jetc3ut0","slide":11,"title":"11","textShapes":11}
+{"kind":"textbox","id":"sh/7650nq5s","slide":11,"name":"矩形: 圆角 21","text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[54.02,51.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/l43ilgn2","slide":11,"name":"文本框 23","text":"数据库只能保存 PasswordHasher 生成的哈希","textPreview":"数据库只能保存 PasswordHasher 生成的哈希","textChars":28,"textLines":1,"bbox":[127.66,60.39,940,42.01]}
+{"kind":"textbox","id":"sh/y1czalob","slide":11,"name":"文本框 26","text":"KH.WMS","textPreview":"KH.WMS","textChars":6,"textLines":1,"bbox":[772.14,60.39,453.84,42.01]}
+{"kind":"shape","id":"sh/o7axk7m9","slide":11,"name":"直接连接符 31","bbox":[127.66,104.59,1098.32,0]}
+{"kind":"shape","id":"sh/xcryxg7y","slide":11,"name":"直接连接符 1","bbox":[54.02,661.92,1171.96,0]}
+{"kind":"shape","id":"sh/250zy18b","slide":11,"name":"矩形: 圆角 4","bbox":[95.88,167.8,534.78,210.86]}
+{"kind":"textbox","id":"sh/o7ih0r6h","slide":11,"name":"矩形: 圆角 6","text":"PasswordHasher","textPreview":"PasswordHasher","textChars":14,"textLines":1,"bbox":[113.75,186.22,283.59,60]}
+{"kind":"textbox","id":"sh/72t03qp0","slide":11,"name":"文本框 7","text":"• 使用随机盐和迭代\n• 当前注册为 IHashService","textPreview":"• 使用随机盐和迭代 | • 当前注册为 IHashService","textChars":31,"textLines":2,"bbox":[113.75,260.89,500.92,93.53]}
+{"kind":"shape","id":"sh/ofqtgnyt","slide":11,"name":"矩形: 圆角 9","bbox":[95.88,397.08,534.78,210.86]}
+{"kind":"textbox","id":"sh/9gza9sze","slide":11,"name":"矩形: 圆角 10","text":"继续检查","textPreview":"继续检查","textChars":4,"textLines":1,"bbox":[113.75,415.5,283.59,60]}
+{"kind":"textbox","id":"sh/mdobedg3","slide":11,"name":"文本框 11","text":"• Hash 用于新增、修改和重置密码\n• Verify 用于登录校验","textPreview":"• Hash 用于新增、修改和重置密码 | • Verify 用于登录校验","textChars":35,"textLines":2,"bbox":[113.75,490.16,500.92,93.53]}
+{"kind":"shape","id":"sh/nehs7iho","slide":11,"name":"矩形: 圆角 12","bbox":[648.53,167.8,534.78,210.86]}
+{"kind":"textbox","id":"sh/0b6tc3yx","slide":11,"name":"矩形: 圆角 13","text":"禁止存储","textPreview":"禁止存储","textChars":4,"textLines":1,"bbox":[666.4,186.22,283.59,60]}
+{"kind":"textbox","id":"sh/1cfa58zi","slide":11,"name":"文本框 14","text":"• 明文密码\n• 前端传来的 RSA 密文","textPreview":"• 明文密码 | • 前端传来的 RSA 密文","textChars":21,"textLines":2,"bbox":[666.4,260.89,500.92,93.53]}
+{"kind":"shape","id":"sh/epobatgr","slide":11,"name":"矩形: 圆角 15","bbox":[648.53,397.08,534.78,210.86]}
+{"kind":"textbox","id":"sh/zaxs3yhc","slide":11,"name":"矩形: 圆角 16","text":"继续检查","textPreview":"继续检查","textChars":4,"textLines":1,"bbox":[666.4,415.5,283.59,60]}
+{"kind":"textbox","id":"sh/cn6t83y1","slide":11,"name":"文本框 17","text":"• MD5 摘要\n• 普通 SHA256 摘要","textPreview":"• MD5 摘要 | • 普通 SHA256 摘要","textChars":23,"textLines":2,"bbox":[666.4,490.16,500.92,93.53]}
+{"kind":"notes","id":"nt/jetc3ut0","slide":11,"text":"建议时长：5 分钟\n讲师提示：RSA 解决传输保护，PasswordHasher 解决数据库存储；两者不能互相替代。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\22-登录加密与密码哈希.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\C-常见坑.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/8f2psfyx","slide":12,"title":"小测","textShapes":14}
+{"kind":"textbox","id":"sh/ra943il8","slide":12,"name":"文本框 3","text":"小测","textPreview":"小测","textChars":2,"textLines":1,"bbox":[192.88,96.54,213.26,116.33]}
+{"kind":"textbox","id":"sh/q903ad4n","slide":12,"name":"文本框 4","text":"QUIZ","textPreview":"QUIZ","textChars":4,"textLines":1,"bbox":[404.72,156.07,172.2,42.01]}
+{"kind":"shape","id":"sh/dcbm583y","slide":12,"name":"弧形 5","bbox":[-563.93,54.29,203.57,203.57]}
+{"kind":"shape","id":"sh/sb2lcnmd","slide":12,"name":"椭圆 6","bbox":[-564.65,84.41,28.09,28.09]}
+{"kind":"textbox","id":"sh/a543mx4r","slide":12,"name":"矩形: 圆角 8","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[363.35,263.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/wvupgz6t","slide":12,"name":"文本框 9","text":"Swagger 能看到接口但返回","textPreview":"Swagger 能看到接口但返回","textChars":16,"textLines":1,"bbox":[431.66,261.48,453.84,42.01]}
+{"kind":"textbox","id":"sh/xw3q94ne","slide":12,"name":"文本框 10","text":"401，应该从哪里开始查？","textPreview":"401，应该从哪里开始查？","textChars":13,"textLines":1,"bbox":[431.66,298.71,453.84,24.23]}
+{"kind":"textbox","id":"sh/bulo7u58","slide":12,"name":"矩形: 圆角 12","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[445.6,358.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/9sj65kn2","slide":12,"name":"文本框 14","text":"402 与 403","textPreview":"402 与 403","textChars":9,"textLines":1,"bbox":[513.91,356.48,453.84,42.01]}
+{"kind":"textbox","id":"sh/mps7a5or","slide":12,"name":"文本框 15","text":"的区别是什么？","textPreview":"的区别是什么？","textChars":7,"textLines":1,"bbox":[513.91,393.71,453.84,24.23]}
+{"kind":"textbox","id":"sh/0nap8f6l","slide":12,"name":"矩形: 圆角 17","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[506.79,466.45,59.73,59.73]}
+{"kind":"textbox","id":"sh/uh0na1g3","slide":12,"name":"文本框 22","text":"为什么公共密钥接口需要","textPreview":"为什么公共密钥接口需要","textChars":11,"textLines":1,"bbox":[575.1,464.4,453.84,42.01]}
+{"kind":"textbox","id":"sh/sfi58ryd","slide":12,"name":"文本框 24","text":"AllowAnonymous？","textPreview":"AllowAnonymous？","textChars":15,"textLines":1,"bbox":[575.1,501.62,453.84,24.23]}
+{"kind":"textbox","id":"sh/7u94zmhs","slide":12,"name":"矩形: 圆角 25","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[603.17,572.63,59.73,59.73]}
+{"kind":"textbox","id":"sh/dcv6dgz2","slide":12,"name":"文本框 27","text":"为什么数据库不能保存 RSA","textPreview":"为什么数据库不能保存 RSA","textChars":14,"textLines":1,"bbox":[671.47,570.58,453.84,42.01]}
+{"kind":"textbox","id":"sh/cbm5kbyh","slide":12,"name":"文本框 28","text":"密文或 MD5？","textPreview":"密文或 MD5？","textChars":8,"textLines":1,"bbox":[671.47,607.81,453.84,24.23]}
+{"kind":"image","id":"im/ps7mlwbu","slide":12,"name":"图片 30","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/8f2psfyx","slide":12,"text":"建议时长：8 分钟（含答疑）\n讲师提示：小测后让成员说出一次登录请求从公钥到 JWT 的完整链。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\16-Swagger与OpenAPI接口文档底座.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\19-License授权许可与运行时拦截.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\22-登录加密与密码哈希.md\n小测参考答案：1. 查认证配置、Token 和 Authorization 头，而不是程序集扫描。2. 402 是 License 许可；403 是身份有效但权限不足。3. 未登录用户必须先取得公钥才能加密密码。4. RSA 密文不是不可逆存储，MD5 缺少适合密码的盐和迭代，应使用 PasswordHasher。\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}

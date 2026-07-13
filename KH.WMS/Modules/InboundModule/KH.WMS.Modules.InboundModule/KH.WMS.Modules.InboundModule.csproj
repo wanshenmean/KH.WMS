@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Algorithms\KH.WMS.Algorithms\KH.WMS.Algorithms.csproj" />
+    <ProjectReference Include="..\..\..\Contracts\KH.WMS.Contracts\KH.WMS.Contracts.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,271 @@
+{"kind":"deck","id":"pr/n0zfxs","name":"Deck"}
+{"kind":"layout","layoutId":"/ppt/slideMasters/slideMaster1.xml","name":"","type":"master","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout1.xml","name":"标题幻灯片","type":"title","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"subtitle","type":"subtitle","textPreview":"单击此处编辑母版副标题样式"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout2.xml","name":"标题和内容","type":"obj","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"2","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout3.xml","name":"节标题","type":"secHead","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout4.xml","name":"两栏内容","type":"twoObj","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"2","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"3","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout5.xml","name":"比较","type":"twoTxTwoObj","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式"},{"name":"3","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式"},{"name":"5","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout6.xml","name":"仅标题","type":"titleOnly","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout7.xml","name":"空白","type":"blank","placeholders":[{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout8.xml","name":"内容与标题","type":"objTx","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"2","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout9.xml","name":"图片与标题","type":"picTx","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"picture","type":"picture"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout10.xml","name":"标题和竖排文字","type":"vertTx","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout11.xml","name":"竖排标题与文本","type":"vertTitleAndTx","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"slide","id":"sl/y90nupkv","slide":1,"title":"状态与策略","textShapes":4}
+{"kind":"textbox","id":"sh/1cvuxc7e","slide":1,"name":"文本框 19","text":"状态与策略","textPreview":"状态与策略","textChars":5,"textLines":1,"bbox":[635,275,600,102]}
+{"kind":"textbox","id":"sh/0bmd476t","slide":1,"name":"文本框 20","text":"Config 配置","textPreview":"Config 配置","textChars":9,"textLines":1,"bbox":[635,178,600,102]}
+{"kind":"textbox","id":"sh/90ve1w7q","slide":1,"name":"文本框 23","text":"把可变业务规则从代码中抽离，同时守住配置和算法边界","textPreview":"把可变业务规则从代码中抽离，同时守住配置和算法边界","textChars":25,"textLines":1,"bbox":[618.67,421.45,366,46.19]}
+{"kind":"shape","id":"sh/mx4v6hoz","slide":1,"name":"直接连接符 26","bbox":[523.91,344.35,158.03,148.43]}
+{"kind":"textbox","id":"sh/p4bu5s76","slide":1,"name":"文本框 27","text":"第 06 讲 · KH.WMS 后端培训","textPreview":"第 06 讲 · KH.WMS 后端培训","textChars":20,"textLines":1,"bbox":[655.47,379.44,243.72,42.01]}
+{"kind":"shape","id":"sh/uxgjq907","slide":1,"name":"弧形 29","bbox":[442.62,153.5,203.57,203.57]}
+{"kind":"shape","id":"sh/vyp0je1s","slide":1,"name":"直接连接符 30","bbox":[582.06,311.12,158.03,148.43]}
+{"kind":"shape","id":"sh/h072l4jy","slide":1,"name":"椭圆 32","bbox":[511.66,142.67,28.09,28.09]}
+{"kind":"image","id":"im/5kjidwzq","slide":1,"name":"图片 16","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/y90nupkv","slide":1,"text":"建议时长：2 分钟\n讲师提示：开场说明：配置化不是把所有判断都搬到数据库，而是识别真正需要运行期变化的规则。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\10-Config配置底座.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\12-编码规则与单据状态.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\14-策略算法底座.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/hwbqtkby","slide":2,"title":"范围","textShapes":14}
+{"kind":"textbox","id":"sh/b29kza94","slide":2,"name":"文本框 3","text":"范围","textPreview":"范围","textChars":2,"textLines":1,"bbox":[192.88,96.54,213.26,116.33]}
+{"kind":"textbox","id":"sh/a10jqpsj","slide":2,"name":"文本框 4","text":"SCOPE","textPreview":"SCOPE","textChars":5,"textLines":1,"bbox":[404.72,156.07,172.2,42.01]}
+{"kind":"shape","id":"sh/x4r21kru","slide":2,"name":"弧形 5","bbox":[-563.93,54.29,203.57,203.57]}
+{"kind":"shape","id":"sh/w3i1sfa9","slide":2,"name":"椭圆 6","bbox":[-564.65,84.41,28.09,28.09]}
+{"kind":"textbox","id":"sh/q5wjelsz","slide":2,"name":"矩形: 圆角 8","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[363.35,263.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/ove9o7yd","slide":2,"name":"文本框 9","text":"配置载体：appsettings / Options / Config","textPreview":"配置载体：appsettings / Options / Config","textChars":35,"textLines":1,"bbox":[431.66,261.48,650,73.6]}
+{"kind":"textbox","id":"sh/9wnqhczy","slide":2,"name":"文本框 10","text":"能为新规则选择配置载体","textPreview":"能为新规则选择配置载体","textChars":11,"textLines":1,"bbox":[431.66,298.71,453.84,24.23]}
+{"kind":"textbox","id":"sh/nu58f2hs","slide":2,"name":"矩形: 圆角 12","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[445.6,358.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/xk7qlczu","slide":2,"name":"文本框 14","text":"作用域、缓存与缺失策略","textPreview":"作用域、缓存与缺失策略","textChars":11,"textLines":1,"bbox":[513.91,356.48,620,42.01]}
+{"kind":"textbox","id":"sh/ahwrqhgj","slide":2,"name":"文本框 15","text":"解释配置命中和缓存路径","textPreview":"解释配置命中和缓存路径","textChars":11,"textLines":1,"bbox":[513.91,393.71,453.84,24.23]}
+{"kind":"textbox","id":"sh/cnupgny5","slide":2,"name":"矩形: 圆角 17","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[506.79,466.45,59.73,59.73]}
+{"kind":"textbox","id":"sh/65kfmpor","slide":2,"name":"文本框 22","text":"编码规则与单据状态","textPreview":"编码规则与单据状态","textChars":9,"textLines":1,"bbox":[575.1,464.4,580,42.01]}
+{"kind":"textbox","id":"sh/gbmxszmt","slide":2,"name":"文本框 24","text":"用编码与状态底座而不硬编码","textPreview":"用编码与状态底座而不硬编码","textChars":13,"textLines":1,"bbox":[575.1,501.62,453.84,24.23]}
+{"kind":"textbox","id":"sh/fadgzu58","slide":2,"name":"矩形: 圆角 25","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[603.17,572.63,59.73,59.73]}
+{"kind":"textbox","id":"sh/p0vy54na","slide":2,"name":"文本框 27","text":"策略注册、选择与策略链","textPreview":"策略注册、选择与策略链","textChars":11,"textLines":1,"bbox":[671.47,570.58,520,42.01]}
+{"kind":"textbox","id":"sh/4zmxwzmp","slide":2,"name":"文本框 28","text":"通过 IPolicyEngine 调用策略","textPreview":"通过 IPolicyEngine 调用策略","textChars":21,"textLines":1,"bbox":[671.47,607.81,453.84,24.23]}
+{"kind":"image","id":"im/xo7il4ne","slide":2,"name":"图片 30","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/hwbqtkby","slide":2,"text":"建议时长：5 分钟\n讲师提示：本讲以边界判断为主，不展开全部配置表字段。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\10-Config配置底座.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\15-应用配置Options与运行时配置边界.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\12-结合源码的后端深度走读.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/ofy9wn61","slide":3,"title":"03","textShapes":11}
+{"kind":"textbox","id":"sh/03ix43e5","slide":3,"name":"矩形: 圆角 21","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[54.02,51.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/6d0fytg3","slide":3,"name":"文本框 23","text":"先判断配置影响启动、业务规则还是运维控制","textPreview":"先判断配置影响启动、业务规则还是运维控制","textChars":20,"textLines":1,"bbox":[127.66,60.39,940,42.01]}
+{"kind":"textbox","id":"sh/tgry9ofu","slide":3,"name":"文本框 26","text":"KH.WMS","textPreview":"KH.WMS","textChars":6,"textLines":1,"bbox":[772.14,60.39,453.84,42.01]}
+{"kind":"shape","id":"sh/z2d07mh4","slide":3,"name":"直接连接符 31","bbox":[127.66,104.59,1098.32,0]}
+{"kind":"shape","id":"sh/cza94vmx","slide":3,"name":"直接连接符 1","bbox":[54.02,661.92,1171.96,0]}
+{"kind":"shape","id":"sh/obq90bml","slide":3,"name":"椭圆 5","bbox":[172.36,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/3ah8rqlg","slide":3,"name":"椭圆 4","bbox":[194.7,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/n2l4fq98","slide":3,"name":"文本框 9","text":"启动与基础设施行为","textPreview":"启动与基础设施行为","textChars":9,"textLines":1,"bbox":[123.91,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/m1c3mlsn","slide":3,"name":"文本框 10","text":"判断 01","textPreview":"判断 01","textChars":5,"textLines":1,"bbox":[105.84,358.92,266.91,42.01]}
+{"kind":"shape","id":"sh/ja54na9g","slide":3,"name":"椭圆 17","bbox":[439.27,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/i9w3u58v","slide":3,"name":"椭圆 18","bbox":[461.62,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/e10f2twf","slide":3,"name":"文本框 19","text":"可由业务维护的运行规则","textPreview":"可由业务维护的运行规则","textChars":11,"textLines":1,"bbox":[390.83,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/f29gbyx0","slide":3,"name":"文本框 20","text":"判断 02","textPreview":"判断 02","textChars":5,"textLines":1,"bbox":[372.75,358.92,266.91,42.01]}
+{"kind":"shape","id":"sh/re9g7yxo","slide":3,"name":"椭圆 24","bbox":[706.18,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/sfix03y9","slide":3,"name":"椭圆 25","bbox":[728.53,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/a9kfadwn","slide":3,"name":"文本框 27","text":"部署环境差异","textPreview":"部署环境差异","textChars":6,"textLines":1,"bbox":[657.74,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/batgjixs","slide":3,"name":"文本框 28","text":"判断 03","textPreview":"判断 03","textChars":5,"textLines":1,"bbox":[639.66,358.92,266.91,42.01]}
+{"kind":"shape","id":"sh/k3m1g7yp","slide":3,"name":"椭圆 30","bbox":[973.09,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/y14jehgj","slide":3,"name":"椭圆 32","bbox":[995.44,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/x0vi5czy","slide":3,"name":"文本框 33","text":"临时运行控制与系统参数","textPreview":"临时运行控制与系统参数","textChars":11,"textLines":1,"bbox":[924.65,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/czmhc7id","slide":3,"name":"文本框 34","text":"判断 04","textPreview":"判断 04","textChars":5,"textLines":1,"bbox":[906.57,358.92,266.91,42.01]}
+{"kind":"image","id":"im/gfy9wfil","slide":3,"name":"图形 35","bbox":[757.47,240.58,43.73,43.73]}
+{"kind":"image","id":"im/hg7apkj6","slide":3,"name":"图形 36","bbox":[490.56,239.02,43.73,43.73]}
+{"kind":"image","id":"im/e90b690z","slide":3,"name":"图形 37","bbox":[1024.38,238.98,43.73,43.73]}
+{"kind":"image","id":"im/fa9szehk","slide":3,"name":"图形 38","bbox":[223.87,239.16,43.73,43.73]}
+{"kind":"notes","id":"nt/ofy9wn61","slide":3,"text":"建议时长：4 分钟\n讲师提示：用“是否允许混批”和“数据库连接串”对比，帮助成员建立判断标准。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\15-应用配置Options与运行时配置边界.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\C-常见坑.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/jyx0ra1s","slide":4,"title":"04","textShapes":12}
+{"kind":"textbox","id":"sh/3ytsrmpw","slide":4,"name":"矩形: 圆角 21","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[54.02,51.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/1wbapc7q","slide":4,"name":"文本框 23","text":"不同配置载体的生命周期和责任不同","textPreview":"不同配置载体的生命周期和责任不同","textChars":16,"textLines":1,"bbox":[127.66,60.39,940,42.01]}
+{"kind":"textbox","id":"sh/et0reh8f","slide":4,"name":"文本框 26","text":"KH.WMS","textPreview":"KH.WMS","textChars":6,"textLines":1,"bbox":[772.14,60.39,453.84,42.01]}
+{"kind":"shape","id":"sh/knex8j21","slide":4,"name":"直接连接符 31","bbox":[127.66,104.59,1098.32,0]}
+{"kind":"shape","id":"sh/1cj2d8b6","slide":4,"name":"直接连接符 1","bbox":[54.02,661.92,1171.96,0]}
+{"kind":"textbox","id":"sh/sna103ap","slide":4,"name":"文本框 6","text":"• appsettings / Options\n• Config 配置库\n• 系统参数\n• 代码常量","textPreview":"• appsettings / Options | • Config 配置库 | • 系统参数 | • 代码常量","textChars":50,"textLines":4,"bbox":[107.78,350.07,311.91,151.69]}
+{"kind":"textbox","id":"sh/3ihk3et8","slide":4,"name":"文本框 7","text":"载体","textPreview":"载体","textChars":2,"textLines":1,"bbox":[134.38,293.42,258.7,42.01]}
+{"kind":"textbox","id":"sh/ih8ju9sn","slide":4,"name":"矩形: 圆角 8","text":"PART ONE","textPreview":"PART ONE","textChars":8,"textLines":1,"bbox":[157.02,524.26,213.42,57.14]}
+{"kind":"textbox","id":"sh/jadsz2xk","slide":4,"name":"文本框 12","text":"• 连接、日志、JWT、License、基础设施行为 • 业务校验、编码、状态、动态字段 • 较轻量、全局或运维可维护的业务参数","textPreview":"• 连接、日志、JWT、License、基础设施行为 • 业务校验、编码、状态、动态字段 • 较轻量、全局或运维可维护的业务参数","textChars":64,"textLines":1,"bbox":[485.24,350.07,311.91,151.69]}
+{"kind":"textbox","id":"sh/w72947yt","slide":4,"name":"文本框 13","text":"适合内容","textPreview":"适合内容","textChars":4,"textLines":1,"bbox":[511.84,293.42,258.7,42.01]}
+{"kind":"textbox","id":"sh/x8vaxsfe","slide":4,"name":"矩形: 圆角 14","text":"PART TWO","textPreview":"PART TWO","textChars":8,"textLines":1,"bbox":[534.48,524.26,213.42,57.14]}
+{"kind":"textbox","id":"sh/a5kr2xg3","slide":4,"name":"文本框 15","text":"• 按环境绑定，通常随启动生效\n• 运行期按作用域读取，可缓存\n• 通过系统能力读取并治理\n• 随版本发布，不承担运行期开关","textPreview":"• 按环境绑定，通常随启动生效 | • 运行期按作用域读取，可缓存 | • 通过系统能力读取并治理 | • 随版本发布，不承担运行期开关","textChars":62,"textLines":4,"bbox":[853.56,350.07,311.91,151.69]}
+{"kind":"textbox","id":"sh/v6tsv2xo","slide":4,"name":"文本框 16","text":"生效与维护","textPreview":"生效与维护","textChars":5,"textLines":1,"bbox":[880.16,293.42,258.7,42.01]}
+{"kind":"textbox","id":"sh/g36tgryd","slide":4,"name":"矩形: 圆角 17","text":"PART THREE","textPreview":"PART THREE","textChars":10,"textLines":1,"bbox":[902.8,524.26,213.42,57.14]}
+{"kind":"image","id":"im/61wbax4n","slide":4,"name":"图形 9","bbox":[218.32,181.37,90.83,90.83]}
+{"kind":"image","id":"im/hs7u9c3a","slide":4,"name":"图形 10","bbox":[592.25,183.03,92.47,92.47]}
+{"kind":"image","id":"im/grytg7mp","slide":4,"name":"图形 11","bbox":[972.73,179.53,92.47,92.47]}
+{"kind":"notes","id":"nt/jyx0ra1s","slide":4,"text":"建议时长：6 分钟\n讲师提示：明确敏感 Secret 仍应通过安全的环境配置治理，不能把生产值留在开发配置中。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\15-应用配置Options与运行时配置边界.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\10-Config配置底座.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/i107q5of","slide":5,"title":"05","textShapes":11}
+{"kind":"textbox","id":"sh/fe94nm1w","slide":5,"name":"矩形: 圆角 21","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[54.02,51.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/pkr6tgjy","slide":5,"name":"文本框 23","text":"Config 按作用域命中，并通过缓存加速","textPreview":"Config 按作用域命中，并通过缓存加速","textChars":21,"textLines":1,"bbox":[127.66,60.39,940,42.01]}
+{"kind":"textbox","id":"sh/2h0ni107","slide":5,"name":"文本框 26","text":"KH.WMS","textPreview":"KH.WMS","textChars":6,"textLines":1,"bbox":[772.14,60.39,453.84,42.01]}
+{"kind":"shape","id":"sh/wve1knyx","slide":5,"name":"直接连接符 31","bbox":[127.66,104.59,1098.32,0]}
+{"kind":"shape","id":"sh/dgbulwnm","slide":5,"name":"直接连接符 1","bbox":[54.02,661.92,1171.96,0]}
+{"kind":"shape","id":"sh/l4bupwny","slide":5,"name":"椭圆 5","bbox":[172.36,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/yhkbe1o7","slide":5,"name":"椭圆 4","bbox":[194.7,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/w32dkbuh","slide":5,"name":"文本框 9","text":"业务请求：携带配置编码和仓库、货主等上下文。\n解析作用域：优先匹配更具体的业务范围。","textPreview":"业务请求：携带配置编码和仓库、货主等上下文。 | 解析作用域：优先匹配更具体的业务范围。","textChars":42,"textLines":2,"bbox":[123.91,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/x4vedgvm","slide":5,"name":"文本框 10","text":"业务请求 / 解析作用域","textPreview":"业务请求 / 解析作用域","textChars":12,"textLines":1,"bbox":[105.84,358.92,266.91,73.6]}
+{"kind":"shape","id":"sh/sb6xsvu9","slide":5,"name":"椭圆 17","bbox":[439.27,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/tcfel0vu","slide":5,"name":"椭圆 18","bbox":[461.62,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/hgrmpwj2","slide":5,"name":"文本框 19","text":"读取缓存：按稳定 key 获取已解析值。","textPreview":"读取缓存：按稳定 key 获取已解析值。","textChars":20,"textLines":1,"bbox":[390.83,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/gfi5grih","slide":5,"name":"文本框 20","text":"读取缓存","textPreview":"读取缓存","textChars":4,"textLines":1,"bbox":[372.75,358.92,266.91,42.01]}
+{"kind":"shape","id":"sh/4ji5kbid","slide":5,"name":"椭圆 24","bbox":[706.18,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/3i94r61s","slide":5,"name":"椭圆 25","bbox":[728.53,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/5o7mhcju","slide":5,"name":"文本框 27","text":"回源配置库：缓存未命中时查询并构建结果。","textPreview":"回源配置库：缓存未命中时查询并构建结果。","textChars":20,"textLines":1,"bbox":[657.74,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/kny587i9","slide":5,"name":"文本框 28","text":"回源配置库","textPreview":"回源配置库","textChars":5,"textLines":1,"bbox":[639.66,358.92,266.91,42.01]}
+{"kind":"shape","id":"sh/vu5kbihc","slide":5,"name":"椭圆 30","bbox":[973.09,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/xwn2dszi","slide":5,"name":"椭圆 32","bbox":[995.44,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/ihw3mxg3","slide":5,"name":"文本框 33","text":"返回业务值：调用方只依赖 Contract / Resolver。","textPreview":"返回业务值：调用方只依赖 Contract / Resolver。","textChars":33,"textLines":1,"bbox":[924.65,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/ji5kf2ho","slide":5,"name":"文本框 34","text":"返回业务值","textPreview":"返回业务值","textChars":5,"textLines":1,"bbox":[906.57,358.92,266.91,42.01]}
+{"kind":"image","id":"im/rix0bu9s","slide":5,"name":"图形 35","bbox":[757.47,240.58,43.73,43.73]}
+{"kind":"image","id":"im/6hozip87","slide":5,"name":"图形 36","bbox":[490.56,239.02,43.73,43.73]}
+{"kind":"image","id":"im/18zih4ru","slide":5,"name":"图形 37","bbox":[1024.38,238.98,43.73,43.73]}
+{"kind":"image","id":"im/g7q1ozq9","slide":5,"name":"图形 38","bbox":[223.87,239.16,43.73,43.73]}
+{"kind":"notes","id":"nt/i107q5of","slide":5,"text":"建议时长：6 分钟\n讲师提示：强调缓存 key 必须包含作用域，否则不同仓库或货主会互相污染。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\10-Config配置底座.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\13-鉴权缓存用户上下文与运行期开关.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/x8f69ofe","slide":6,"title":"06","textShapes":11}
+{"kind":"textbox","id":"sh/qpwnet0b","slide":6,"name":"矩形: 圆角 21","text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[54.02,51.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/0fy5k3id","slide":6,"name":"文本框 23","text":"配置缺失时必须明确放行还是失败","textPreview":"配置缺失时必须明确放行还是失败","textChars":15,"textLines":1,"bbox":[127.66,60.39,940,42.01]}
+{"kind":"textbox","id":"sh/zep4byhs","slide":6,"name":"文本框 26","text":"KH.WMS","textPreview":"KH.WMS","textChars":6,"textLines":1,"bbox":[772.14,60.39,453.84,42.01]}
+{"kind":"shape","id":"sh/50bqpcj2","slide":6,"name":"直接连接符 31","bbox":[127.66,104.59,1098.32,0]}
+{"kind":"shape","id":"sh/yhg7epsj","slide":6,"name":"直接连接符 1","bbox":[54.02,661.92,1171.96,0]}
+{"kind":"shape","id":"sh/98rqt4r6","slide":6,"name":"矩形: 圆角 4","bbox":[95.88,167.8,534.78,210.86]}
+{"kind":"textbox","id":"sh/7m98ru9g","slide":6,"name":"矩形: 圆角 6","text":"缺失时放行","textPreview":"缺失时放行","textChars":5,"textLines":1,"bbox":[113.75,186.22,283.59,60]}
+{"kind":"textbox","id":"sh/oryp8fah","slide":6,"name":"文本框 7","text":"• 配置属于可选增强\n• 系统有安全且明确的默认行为","textPreview":"• 配置属于可选增强 | • 系统有安全且明确的默认行为","textChars":26,"textLines":2,"bbox":[113.75,260.89,500.92,93.53]}
+{"kind":"shape","id":"sh/h4bupgn6","slide":6,"name":"矩形: 圆角 9","bbox":[95.88,397.08,534.78,210.86]}
+{"kind":"textbox","id":"sh/w32twb6l","slide":6,"name":"矩形: 圆角 10","text":"继续检查","textPreview":"继续检查","textChars":4,"textLines":1,"bbox":[113.75,415.5,283.59,60]}
+{"kind":"textbox","id":"sh/v2tcn650","slide":6,"name":"文本框 11","text":"• 缺失不会破坏库存或流程一致性\n• 日志能够提示采用了默认值","textPreview":"• 缺失不会破坏库存或流程一致性 | • 日志能够提示采用了默认值","textChars":31,"textLines":2,"bbox":[113.75,490.16,500.92,93.53]}
+{"kind":"shape","id":"sh/u1kbu1ov","slide":6,"name":"矩形: 圆角 12","bbox":[648.53,167.8,534.78,210.86]}
+{"kind":"textbox","id":"sh/5svutgni","slide":6,"name":"矩形: 圆角 13","text":"缺失时失败","textPreview":"缺失时失败","textChars":5,"textLines":1,"bbox":[666.4,186.22,283.59,60]}
+{"kind":"textbox","id":"sh/47mt0b6x","slide":6,"name":"文本框 14","text":"• 配置决定状态、编码或关键业务约束\n• 默认值可能导致错误写入","textPreview":"• 配置决定状态、编码或关键业务约束 | • 默认值可能导致错误写入","textChars":32,"textLines":2,"bbox":[666.4,260.89,500.92,93.53]}
+{"kind":"shape","id":"sh/j6dcr65c","slide":6,"name":"矩形: 圆角 15","bbox":[648.53,397.08,534.78,210.86]}
+{"kind":"textbox","id":"sh/i54bylor","slide":6,"name":"矩形: 圆角 16","text":"继续检查","textPreview":"继续检查","textChars":4,"textLines":1,"bbox":[666.4,415.5,283.59,60]}
+{"kind":"textbox","id":"sh/twfux0ne","slide":6,"name":"文本框 17","text":"• 多租户 / 多仓作用域必须明确\n• 必须由运维先完成初始化","textPreview":"• 多租户 / 多仓作用域必须明确 | • 必须由运维先完成初始化","textChars":31,"textLines":2,"bbox":[666.4,490.16,500.92,93.53]}
+{"kind":"notes","id":"nt/x8f69ofe","slide":6,"text":"建议时长：5 分钟\n讲师提示：要求规则作者在设计阶段写清缺失策略，不把行为留给异常偶然决定。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\10-Config配置底座.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\11-可插拔校验器.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/gnmp4jqx","slide":7,"title":"07","textShapes":11}
+{"kind":"textbox","id":"sh/4fm1wb6p","slide":7,"name":"矩形: 圆角 21","text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[54.02,51.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/q143ylov","slide":7,"name":"文本框 23","text":"编码规则把单号格式与业务代码解耦","textPreview":"编码规则把单号格式与业务代码解耦","textChars":16,"textLines":1,"bbox":[127.66,60.39,940,42.01]}
+{"kind":"textbox","id":"sh/d4f2t0nm","slide":7,"name":"文本框 26","text":"KH.WMS","textPreview":"KH.WMS","textChars":6,"textLines":1,"bbox":[772.14,60.39,453.84,42.01]}
+{"kind":"shape","id":"sh/nyh4jupo","slide":7,"name":"直接连接符 31","bbox":[127.66,104.59,1098.32,0]}
+{"kind":"shape","id":"sh/cb2tkvap","slide":7,"name":"直接连接符 1","bbox":[54.02,661.92,1171.96,0]}
+{"kind":"shape","id":"sh/kzmdova1","slide":7,"name":"椭圆 5","bbox":[172.36,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/zedcfa9g","slide":7,"name":"椭圆 4","bbox":[194.7,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/baxkjqlk","slide":7,"name":"文本框 9","text":"选择编码规则：按业务类型和配置编码读取规则。\n解析前缀与日期：组合固定文本、日期段等格式。","textPreview":"选择编码规则：按业务类型和配置编码读取规则。 | 解析前缀与日期：组合固定文本、日期段等格式。","textChars":45,"textLines":2,"bbox":[123.91,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/a9ojq5kz","slide":7,"name":"文本框 10","text":"选择编码规则","textPreview":"选择编码规则","textChars":6,"textLines":1,"bbox":[105.84,358.92,266.91,42.01]}
+{"kind":"shape","id":"sh/f2d0b6lc","slide":7,"name":"椭圆 17","bbox":[439.27,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/eh4jil4r","slide":7,"name":"椭圆 18","bbox":[461.62,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/id4ju1oz","slide":7,"name":"文本框 19","text":"获取序列：按日、月或配置周期生成下一个序号。","textPreview":"获取序列：按日、月或配置周期生成下一个序号。","textChars":22,"textLines":1,"bbox":[390.83,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/jedkn654","slide":7,"name":"文本框 20","text":"获取序列","textPreview":"获取序列","textChars":4,"textLines":1,"bbox":[372.75,358.92,266.91,42.01]}
+{"kind":"shape","id":"sh/r2dkrq5g","slide":7,"name":"椭圆 24","bbox":[706.18,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/s3ml0v61","slide":7,"name":"椭圆 25","bbox":[728.53,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/e5o32lor","slide":7,"name":"文本框 27","text":"格式化单号：补位并输出最终业务编码。","textPreview":"格式化单号：补位并输出最终业务编码。","textChars":18,"textLines":1,"bbox":[657.74,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/f6xkvq5c","slide":7,"name":"文本框 28","text":"格式化单号","textPreview":"格式化单号","textChars":5,"textLines":1,"bbox":[639.66,358.92,266.91,42.01]}
+{"kind":"shape","id":"sh/ozq5szq9","slide":7,"name":"椭圆 30","bbox":[973.09,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/2x8nqp83","slide":7,"name":"椭圆 32","bbox":[995.44,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/x4j6p47q","slide":7,"name":"文本框 33","text":"写入业务实体：创建任务、订单等对象时保存。","textPreview":"写入业务实体：创建任务、订单等对象时保存。","textChars":21,"textLines":1,"bbox":[924.65,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/c3a5wzq5","slide":7,"name":"文本框 34","text":"写入业务实体","textPreview":"写入业务实体","textChars":6,"textLines":1,"bbox":[906.57,358.92,266.91,42.01]}
+{"kind":"image","id":"im/kfilofml","slide":7,"name":"图形 35","bbox":[757.47,240.58,43.73,43.73]}
+{"kind":"image","id":"im/lgr2xk36","slide":7,"name":"图形 36","bbox":[490.56,239.02,43.73,43.73]}
+{"kind":"image","id":"im/ehwjal4b","slide":7,"name":"图形 37","bbox":[1024.38,238.98,43.73,43.73]}
+{"kind":"image","id":"im/zi5kjqlw","slide":7,"name":"图形 38","bbox":[223.87,239.16,43.73,43.73]}
+{"kind":"notes","id":"nt/gnmp4jqx","slide":7,"text":"建议时长：5 分钟\n讲师提示：提醒多实例部署下序列并发边界必须由底座保证，业务代码不要自行拼接递增号。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\12-编码规则与单据状态.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/fu1gfa1s","slide":8,"title":"08","textShapes":11}
+{"kind":"textbox","id":"sh/7u5w765k","slide":8,"name":"矩形: 圆角 21","text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[54.02,51.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/5sne5wne","slide":8,"name":"文本框 23","text":"单据状态是受控流转，不是随意改字段","textPreview":"单据状态是受控流转，不是随意改字段","textChars":17,"textLines":1,"bbox":[127.66,60.39,940,42.01]}
+{"kind":"textbox","id":"sh/i5wva1o3","slide":8,"name":"文本框 26","text":"KH.WMS","textPreview":"KH.WMS","textChars":6,"textLines":1,"bbox":[772.14,60.39,453.84,42.01]}
+{"kind":"shape","id":"sh/8bat47ml","slide":8,"name":"直接连接符 31","bbox":[127.66,104.59,1098.32,0]}
+{"kind":"shape","id":"sh/18byd4zy","slide":8,"name":"直接连接符 1","bbox":[54.02,661.92,1171.96,0]}
+{"kind":"shape","id":"sh/6h0fypgb","slide":8,"name":"矩形: 圆角 4","bbox":[95.88,167.8,534.78,210.86]}
+{"kind":"textbox","id":"sh/sjix0zy1","slide":8,"name":"矩形: 圆角 6","text":"正确流转","textPreview":"正确流转","textChars":4,"textLines":1,"bbox":[113.75,186.22,283.59,60]}
+{"kind":"textbox","id":"sh/je9g3ahk","slide":8,"name":"文本框 7","text":"• 从配置取得初始状态\n• 执行动作前校验当前状态","textPreview":"• 从配置取得初始状态 | • 执行动作前校验当前状态","textChars":25,"textLines":2,"bbox":[113.75,260.89,500.92,93.53]}
+{"kind":"shape","id":"sh/o7ydoret","slide":8,"name":"矩形: 圆角 9","bbox":[95.88,397.08,534.78,210.86]}
+{"kind":"textbox","id":"sh/98rehwve","slide":8,"name":"矩形: 圆角 10","text":"继续检查","textPreview":"继续检查","textChars":4,"textLines":1,"bbox":[113.75,415.5,283.59,60]}
+{"kind":"textbox","id":"sh/m5gvmhwn","slide":8,"name":"文本框 11","text":"• 按允许的源状态和目标状态推进\n• 实体方法与配置校验保持一致","textPreview":"• 按允许的源状态和目标状态推进 | • 实体方法与配置校验保持一致","textChars":32,"textLines":2,"bbox":[113.75,490.16,500.92,93.53]}
+{"kind":"shape","id":"sh/n6pwfmd8","slide":8,"name":"矩形: 圆角 12","bbox":[648.53,167.8,534.78,210.86]}
+{"kind":"textbox","id":"sh/0jydkreh","slide":8,"name":"矩形: 圆角 13","text":"危险做法","textPreview":"危险做法","textChars":4,"textLines":1,"bbox":[666.4,186.22,283.59,60]}
+{"kind":"textbox","id":"sh/1k7edwv2","slide":8,"name":"文本框 14","text":"• 任意 Service 直接赋新状态\n• 忽略已完成或已取消状态","textPreview":"• 任意 Service 直接赋新状态 | • 忽略已完成或已取消状态","textChars":33,"textLines":2,"bbox":[666.4,260.89,500.92,93.53]}
+{"kind":"shape","id":"sh/ehgvihwr","slide":8,"name":"矩形: 圆角 15","bbox":[648.53,397.08,534.78,210.86]}
+{"kind":"textbox","id":"sh/zipwbmdc","slide":8,"name":"矩形: 圆角 16","text":"继续检查","textPreview":"继续检查","textChars":4,"textLines":1,"bbox":[666.4,415.5,283.59,60]}
+{"kind":"textbox","id":"sh/kfixwbe1","slide":8,"name":"文本框 17","text":"• 状态更新与库存 / 任务写入分离\n• 把显示文案当作状态编码","textPreview":"• 状态更新与库存 / 任务写入分离 | • 把显示文案当作状态编码","textChars":32,"textLines":2,"bbox":[666.4,490.16,500.92,93.53]}
+{"kind":"notes","id":"nt/fu1gfa1s","slide":8,"text":"建议时长：5 分钟\n讲师提示：状态流转常与事务和幂等相连，尤其是任务完成回调。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\12-编码规则与单据状态.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\12-结合源码的后端深度走读.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/udsvah03","slide":9,"title":"09","textShapes":11}
+{"kind":"textbox","id":"sh/76h0zup8","slide":9,"name":"矩形: 圆角 21","text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[54.02,51.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/hcji5o7a","slide":9,"name":"文本框 23","text":"策略实现必须通过 IPolicyEngine 被发现和执行","textPreview":"策略实现必须通过 IPolicyEngine 被发现和执行","textChars":29,"textLines":1,"bbox":[127.66,60.39,940,42.01]}
+{"kind":"textbox","id":"sh/u9sja98z","slide":9,"name":"文本框 26","text":"KH.WMS","textPreview":"KH.WMS","textChars":6,"textLines":1,"bbox":[772.14,60.39,453.84,42.01]}
+{"kind":"shape","id":"sh/onmxcv69","slide":9,"name":"直接连接符 31","bbox":[127.66,104.59,1098.32,0]}
+{"kind":"shape","id":"sh/1cfmhgne","slide":9,"name":"直接连接符 1","bbox":[54.02,661.92,1171.96,0]}
+{"kind":"shape","id":"sh/9gzml0nq","slide":9,"name":"椭圆 5","bbox":[172.36,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/mdonql4z","slide":9,"name":"椭圆 4","bbox":[194.7,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/oza1gfyh","slide":9,"name":"文本框 9","text":"策略类型表达解决哪类问题","textPreview":"策略类型表达解决哪类问题","textChars":12,"textLines":1,"bbox":[123.91,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/p0ji9kf2","slide":9,"name":"文本框 10","text":"判断 01","textPreview":"判断 01","textChars":5,"textLines":1,"bbox":[105.84,358.92,266.91,42.01]}
+{"kind":"shape","id":"sh/0ru1ozyp","slide":9,"name":"椭圆 17","bbox":[439.27,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/lsn2h4fa","slide":9,"name":"椭圆 18","bbox":[461.62,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/98ji147e","slide":9,"name":"文本框 19","text":"策略编码选择一个具体实现","textPreview":"策略编码选择一个具体实现","textChars":12,"textLines":1,"bbox":[390.83,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/87a18zqt","slide":9,"name":"文本框 20","text":"判断 02","textPreview":"判断 02","textChars":5,"textLines":1,"bbox":[372.75,358.92,266.91,42.01]}
+{"kind":"shape","id":"sh/wba1cjqp","slide":9,"name":"椭圆 24","bbox":[706.18,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/va103ep4","slide":9,"name":"椭圆 25","bbox":[728.53,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/xgzitk76","slide":9,"name":"文本框 27","text":"策略链按配置顺序组合多个步骤","textPreview":"策略链按配置顺序组合多个步骤","textChars":14,"textLines":1,"bbox":[657.74,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/cf6h0fql","slide":9,"name":"文本框 28","text":"判断 03","textPreview":"判断 03","textChars":5,"textLines":1,"bbox":[639.66,358.92,266.91,42.01]}
+{"kind":"shape","id":"sh/nmdg3q54","slide":9,"name":"椭圆 30","bbox":[973.09,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/pofy50nu","slide":9,"name":"椭圆 32","bbox":[995.44,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/apofe5of","slide":9,"name":"文本框 33","text":"调用方负责构造上下文并处理失败","textPreview":"调用方负责构造上下文并处理失败","textChars":15,"textLines":1,"bbox":[924.65,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/bqxg7q50","slide":9,"name":"文本框 34","text":"判断 04","textPreview":"判断 04","textChars":5,"textLines":1,"bbox":[906.57,358.92,266.91,42.01]}
+{"kind":"image","id":"im/f21s7eh0","slide":9,"name":"图形 35","bbox":[757.47,240.58,43.73,43.73]}
+{"kind":"image","id":"im/u1sbe9gf","slide":9,"name":"图形 36","bbox":[490.56,239.02,43.73,43.73]}
+{"kind":"image","id":"im/p83udoz2","slide":9,"name":"图形 37","bbox":[1024.38,238.98,43.73,43.73]}
+{"kind":"image","id":"im/47atkjyh","slide":9,"name":"图形 38","bbox":[223.87,239.16,43.73,43.73]}
+{"kind":"notes","id":"nt/udsvah03","slide":9,"text":"建议时长：5 分钟\n讲师提示：用上架货位选择和出库库存分配举例，说明策略算法属于可替换决策。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\14-策略算法底座.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\12-结合源码的后端深度走读.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/m90b6t0r","slide":10,"title":"10","textShapes":12}
+{"kind":"textbox","id":"sh/bu5cnqd8","slide":10,"name":"矩形: 圆角 21","text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[54.02,51.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/lk7ut0va","slide":10,"name":"文本框 23","text":"类型、编码和策略链对应三种选择方式","textPreview":"类型、编码和策略链对应三种选择方式","textChars":17,"textLines":1,"bbox":[127.66,60.39,940,42.01]}
+{"kind":"textbox","id":"sh/yxgbilcj","slide":10,"name":"文本框 26","text":"KH.WMS","textPreview":"KH.WMS","textChars":6,"textLines":1,"bbox":[772.14,60.39,453.84,42.01]}
+{"kind":"shape","id":"sh/cva9k7a9","slide":10,"name":"直接连接符 31","bbox":[127.66,104.59,1098.32,0]}
+{"kind":"shape","id":"sh/xc3mho32","slide":10,"name":"直接连接符 1","bbox":[54.02,661.92,1171.96,0]}
+{"kind":"textbox","id":"sh/kzu5c32t","slide":10,"name":"文本框 6","text":"• 按策略类型\n• 按策略编码\n• 按策略链编码","textPreview":"• 按策略类型 | • 按策略编码 | • 按策略链编码","textChars":24,"textLines":3,"bbox":[107.78,350.07,311.91,151.69]}
+{"kind":"textbox","id":"sh/725onyl4","slide":10,"name":"文本框 7","text":"调用方式","textPreview":"调用方式","textChars":4,"textLines":1,"bbox":[134.38,293.42,258.7,42.01]}
+{"kind":"textbox","id":"sh/m1cnetkj","slide":10,"name":"矩形: 圆角 8","text":"PART ONE","textPreview":"PART ONE","textChars":8,"textLines":1,"bbox":[157.02,524.26,213.42,57.14]}
+{"kind":"textbox","id":"sh/r6pcv6lw","slide":10,"name":"文本框 12","text":"• 只有一组默认实现或由引擎选择\n• 业务明确指定某个实现\n• 多个步骤按配置组合执行","textPreview":"• 只有一组默认实现或由引擎选择 | • 业务明确指定某个实现 | • 多个步骤按配置组合执行","textChars":43,"textLines":3,"bbox":[485.24,350.07,311.91,151.69]}
+{"kind":"textbox","id":"sh/0bit8b2d","slide":10,"name":"文本框 13","text":"适用场景","textPreview":"适用场景","textChars":4,"textLines":1,"bbox":[511.84,293.42,258.7,42.01]}
+{"kind":"textbox","id":"sh/1cru1g3y","slide":10,"name":"矩形: 圆角 14","text":"PART TWO","textPreview":"PART TWO","textChars":8,"textLines":1,"bbox":[534.48,524.26,213.42,57.14]}
+{"kind":"textbox","id":"sh/e9gb61k7","slide":10,"name":"文本框 15","text":"• 策略类型 + 上下文\n• 类型 + 编码 + 上下文\n• 策略链编码 + 完整上下文","textPreview":"• 策略类型 + 上下文 | • 类型 + 编码 + 上下文 | • 策略链编码 + 完整上下文","textChars":44,"textLines":3,"bbox":[853.56,350.07,311.91,151.69]}
+{"kind":"textbox","id":"sh/fapcz6ls","slide":10,"name":"文本框 16","text":"调用方需要提供","textPreview":"调用方需要提供","textChars":7,"textLines":1,"bbox":[880.16,293.42,258.7,42.01]}
+{"kind":"textbox","id":"sh/ozitcv29","slide":10,"name":"矩形: 圆角 17","text":"PART THREE","textPreview":"PART THREE","textChars":10,"textLines":1,"bbox":[902.8,524.26,213.42,57.14]}
+{"kind":"image","id":"im/618fipsn","slide":10,"name":"图形 9","bbox":[218.32,181.37,90.83,90.83]}
+{"kind":"image","id":"im/18jex4ra","slide":10,"name":"图形 10","bbox":[592.25,183.03,92.47,92.47]}
+{"kind":"image","id":"im/g7axozap","slide":10,"name":"图形 11","bbox":[972.73,179.53,92.47,92.47]}
+{"kind":"notes","id":"nt/m90b6t0r","slide":10,"text":"建议时长：5 分钟\n讲师提示：策略失败不能静默返回空结果；调用方应记录原因并决定回滚、降级或阻断。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\14-策略算法底座.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/jetc3ut0","slide":11,"title":"11","textShapes":11}
+{"kind":"textbox","id":"sh/7650nq5s","slide":11,"name":"矩形: 圆角 21","text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[54.02,51.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/l43ilgn2","slide":11,"name":"文本框 23","text":"新增配置或策略前先检查边界","textPreview":"新增配置或策略前先检查边界","textChars":13,"textLines":1,"bbox":[127.66,60.39,940,42.01]}
+{"kind":"textbox","id":"sh/y1czalob","slide":11,"name":"文本框 26","text":"KH.WMS","textPreview":"KH.WMS","textChars":6,"textLines":1,"bbox":[772.14,60.39,453.84,42.01]}
+{"kind":"shape","id":"sh/o7axk7m9","slide":11,"name":"直接连接符 31","bbox":[127.66,104.59,1098.32,0]}
+{"kind":"shape","id":"sh/xcryxg7y","slide":11,"name":"直接连接符 1","bbox":[54.02,661.92,1171.96,0]}
+{"kind":"shape","id":"sh/wbih4b6d","slide":11,"name":"椭圆 2","bbox":[113.75,321.46,73.61,73.61]}
+{"kind":"textbox","id":"sh/98rytw72","slide":11,"name":"文本框 5","text":"• 确认应放 Options、Config 配置库还是系统参数\n• 定义作用域、默认值和缺失策略","textPreview":"• 确认应放 Options、Config 配置库还是系统参数 | • 定义作用域、默认值和缺失策略","textChars":48,"textLines":2,"bbox":[206.81,333.39,414.52,93.53]}
+{"kind":"textbox","id":"sh/o7ih0r6h","slide":11,"name":"文本框 6","text":"配置规则 · 1","textPreview":"配置规则 · 1","textChars":8,"textLines":1,"bbox":[206.81,293,383.02,42.01]}
+{"kind":"shape","id":"sh/61kzalof","slide":11,"name":"椭圆 8","bbox":[113.75,489.07,73.61,73.61]}
+{"kind":"textbox","id":"sh/9gza9sze","slide":11,"name":"文本框 10","text":"• 设计缓存 key 与失效方式\n• 避免通过 IConfiguration 绕过业务 Config Contract","textPreview":"• 设计缓存 key 与失效方式 | • 避免通过 IConfiguration 绕过业务 Config Contract","textChars":59,"textLines":2,"bbox":[206.81,501.01,414.52,93.53]}
+{"kind":"textbox","id":"sh/mdobedg3","slide":11,"name":"文本框 11","text":"配置规则 · 2","textPreview":"配置规则 · 2","textChars":8,"textLines":1,"bbox":[206.81,460.62,383.02,42.01]}
+{"kind":"shape","id":"sh/0b6tc3yx","slide":11,"name":"椭圆 13","bbox":[668.41,321.46,73.61,73.61]}
+{"kind":"textbox","id":"sh/epobatgr","slide":11,"name":"文本框 15","text":"• 策略类能被正确注册与发现\n• 编码和类型与数据库配置一致","textPreview":"• 策略类能被正确注册与发现 | • 编码和类型与数据库配置一致","textChars":30,"textLines":2,"bbox":[761.48,333.39,414.52,93.53]}
+{"kind":"textbox","id":"sh/zaxs3yhc","slide":11,"name":"文本框 16","text":"策略实现 · 1","textPreview":"策略实现 · 1","textChars":8,"textLines":1,"bbox":[761.48,293,383.02,42.01]}
+{"kind":"shape","id":"sh/dofa18z6","slide":11,"name":"椭圆 18","bbox":[668.41,489.07,73.61,73.61]}
+{"kind":"textbox","id":"sh/87ehgv6d","slide":11,"name":"文本框 20","text":"• 调用方构造完整上下文\n• 策略失败有明确结果、日志和事务处理","textPreview":"• 调用方构造完整上下文 | • 策略失败有明确结果、日志和事务处理","textChars":32,"textLines":2,"bbox":[761.48,501.01,414.52,93.53]}
+{"kind":"textbox","id":"sh/65wzelo7","slide":11,"name":"文本框 22","text":"策略实现 · 2","textPreview":"策略实现 · 2","textChars":8,"textLines":1,"bbox":[761.48,460.62,383.02,42.01]}
+{"kind":"shape","id":"sh/k3uhcb6h","slide":11,"name":"矩形: 圆角 24","bbox":[113.75,160.27,1052.5,105.51]}
+{"kind":"shape","id":"sh/eh8fex47","slide":11,"name":"文本框 33","bbox":[142.96,179.94,994.09,64.45]}
+{"kind":"image","id":"im/cfqlk7ap","slide":11,"name":"图形 3","bbox":[133.21,340.92,34.69,34.69]}
+{"kind":"image","id":"im/behkb294","slide":11,"name":"图形 28","bbox":[687.87,340.92,34.69,34.69]}
+{"kind":"image","id":"im/qd83ixsj","slide":11,"name":"图形 29","bbox":[687.87,508.53,34.69,34.69]}
+{"kind":"image","id":"im/tkf218bq","slide":11,"name":"图形 30","bbox":[134.21,509.35,34.69,34.69]}
+{"kind":"notes","id":"nt/jetc3ut0","slide":11,"text":"建议时长：6 分钟\n讲师提示：补充当前 DataMap/InterfaceMiddleware 不是主线启用能力，不作为普通配置扩展模板。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\10-Config配置底座.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\14-策略算法底座.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\15-应用配置Options与运行时配置边界.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\README.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/8f2psfyx","slide":12,"title":"小测","textShapes":14}
+{"kind":"textbox","id":"sh/ra943il8","slide":12,"name":"文本框 3","text":"小测","textPreview":"小测","textChars":2,"textLines":1,"bbox":[192.88,96.54,213.26,116.33]}
+{"kind":"textbox","id":"sh/q903ad4n","slide":12,"name":"文本框 4","text":"QUIZ","textPreview":"QUIZ","textChars":4,"textLines":1,"bbox":[404.72,156.07,172.2,42.01]}
+{"kind":"shape","id":"sh/dcbm583y","slide":12,"name":"弧形 5","bbox":[-563.93,54.29,203.57,203.57]}
+{"kind":"shape","id":"sh/sb2lcnmd","slide":12,"name":"椭圆 6","bbox":[-564.65,84.41,28.09,28.09]}
+{"kind":"textbox","id":"sh/a543mx4r","slide":12,"name":"矩形: 圆角 8","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[363.35,263.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/wvupgz6t","slide":12,"name":"文本框 9","text":"数据库连接串和是否允许混批分","textPreview":"数据库连接串和是否允许混批分","textChars":14,"textLines":1,"bbox":[431.66,261.48,453.84,42.01]}
+{"kind":"textbox","id":"sh/xw3q94ne","slide":12,"name":"文本框 10","text":"别应该放在哪里？","textPreview":"别应该放在哪里？","textChars":8,"textLines":1,"bbox":[431.66,298.71,453.84,24.23]}
+{"kind":"textbox","id":"sh/bulo7u58","slide":12,"name":"矩形: 圆角 12","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[445.6,358.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/9sj65kn2","slide":12,"name":"文本框 14","text":"配置缓存 key","textPreview":"配置缓存 key","textChars":8,"textLines":1,"bbox":[513.91,356.48,453.84,42.01]}
+{"kind":"textbox","id":"sh/mps7a5or","slide":12,"name":"文本框 15","text":"为什么必须包含作用域？","textPreview":"为什么必须包含作用域？","textChars":11,"textLines":1,"bbox":[513.91,393.71,453.84,24.23]}
+{"kind":"textbox","id":"sh/0nap8f6l","slide":12,"name":"矩形: 圆角 17","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[506.79,466.45,59.73,59.73]}
+{"kind":"textbox","id":"sh/uh0na1g3","slide":12,"name":"文本框 22","text":"业务代码为什么不应该自己拼接","textPreview":"业务代码为什么不应该自己拼接","textChars":14,"textLines":1,"bbox":[575.1,464.4,453.84,42.01]}
+{"kind":"textbox","id":"sh/sfi58ryd","slide":12,"name":"文本框 24","text":"单号？","textPreview":"单号？","textChars":3,"textLines":1,"bbox":[575.1,501.62,453.84,24.23]}
+{"kind":"textbox","id":"sh/7u94zmhs","slide":12,"name":"矩形: 圆角 25","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[603.17,572.63,59.73,59.73]}
+{"kind":"textbox","id":"sh/dcv6dgz2","slide":12,"name":"文本框 27","text":"调用策略时为什么要通过","textPreview":"调用策略时为什么要通过","textChars":11,"textLines":1,"bbox":[671.47,570.58,453.84,42.01]}
+{"kind":"textbox","id":"sh/cbm5kbyh","slide":12,"name":"文本框 28","text":"IPolicyEngine？","textPreview":"IPolicyEngine？","textChars":14,"textLines":1,"bbox":[671.47,607.81,453.84,24.23]}
+{"kind":"image","id":"im/ps7mlwbu","slide":12,"name":"图片 30","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/8f2psfyx","slide":12,"text":"建议时长：8 分钟（含答疑）\n讲师提示：小测后让成员为一个现有业务开关判断配置载体、作用域和缺失策略。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\10-Config配置底座.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\12-编码规则与单据状态.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\14-策略算法底座.md\n小测参考答案：1. 连接串放环境化 appsettings/Options；允许混批属于运行期业务 Config。2. 防止不同仓库、货主或业务类型互相污染。3. 并发、周期和格式应由编码底座统一保证。4. 保持策略可注册、可配置、可替换，并统一处理上下文和结果。\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}

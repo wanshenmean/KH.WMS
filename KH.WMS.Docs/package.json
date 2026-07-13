@@ -1,0 +1,17 @@
+{
+  "name": "kh-wms-developer-academy",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "sync": "node scripts/sync-content.mjs",
+    "verify:content": "node scripts/verify-content.mjs",
+    "dev": "npm run sync && vitepress dev",
+    "build": "npm run sync && npm run verify:content && vitepress build",
+    "preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "vitepress": "1.6.4",
+    "vue": "^3.5.13"
+  }
+}

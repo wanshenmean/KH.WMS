@@ -1,0 +1,245 @@
+{"kind":"deck","id":"pr/dc7z57","name":"Deck"}
+{"kind":"layout","layoutId":"/ppt/slideMasters/slideMaster1.xml","name":"","type":"master","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout1.xml","name":"标题幻灯片","type":"title","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"subtitle","type":"subtitle","textPreview":"单击此处编辑母版副标题样式"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout2.xml","name":"标题和内容","type":"obj","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"2","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout3.xml","name":"节标题","type":"secHead","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout4.xml","name":"两栏内容","type":"twoObj","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"2","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"3","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout5.xml","name":"比较","type":"twoTxTwoObj","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式"},{"name":"3","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式"},{"name":"5","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout6.xml","name":"仅标题","type":"titleOnly","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout7.xml","name":"空白","type":"blank","placeholders":[{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout8.xml","name":"内容与标题","type":"objTx","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"2","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout9.xml","name":"图片与标题","type":"picTx","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"picture","type":"picture"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout10.xml","name":"标题和竖排文字","type":"vertTx","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout11.xml","name":"竖排标题与文本","type":"vertTitleAndTx","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"slide","id":"sl/y90nupkv","slide":1,"title":"启动机制","textShapes":4}
+{"kind":"textbox","id":"sh/1cvuxc7e","slide":1,"name":"文本框 19","text":"启动机制","textPreview":"启动机制","textChars":4,"textLines":1,"bbox":[635,275,600,102]}
+{"kind":"textbox","id":"sh/0bmd476t","slide":1,"name":"文本框 20","text":"后端全景","textPreview":"后端全景","textChars":4,"textLines":1,"bbox":[635,178,600,102]}
+{"kind":"textbox","id":"sh/90ve1w7q","slide":1,"name":"文本框 23","text":"先建立系统地图，再理解代码为什么能够被发现和运行","textPreview":"先建立系统地图，再理解代码为什么能够被发现和运行","textChars":24,"textLines":1,"bbox":[618.67,421.45,366,46.19]}
+{"kind":"shape","id":"sh/mx4v6hoz","slide":1,"name":"直接连接符 26","bbox":[523.91,344.35,158.03,148.43]}
+{"kind":"textbox","id":"sh/p4bu5s76","slide":1,"name":"文本框 27","text":"第 01 讲 · KH.WMS 后端培训","textPreview":"第 01 讲 · KH.WMS 后端培训","textChars":20,"textLines":1,"bbox":[655.47,379.44,243.72,42.01]}
+{"kind":"shape","id":"sh/uxgjq907","slide":1,"name":"弧形 29","bbox":[442.62,153.5,203.57,203.57]}
+{"kind":"shape","id":"sh/vyp0je1s","slide":1,"name":"直接连接符 30","bbox":[582.06,311.12,158.03,148.43]}
+{"kind":"shape","id":"sh/h072l4jy","slide":1,"name":"椭圆 32","bbox":[511.66,142.67,28.09,28.09]}
+{"kind":"image","id":"im/5kjidwzq","slide":1,"name":"图片 16","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/y90nupkv","slide":1,"text":"建议时长：2 分钟\n讲师提示：开场先说明：本讲不要求记住全部框架代码，目标是建立后续所有课程共用的地图。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\README.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\00-这份文档怎么读.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/hwbqtkby","slide":2,"title":"范围","textShapes":14}
+{"kind":"textbox","id":"sh/b29kza94","slide":2,"name":"文本框 3","text":"范围","textPreview":"范围","textChars":2,"textLines":1,"bbox":[192.88,96.54,213.26,116.33]}
+{"kind":"textbox","id":"sh/a10jqpsj","slide":2,"name":"文本框 4","text":"SCOPE","textPreview":"SCOPE","textChars":5,"textLines":1,"bbox":[404.72,156.07,172.2,42.01]}
+{"kind":"shape","id":"sh/x4r21kru","slide":2,"name":"弧形 5","bbox":[-563.93,54.29,203.57,203.57]}
+{"kind":"shape","id":"sh/w3i1sfa9","slide":2,"name":"椭圆 6","bbox":[-564.65,84.41,28.09,28.09]}
+{"kind":"textbox","id":"sh/q5wjelsz","slide":2,"name":"矩形: 圆角 8","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[363.35,263.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/ove9o7yd","slide":2,"name":"文本框 9","text":"培训路线与开发判断","textPreview":"培训路线与开发判断","textChars":9,"textLines":1,"bbox":[431.66,261.48,650,42.01]}
+{"kind":"textbox","id":"sh/9wnqhczy","slide":2,"name":"文本框 10","text":"先判断归属模块和需求类型","textPreview":"先判断归属模块和需求类型","textChars":12,"textLines":1,"bbox":[431.66,298.71,453.84,24.23]}
+{"kind":"textbox","id":"sh/nu58f2hs","slide":2,"name":"矩形: 圆角 12","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[445.6,358.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/xk7qlczu","slide":2,"name":"文本框 14","text":"业务模块与分层职责","textPreview":"业务模块与分层职责","textChars":9,"textLines":1,"bbox":[513.91,356.48,620,42.01]}
+{"kind":"textbox","id":"sh/ahwrqhgj","slide":2,"name":"文本框 15","text":"能解释 Controller、Service、Contract 边界","textPreview":"能解释 Controller、Service、Contract 边界","textChars":34,"textLines":1,"bbox":[513.91,393.71,453.84,24.23]}
+{"kind":"textbox","id":"sh/cnupgny5","slide":2,"name":"矩形: 圆角 17","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[506.79,466.45,59.73,59.73]}
+{"kind":"textbox","id":"sh/65kfmpor","slide":2,"name":"文本框 22","text":"Program 启动与程序集扫描","textPreview":"Program 启动与程序集扫描","textChars":16,"textLines":1,"bbox":[575.1,464.4,580,42.01]}
+{"kind":"textbox","id":"sh/gbmxszmt","slide":2,"name":"文本框 24","text":"Swagger 缺接口时会查扫描链路","textPreview":"Swagger 缺接口时会查扫描链路","textChars":18,"textLines":1,"bbox":[575.1,501.62,453.84,24.23]}
+{"kind":"textbox","id":"sh/fadgzu58","slide":2,"name":"矩形: 圆角 25","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[603.17,572.63,59.73,59.73]}
+{"kind":"textbox","id":"sh/p0vy54na","slide":2,"name":"文本框 27","text":"启动配置与运行配置","textPreview":"启动配置与运行配置","textChars":9,"textLines":1,"bbox":[671.47,570.58,520,42.01]}
+{"kind":"textbox","id":"sh/4zmxwzmp","slide":2,"name":"文本框 28","text":"知道配置应放 appsettings 还是 Config","textPreview":"知道配置应放 appsettings 还是 Config","textChars":28,"textLines":1,"bbox":[671.47,607.81,453.84,24.23]}
+{"kind":"image","id":"im/xo7il4ne","slide":2,"name":"图片 30","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/hwbqtkby","slide":2,"text":"建议时长：5 分钟\n讲师提示：逐列说明本讲边界，明确底层机制只讲到业务开发需要理解的程度。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\README.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\00-这份文档怎么读.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\README.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/ofy9wn61","slide":3,"title":"03","textShapes":11}
+{"kind":"textbox","id":"sh/03ix43e5","slide":3,"name":"矩形: 圆角 21","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[54.02,51.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/6d0fytg3","slide":3,"name":"文本框 23","text":"开始写代码前，先回答四个问题","textPreview":"开始写代码前，先回答四个问题","textChars":14,"textLines":1,"bbox":[127.66,60.39,940,42.01]}
+{"kind":"textbox","id":"sh/tgry9ofu","slide":3,"name":"文本框 26","text":"KH.WMS","textPreview":"KH.WMS","textChars":6,"textLines":1,"bbox":[772.14,60.39,453.84,42.01]}
+{"kind":"shape","id":"sh/z2d07mh4","slide":3,"name":"直接连接符 31","bbox":[127.66,104.59,1098.32,0]}
+{"kind":"shape","id":"sh/cza94vmx","slide":3,"name":"直接连接符 1","bbox":[54.02,661.92,1171.96,0]}
+{"kind":"shape","id":"sh/obq90bml","slide":3,"name":"椭圆 5","bbox":[172.36,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/3ah8rqlg","slide":3,"name":"椭圆 4","bbox":[194.7,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/n2l4fq98","slide":3,"name":"文本框 9","text":"需求归属哪个业务模块？","textPreview":"需求归属哪个业务模块？","textChars":11,"textLines":1,"bbox":[123.91,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/m1c3mlsn","slide":3,"name":"文本框 10","text":"判断 01","textPreview":"判断 01","textChars":5,"textLines":1,"bbox":[105.84,358.92,266.91,42.01]}
+{"kind":"shape","id":"sh/ja54na9g","slide":3,"name":"椭圆 17","bbox":[439.27,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/i9w3u58v","slide":3,"name":"椭圆 18","bbox":[461.62,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/e10f2twf","slide":3,"name":"文本框 19","text":"是普通 CRUD 还是流程型接口？","textPreview":"是普通 CRUD 还是流程型接口？","textChars":17,"textLines":1,"bbox":[390.83,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/f29gbyx0","slide":3,"name":"文本框 20","text":"判断 02","textPreview":"判断 02","textChars":5,"textLines":1,"bbox":[372.75,358.92,266.91,42.01]}
+{"kind":"shape","id":"sh/re9g7yxo","slide":3,"name":"椭圆 24","bbox":[706.18,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/sfix03y9","slide":3,"name":"椭圆 25","bbox":[728.53,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/a9kfadwn","slide":3,"name":"文本框 27","text":"是否需要跨模块 Contract？","textPreview":"是否需要跨模块 Contract？","textChars":17,"textLines":1,"bbox":[657.74,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/batgjixs","slide":3,"name":"文本框 28","text":"判断 03","textPreview":"判断 03","textChars":5,"textLines":1,"bbox":[639.66,358.92,266.91,42.01]}
+{"kind":"shape","id":"sh/k3m1g7yp","slide":3,"name":"椭圆 30","bbox":[973.09,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/y14jehgj","slide":3,"name":"椭圆 32","bbox":[995.44,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/x0vi5czy","slide":3,"name":"文本框 33","text":"是否涉及事务或可配置校验？","textPreview":"是否涉及事务或可配置校验？","textChars":13,"textLines":1,"bbox":[924.65,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/czmhc7id","slide":3,"name":"文本框 34","text":"判断 04","textPreview":"判断 04","textChars":5,"textLines":1,"bbox":[906.57,358.92,266.91,42.01]}
+{"kind":"image","id":"im/gfy9wfil","slide":3,"name":"图形 35","bbox":[757.47,240.58,43.73,43.73]}
+{"kind":"image","id":"im/hg7apkj6","slide":3,"name":"图形 36","bbox":[490.56,239.02,43.73,43.73]}
+{"kind":"image","id":"im/e90b690z","slide":3,"name":"图形 37","bbox":[1024.38,238.98,43.73,43.73]}
+{"kind":"image","id":"im/fa9szehk","slide":3,"name":"图形 38","bbox":[223.87,239.16,43.73,43.73]}
+{"kind":"notes","id":"nt/ofy9wn61","slide":3,"text":"建议时长：5 分钟\n讲师提示：让听众用自己最近一个需求回答四个问题。后续课程会分别解决这四类判断。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\00-这份文档怎么读.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\08-后端开发标准流程.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/jyx0ra1s","slide":4,"title":"04","textShapes":11}
+{"kind":"textbox","id":"sh/3ytsrmpw","slide":4,"name":"矩形: 圆角 21","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[54.02,51.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/1wbapc7q","slide":4,"name":"文本框 23","text":"后端由业务模块和共享底座共同组成","textPreview":"后端由业务模块和共享底座共同组成","textChars":16,"textLines":1,"bbox":[127.66,60.39,940,42.01]}
+{"kind":"textbox","id":"sh/et0reh8f","slide":4,"name":"文本框 26","text":"KH.WMS","textPreview":"KH.WMS","textChars":6,"textLines":1,"bbox":[772.14,60.39,453.84,42.01]}
+{"kind":"shape","id":"sh/knex8j21","slide":4,"name":"直接连接符 31","bbox":[127.66,104.59,1098.32,0]}
+{"kind":"shape","id":"sh/1cj2d8b6","slide":4,"name":"直接连接符 1","bbox":[54.02,661.92,1171.96,0]}
+{"kind":"shape","id":"sh/ql8jytsj","slide":4,"name":"矩形: 圆角 4","bbox":[95.88,167.8,534.78,210.86]}
+{"kind":"textbox","id":"sh/sna103ap","slide":4,"name":"矩形: 圆角 6","text":"BaseData / Inbound","textPreview":"BaseData / Inbound","textChars":18,"textLines":1,"bbox":[113.75,186.22,283.59,60]}
+{"kind":"textbox","id":"sh/3ihk3et8","slide":4,"name":"文本框 7","text":"BaseData：物料、客户、供应商等基础资料。\nInbound：入库订单、组盘、上架请求。","textPreview":"BaseData：物料、客户、供应商等基础资料。 | Inbound：入库订单、组盘、上架请求。","textChars":46,"textLines":2,"bbox":[113.75,260.89,500.92,93.53]}
+{"kind":"shape","id":"sh/kbm987y5","slide":4,"name":"矩形: 圆角 9","bbox":[95.88,397.08,534.78,210.86]}
+{"kind":"textbox","id":"sh/5cva1cfq","slide":4,"name":"矩形: 圆角 10","text":"Inventory / Outbound","textPreview":"Inventory / Outbound","textChars":20,"textLines":1,"bbox":[113.75,415.5,283.59,60]}
+{"kind":"textbox","id":"sh/i94r6xgz","slide":4,"name":"文本框 11","text":"Inventory：库存、库存移动与占用。\nOutbound：出库订单、分配与拣货。","textPreview":"Inventory：库存、库存移动与占用。 | Outbound：出库订单、分配与拣货。","textChars":42,"textLines":2,"bbox":[113.75,490.16,500.92,93.53]}
+{"kind":"shape","id":"sh/jadsz2xk","slide":4,"name":"矩形: 圆角 12","bbox":[648.53,167.8,534.78,210.86]}
+{"kind":"textbox","id":"sh/w72947yt","slide":4,"name":"矩形: 圆角 13","text":"Task / Warehouse","textPreview":"Task / Warehouse","textChars":16,"textLines":1,"bbox":[666.4,186.22,283.59,60]}
+{"kind":"textbox","id":"sh/x8vaxsfe","slide":4,"name":"文本框 14","text":"Task：任务生成、执行与完成。\nWarehouse：仓库、库区、货位等仓储基础。","textPreview":"Task：任务生成、执行与完成。 | Warehouse：仓库、库区、货位等仓储基础。","textChars":41,"textLines":2,"bbox":[666.4,260.89,500.92,93.53]}
+{"kind":"shape","id":"sh/a5kr2xg3","slide":4,"name":"矩形: 圆角 15","bbox":[648.53,397.08,534.78,210.86]}
+{"kind":"textbox","id":"sh/v6tsv2xo","slide":4,"name":"矩形: 圆角 16","text":"System / Dashboard","textPreview":"System / Dashboard","textChars":18,"textLines":1,"bbox":[666.4,415.5,283.59,60]}
+{"kind":"textbox","id":"sh/g36tgryd","slide":4,"name":"文本框 17","text":"System：用户、角色、权限与系统维护。\nDashboard：首页看板和聚合展示。","textPreview":"System：用户、角色、权限与系统维护。 | Dashboard：首页看板和聚合展示。","textChars":42,"textLines":2,"bbox":[666.4,490.16,500.92,93.53]}
+{"kind":"notes","id":"nt/jyx0ra1s","slide":4,"text":"建议时长：6 分钟\n讲师提示：强调模块不是页面目录，而是业务能力边界。新增需求先找到能力归属方。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\01-KH.WMS后端整体地图.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\02-模块边界与分层职责.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/i107q5of","slide":5,"title":"05","textShapes":12}
+{"kind":"textbox","id":"sh/fe94nm1w","slide":5,"name":"矩形: 圆角 21","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[54.02,51.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/pkr6tgjy","slide":5,"name":"文本框 23","text":"分层职责决定代码应该落在哪里","textPreview":"分层职责决定代码应该落在哪里","textChars":14,"textLines":1,"bbox":[127.66,60.39,940,42.01]}
+{"kind":"textbox","id":"sh/2h0ni107","slide":5,"name":"文本框 26","text":"KH.WMS","textPreview":"KH.WMS","textChars":6,"textLines":1,"bbox":[772.14,60.39,453.84,42.01]}
+{"kind":"shape","id":"sh/wve1knyx","slide":5,"name":"直接连接符 31","bbox":[127.66,104.59,1098.32,0]}
+{"kind":"shape","id":"sh/dgbulwnm","slide":5,"name":"直接连接符 1","bbox":[54.02,661.92,1171.96,0]}
+{"kind":"textbox","id":"sh/032tgr6d","slide":5,"name":"文本框 6","text":"Entity / DTO：Entity 表达持久化结构； DTO 表达接口输入输出。 不要让前端协议直接绑死数据库模型。","textPreview":"Entity / DTO：Entity 表达持久化结构； DTO 表达接口输入输出。 不要让前端协议直接绑死数据库模型。","textChars":60,"textLines":1,"bbox":[107.78,350.07,311.91,151.69]}
+{"kind":"textbox","id":"sh/n6dcr65o","slide":5,"name":"文本框 7","text":"Entity / DTO / Service","textPreview":"Entity / DTO / Service","textChars":22,"textLines":1,"bbox":[134.38,293.42,258.7,42.01]}
+{"kind":"textbox","id":"sh/m5kbi1oj","slide":5,"name":"矩形: 圆角 8","text":"PART ONE","textPreview":"PART ONE","textChars":8,"textLines":1,"bbox":[157.02,524.26,213.42,57.14]}
+{"kind":"textbox","id":"sh/v2twb6dw","slide":5,"name":"文本框 12","text":"Controller：只负责 HTTP 入口、参数接收和返回结果，不承载复杂业务。","textPreview":"Controller：只负责 HTTP 入口、参数接收和返回结果，不承载复杂业务。","textChars":41,"textLines":1,"bbox":[485.24,350.07,311.91,151.69]}
+{"kind":"textbox","id":"sh/k7mxovud","slide":5,"name":"文本框 13","text":"Controller","textPreview":"Controller","textChars":10,"textLines":1,"bbox":[511.84,293.42,258.7,42.01]}
+{"kind":"textbox","id":"sh/58vehgvy","slide":5,"name":"矩形: 圆角 14","text":"PART TWO","textPreview":"PART TWO","textChars":8,"textLines":1,"bbox":[534.48,524.26,213.42,57.14]}
+{"kind":"textbox","id":"sh/i54fmlc7","slide":5,"name":"文本框 15","text":"Contract：只暴露跨模块所需能力；调用方依赖接口，不直接引用对方 Service。","textPreview":"Contract：只暴露跨模块所需能力；调用方依赖接口，不直接引用对方 Service。","textChars":44,"textLines":1,"bbox":[853.56,350.07,311.91,151.69]}
+{"kind":"textbox","id":"sh/j6dwfqds","slide":5,"name":"文本框 16","text":"Contract","textPreview":"Contract","textChars":8,"textLines":1,"bbox":[880.16,293.42,258.7,42.01]}
+{"kind":"textbox","id":"sh/sb6xsvu9","slide":5,"name":"矩形: 圆角 17","text":"PART THREE","textPreview":"PART THREE","textChars":10,"textLines":1,"bbox":[902.8,524.26,213.42,57.14]}
+{"kind":"image","id":"im/id4ze58b","slide":5,"name":"图形 9","bbox":[218.32,181.37,90.83,90.83]}
+{"kind":"image","id":"im/t4fid4ry","slide":5,"name":"图形 10","bbox":[592.25,183.03,92.47,92.47]}
+{"kind":"image","id":"im/sj61kzqd","slide":5,"name":"图形 11","bbox":[972.73,179.53,92.47,92.47]}
+{"kind":"notes","id":"nt/i107q5of","slide":5,"text":"建议时长：6 分钟\n讲师提示：用“修改一条库存”举例：外部模块不能绕过 Inventory Contract 直接改库存表。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\04-职责边界.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\02-模块边界与分层职责.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/x8f69ofe","slide":6,"title":"06","textShapes":11}
+{"kind":"textbox","id":"sh/qpwnet0b","slide":6,"name":"矩形: 圆角 21","text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[54.02,51.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/0fy5k3id","slide":6,"name":"文本框 23","text":"Program.cs 的工作是把宿主、服务和请求管道拼起来","textPreview":"Program.cs 的工作是把宿主、服务和请求管道拼起来","textChars":29,"textLines":1,"bbox":[127.66,60.39,940,42.01]}
+{"kind":"textbox","id":"sh/zep4byhs","slide":6,"name":"文本框 26","text":"KH.WMS","textPreview":"KH.WMS","textChars":6,"textLines":1,"bbox":[772.14,60.39,453.84,42.01]}
+{"kind":"shape","id":"sh/50bqpcj2","slide":6,"name":"直接连接符 31","bbox":[127.66,104.59,1098.32,0]}
+{"kind":"shape","id":"sh/yhg7epsj","slide":6,"name":"直接连接符 1","bbox":[54.02,661.92,1171.96,0]}
+{"kind":"shape","id":"sh/ml07i9sv","slide":6,"name":"椭圆 5","bbox":[172.36,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/98rqt4r6","slide":6,"name":"椭圆 4","bbox":[194.7,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/h4bupgn6","slide":6,"name":"文本框 9","text":"创建宿主：加载环境、配置文件和日志基础。","textPreview":"创建宿主：加载环境、配置文件和日志基础。","textChars":20,"textLines":1,"bbox":[123.91,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/w32twb6l","slide":6,"name":"文本框 10","text":"创建宿主","textPreview":"创建宿主","textChars":4,"textLines":1,"bbox":[105.84,358.92,266.91,42.01]}
+{"kind":"shape","id":"sh/twfux0ne","slide":6,"name":"椭圆 17","bbox":[439.27,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/svmt4v6t","slide":6,"name":"椭圆 18","bbox":[461.62,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/cbe5g3ih","slide":6,"name":"文本框 19","text":"注册基础设施：AddInfrastructure 接入数据库、缓存、认证、文档等能力。","textPreview":"注册基础设施：AddInfrastructure 接入数据库、缓存、认证、文档等能力。","textChars":43,"textLines":1,"bbox":[390.83,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/dcnm98zm","slide":6,"name":"文本框 20","text":"注册基础设施","textPreview":"注册基础设施","textChars":6,"textLines":1,"bbox":[372.75,358.92,266.91,42.01]}
+{"kind":"shape","id":"sh/lg76d8zy","slide":6,"name":"椭圆 24","bbox":[706.18,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/ydgnit07","slide":6,"name":"椭圆 25","bbox":[728.53,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/gju58ji9","slide":6,"name":"文本框 27","text":"发现业务程序集：扫描模块 Controller、Service 和 Contract 实现。","textPreview":"发现业务程序集：扫描模块 Controller、Service 和 Contract 实现。","textChars":46,"textLines":1,"bbox":[657.74,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/1k3mhozu","slide":6,"name":"文本框 28","text":"发现业务程序集","textPreview":"发现业务程序集","textChars":7,"textLines":1,"bbox":[639.66,358.92,266.91,42.01]}
+{"kind":"shape","id":"sh/idk7ehkr","slide":6,"name":"椭圆 30","bbox":[973.09,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/4f2pgr2h","slide":6,"name":"椭圆 32","bbox":[995.44,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/va98j210","slide":6,"name":"文本框 33","text":"构建请求管道：按顺序挂载中间件、认证授权和路由。","textPreview":"构建请求管道：按顺序挂载中间件、认证授权和路由。","textChars":24,"textLines":1,"bbox":[924.65,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/u907axkf","slide":6,"name":"文本框 34","text":"构建请求管道","textPreview":"构建请求管道","textChars":6,"textLines":1,"bbox":[906.57,358.92,266.91,42.01]}
+{"kind":"image","id":"im/yh0n6x87","slide":6,"name":"图形 35","bbox":[757.47,240.58,43.73,43.73]}
+{"kind":"image","id":"im/ji9of2ps","slide":6,"name":"图形 36","bbox":[490.56,239.02,43.73,43.73]}
+{"kind":"image","id":"im/4fm5krqh","slide":6,"name":"图形 37","bbox":[1024.38,238.98,43.73,43.73]}
+{"kind":"image","id":"im/pgv6tw72","slide":6,"name":"图形 38","bbox":[223.87,239.16,43.73,43.73]}
+{"kind":"notes","id":"nt/x8f69ofe","slide":6,"text":"建议时长：6 分钟\n讲师提示：指出启动阶段的错误通常表现为构建失败、注入失败或 Swagger 缺失，不要直接怀疑业务方法。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\02-后端基础配置与启动机制.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\12-结合源码的后端深度走读.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\01-启动入口与程序集扫描.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/gnmp4jqx","slide":7,"title":"07","textShapes":10}
+{"kind":"textbox","id":"sh/4fm1wb6p","slide":7,"name":"矩形: 圆角 21","text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[54.02,51.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/q143ylov","slide":7,"name":"文本框 23","text":"程序集扫描决定 Controller 是否进入 MVC","textPreview":"程序集扫描决定 Controller 是否进入 MVC","textChars":27,"textLines":1,"bbox":[127.66,60.39,940,42.01]}
+{"kind":"textbox","id":"sh/d4f2t0nm","slide":7,"name":"文本框 26","text":"KH.WMS","textPreview":"KH.WMS","textChars":6,"textLines":1,"bbox":[772.14,60.39,453.84,42.01]}
+{"kind":"shape","id":"sh/nyh4jupo","slide":7,"name":"直接连接符 31","bbox":[127.66,104.59,1098.32,0]}
+{"kind":"shape","id":"sh/cb2tkvap","slide":7,"name":"直接连接符 1","bbox":[54.02,661.92,1171.96,0]}
+{"kind":"textbox","id":"sh/zedcfa9g","slide":7,"name":"矩形: 圆角 4","text":".ConfigureApplicationPartManager(apm =>\n{\n    var moduleAssemblies =\n        AssemblyService.GetReferencedAssemblies()\n        .Where(a =>\n            a.GetName().Name?.Contains(\".Modules.\") == true\n            || a.GetName().Name == \"KH.WMS.Config\");\n\n    foreach (var assembly in moduleAssemblies)\n        apm.ApplicationParts.Add(\n            new AssemblyPart(assembly));\n});","textPreview":".ConfigureApplicationPartManager(apm => | { |     var moduleAssemblies = |         AssemblyService.GetReferencedAssemblies() |         .W...","textChars":378,"textLines":12,"bbox":[101.75,181.33,280.92,417.33]}
+{"kind":"textbox","id":"sh/kzmdova1","slide":7,"name":"矩形: 圆角 5","text":"接口从代码到 Swagger","textPreview":"接口从代码到 Swagger","textChars":14,"textLines":1,"bbox":[407.08,181.33,324.92,60]}
+{"kind":"textbox","id":"sh/l0vuh0rm","slide":7,"name":"文本框 6","text":"模块被项目引用只是第一步，程序集命名和 ApplicationPart 注册同样重要。","textPreview":"模块被项目引用只是第一步，程序集命名和 ApplicationPart 注册同样重要。","textChars":43,"textLines":1,"bbox":[407.08,239.97,794.25,64.45]}
+{"kind":"textbox","id":"sh/eh0ba1sr","slide":7,"name":"矩形: 圆角 7","text":"关键检查","textPreview":"关键检查","textChars":4,"textLines":1,"bbox":[407.08,334.31,324.92,60]}
+{"kind":"textbox","id":"sh/fi9c369c","slide":7,"name":"文本框 8","text":"• 模块项目被 Server 引用\n• 程序集名称符合 .Modules. 约定","textPreview":"• 模块项目被 Server 引用 | • 程序集名称符合 .Modules. 约定","textChars":40,"textLines":2,"bbox":[407.08,392.94,794.25,67.2]}
+{"kind":"textbox","id":"sh/baxkjqlk","slide":7,"name":"矩形: 圆角 9","text":"继续追踪","textPreview":"继续追踪","textChars":4,"textLines":1,"bbox":[407.08,483.02,324.92,60]}
+{"kind":"textbox","id":"sh/a9ojq5kz","slide":7,"name":"文本框 10","text":"• ApplicationPartManager 加入程序集\n• MVC 与 ApiExplorer 发现 Action","textPreview":"• ApplicationPartManager 加入程序集 | • MVC 与 ApiExplorer 发现 Action","textChars":60,"textLines":2,"bbox":[407.08,541.65,794.25,67.2]}
+{"kind":"notes","id":"nt/gnmp4jqx","slide":7,"text":"建议时长：7 分钟\n讲师提示：代码只读主线，不展开反射细节。让听众记住“引用、命名、扫描、发现”四层。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\01-启动入口与程序集扫描.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\16-Swagger与OpenAPI接口文档底座.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/fu1gfa1s","slide":8,"title":"08","textShapes":11}
+{"kind":"textbox","id":"sh/7u5w765k","slide":8,"name":"矩形: 圆角 21","text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[54.02,51.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/5sne5wne","slide":8,"name":"文本框 23","text":"AddInfrastructure 统一接入横切能力","textPreview":"AddInfrastructure 统一接入横切能力","textChars":26,"textLines":1,"bbox":[127.66,60.39,940,42.01]}
+{"kind":"textbox","id":"sh/i5wva1o3","slide":8,"name":"文本框 26","text":"KH.WMS","textPreview":"KH.WMS","textChars":6,"textLines":1,"bbox":[772.14,60.39,453.84,42.01]}
+{"kind":"shape","id":"sh/8bat47ml","slide":8,"name":"直接连接符 31","bbox":[127.66,104.59,1098.32,0]}
+{"kind":"shape","id":"sh/18byd4zy","slide":8,"name":"直接连接符 1","bbox":[54.02,661.92,1171.96,0]}
+{"kind":"shape","id":"sh/6h0fypgb","slide":8,"name":"矩形: 圆角 4","bbox":[95.88,167.8,534.78,210.86]}
+{"kind":"textbox","id":"sh/sjix0zy1","slide":8,"name":"矩形: 圆角 6","text":"数据访问 / 认证授权","textPreview":"数据访问 / 认证授权","textChars":11,"textLines":1,"bbox":[113.75,186.22,283.59,60]}
+{"kind":"textbox","id":"sh/je9g3ahk","slide":8,"name":"文本框 7","text":"数据访问：SqlSugar、仓储与 UnitOfWork。\n认证授权：JWT、用户上下文和权限检查。","textPreview":"数据访问：SqlSugar、仓储与 UnitOfWork。 | 认证授权：JWT、用户上下文和权限检查。","textChars":50,"textLines":2,"bbox":[113.75,260.89,500.92,93.53]}
+{"kind":"shape","id":"sh/o7ydoret","slide":8,"name":"矩形: 圆角 9","bbox":[95.88,397.08,534.78,210.86]}
+{"kind":"textbox","id":"sh/98rehwve","slide":8,"name":"矩形: 圆角 10","text":"接口契约","textPreview":"接口契约","textChars":4,"textLines":1,"bbox":[113.75,415.5,283.59,60]}
+{"kind":"textbox","id":"sh/m5gvmhwn","slide":8,"name":"文本框 11","text":"接口契约：MVC、JSON、Swagger 和统一响应。","textPreview":"接口契约：MVC、JSON、Swagger 和统一响应。","textChars":28,"textLines":1,"bbox":[113.75,490.16,500.92,93.53]}
+{"kind":"shape","id":"sh/n6pwfmd8","slide":8,"name":"矩形: 圆角 12","bbox":[648.53,167.8,534.78,210.86]}
+{"kind":"textbox","id":"sh/0jydkreh","slide":8,"name":"矩形: 圆角 13","text":"运行支撑 / 扩展机制","textPreview":"运行支撑 / 扩展机制","textChars":11,"textLines":1,"bbox":[666.4,186.22,283.59,60]}
+{"kind":"textbox","id":"sh/1k7edwv2","slide":8,"name":"文本框 14","text":"运行支撑：缓存、日志、TraceId、MiniProfiler。\n扩展机制：Autofac 自动注册与 AOP 拦截器。","textPreview":"运行支撑：缓存、日志、TraceId、MiniProfiler。 | 扩展机制：Autofac 自动注册与 AOP 拦截器。","textChars":60,"textLines":2,"bbox":[666.4,260.89,500.92,93.53]}
+{"kind":"shape","id":"sh/ehgvihwr","slide":8,"name":"矩形: 圆角 15","bbox":[648.53,397.08,534.78,210.86]}
+{"kind":"textbox","id":"sh/zipwbmdc","slide":8,"name":"矩形: 圆角 16","text":"运行控制","textPreview":"运行控制","textChars":4,"textLines":1,"bbox":[666.4,415.5,283.59,60]}
+{"kind":"textbox","id":"sh/kfixwbe1","slide":8,"name":"文本框 17","text":"运行控制：License、CORS、限流配置等入口。","textPreview":"运行控制：License、CORS、限流配置等入口。","textChars":26,"textLines":1,"bbox":[666.4,490.16,500.92,93.53]}
+{"kind":"notes","id":"nt/fu1gfa1s","slide":8,"text":"建议时长：5 分钟\n讲师提示：说明“注册了服务”不等于“中间件已启用”，限流会在第 8 讲特别说明。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\02-后端基础配置与启动机制.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\15-应用配置Options与运行时配置边界.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/udsvah03","slide":9,"title":"09","textShapes":12}
+{"kind":"textbox","id":"sh/76h0zup8","slide":9,"name":"矩形: 圆角 21","text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[54.02,51.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/hcji5o7a","slide":9,"name":"文本框 23","text":"Swagger 看不到接口，按发现链路逐层检查","textPreview":"Swagger 看不到接口，按发现链路逐层检查","textChars":23,"textLines":1,"bbox":[127.66,60.39,940,42.01]}
+{"kind":"textbox","id":"sh/u9sja98z","slide":9,"name":"文本框 26","text":"KH.WMS","textPreview":"KH.WMS","textChars":6,"textLines":1,"bbox":[772.14,60.39,453.84,42.01]}
+{"kind":"shape","id":"sh/onmxcv69","slide":9,"name":"直接连接符 31","bbox":[127.66,104.59,1098.32,0]}
+{"kind":"shape","id":"sh/1cfmhgne","slide":9,"name":"直接连接符 1","bbox":[54.02,661.92,1171.96,0]}
+{"kind":"shape","id":"sh/0b65obm9","slide":9,"name":"椭圆 2","bbox":[113.75,321.46,73.61,73.61]}
+{"kind":"textbox","id":"sh/9gzml0nq","slide":9,"name":"文本框 5","text":"• Controller 是 public 并继承 ControllerBase 或 CRUD 基类","textPreview":"• Controller 是 public 并继承 ControllerBase 或 CRUD 基类","textChars":50,"textLines":1,"bbox":[206.81,333.39,414.52,93.53]}
+{"kind":"textbox","id":"sh/ofq5svm5","slide":9,"name":"文本框 6","text":"代码与项目 · 1","textPreview":"代码与项目 · 1","textChars":9,"textLines":1,"bbox":[206.81,293,383.02,42.01]}
+{"kind":"shape","id":"sh/ah8nu54b","slide":9,"name":"椭圆 8","bbox":[113.75,489.07,73.61,73.61]}
+{"kind":"textbox","id":"sh/p0ji9kf2","slide":9,"name":"文本框 10","text":"• 模块项目被 KH.WMS.Server 引用\n• 构造函数依赖可以被容器解析","textPreview":"• 模块项目被 KH.WMS.Server 引用 | • 构造函数依赖可以被容器解析","textChars":40,"textLines":2,"bbox":[206.81,501.01,414.52,93.53]}
+{"kind":"textbox","id":"sh/2xsjepgb","slide":9,"name":"文本框 11","text":"代码与项目 · 2","textPreview":"代码与项目 · 2","textChars":9,"textLines":1,"bbox":[206.81,460.62,383.02,42.01]}
+{"kind":"shape","id":"sh/cnu1kzyd","slide":9,"name":"椭圆 13","bbox":[668.41,321.46,73.61,73.61]}
+{"kind":"textbox","id":"sh/qlcjipgn","slide":9,"name":"文本框 15","text":"• 程序集名称包含 .Modules.\n• 编译输出目录中存在模块程序集","textPreview":"• 程序集名称包含 .Modules. | • 编译输出目录中存在模块程序集","textChars":36,"textLines":2,"bbox":[761.48,333.39,414.52,93.53]}
+{"kind":"textbox","id":"sh/bml0buxs","slide":9,"name":"文本框 16","text":"程序集与运行 · 1","textPreview":"程序集与运行 · 1","textChars":10,"textLines":1,"bbox":[761.48,293,383.02,42.01]}
+{"kind":"shape","id":"sh/lsn2h4fa","slide":9,"name":"椭圆 18","bbox":[668.41,489.07,73.61,73.61]}
+{"kind":"textbox","id":"sh/87a18zqt","slide":9,"name":"文本框 20","text":"• ApplicationPartManager 已加入程序集\n• 重新构建并确认运行的是最新输出","textPreview":"• ApplicationPartManager 已加入程序集 | • 重新构建并确认运行的是最新输出","textChars":49,"textLines":2,"bbox":[761.48,501.01,414.52,93.53]}
+{"kind":"textbox","id":"sh/ml8j6p8n","slide":9,"name":"文本框 22","text":"程序集与运行 · 2","textPreview":"程序集与运行 · 2","textChars":10,"textLines":1,"bbox":[761.48,460.62,383.02,42.01]}
+{"kind":"shape","id":"sh/wba1cjqp","slide":9,"name":"矩形: 圆角 24","bbox":[113.75,160.27,1052.5,105.51]}
+{"kind":"textbox","id":"sh/apofe5of","slide":9,"name":"文本框 33","text":"先确认接口能否被发现，再检查认证、License 和业务逻辑。","textPreview":"先确认接口能否被发现，再检查认证、License 和业务逻辑。","textChars":31,"textLines":1,"bbox":[142.96,179.94,994.09,64.45]}
+{"kind":"image","id":"im/g3atgzyl","slide":9,"name":"图形 3","bbox":[133.21,340.92,34.69,34.69]}
+{"kind":"image","id":"im/f21s7eh0","slide":9,"name":"图形 28","bbox":[687.87,340.92,34.69,34.69]}
+{"kind":"image","id":"im/u1sbe9gf","slide":9,"name":"图形 29","bbox":[687.87,508.53,34.69,34.69]}
+{"kind":"image","id":"im/p83udoz2","slide":9,"name":"图形 30","bbox":[134.21,509.35,34.69,34.69]}
+{"kind":"notes","id":"nt/udsvah03","slide":9,"text":"建议时长：5 分钟\n讲师提示：强调 Swagger 发现和接口调用是两条链：能看到但调用失败时继续查请求管道。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\01-启动入口与程序集扫描.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\16-Swagger与OpenAPI接口文档底座.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\C-常见坑.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/m90b6t0r","slide":10,"title":"10","textShapes":9}
+{"kind":"textbox","id":"sh/bu5cnqd8","slide":10,"name":"矩形: 圆角 21","text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[54.02,51.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/lk7ut0va","slide":10,"name":"文本框 23","text":"自动注册靠特性和扫描，不靠类名猜测","textPreview":"自动注册靠特性和扫描，不靠类名猜测","textChars":17,"textLines":1,"bbox":[127.66,60.39,940,42.01]}
+{"kind":"textbox","id":"sh/yxgbilcj","slide":10,"name":"文本框 26","text":"KH.WMS","textPreview":"KH.WMS","textChars":6,"textLines":1,"bbox":[772.14,60.39,453.84,42.01]}
+{"kind":"shape","id":"sh/cva9k7a9","slide":10,"name":"直接连接符 31","bbox":[127.66,104.59,1098.32,0]}
+{"kind":"shape","id":"sh/xc3mho32","slide":10,"name":"直接连接符 1","bbox":[54.02,661.92,1171.96,0]}
+{"kind":"textbox","id":"sh/ydcnatkn","slide":10,"name":"矩形: 圆角 4","text":"[RegisteredService(\n    ServiceType = typeof(ILocationService))]\npublic class LocationService\n    : CrudService<Location>, ILocationService\n{\n}\n\n// 业务代码通过接口注入\npublic LocationController(\n    ILocationService service) : base(service)\n{\n}","textPreview":"[RegisteredService( |     ServiceType = typeof(ILocationService))] | public class LocationService |     : CrudService<Location>, ILocatio...","textChars":235,"textLines":12,"bbox":[101.75,181.33,280.92,417.33]}
+{"kind":"textbox","id":"sh/l036l83y","slide":10,"name":"矩形: 圆角 5","text":"服务可注入的条件","textPreview":"服务可注入的条件","textChars":8,"textLines":1,"bbox":[407.08,181.33,324.92,60]}
+{"kind":"shape","id":"sh/kzu5c32t","slide":10,"name":"文本框 6","bbox":[407.08,239.97,794.25,64.45]}
+{"kind":"textbox","id":"sh/725onyl4","slide":10,"name":"矩形: 圆角 7","text":"关键检查","textPreview":"关键检查","textChars":4,"textLines":1,"bbox":[407.08,334.31,324.92,60]}
+{"kind":"textbox","id":"sh/m1cnetkj","slide":10,"name":"文本框 8","text":"• 实现类被程序集扫描到\n• 注册特性声明 ServiceType","textPreview":"• 实现类被程序集扫描到 | • 注册特性声明 ServiceType","textChars":33,"textLines":2,"bbox":[407.08,392.94,794.25,67.2]}
+{"kind":"textbox","id":"sh/s7yt4b21","slide":10,"name":"矩形: 圆角 9","text":"继续追踪","textPreview":"继续追踪","textChars":4,"textLines":1,"bbox":[407.08,483.02,324.92,60]}
+{"kind":"textbox","id":"sh/d87uxg3m","slide":10,"name":"文本框 10","text":"• 接口和实现关系正确\n• 生命周期适合依赖对象\n• 通过接口调用才可获得接口代理","textPreview":"• 接口和实现关系正确 | • 生命周期适合依赖对象 | • 通过接口调用才可获得接口代理","textChars":41,"textLines":3,"bbox":[407.08,541.65,794.25,96]}
+{"kind":"notes","id":"nt/m90b6t0r","slide":10,"text":"建议时长：6 分钟\n讲师提示：本页只建立概念，第 2 讲再展开 AOP 代理和生命周期。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\05-服务自动注册RegisteredService.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\03-依赖注入自动注册与AOP代理.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/jetc3ut0","slide":11,"title":"11","textShapes":11}
+{"kind":"textbox","id":"sh/7650nq5s","slide":11,"name":"矩形: 圆角 21","text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[54.02,51.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/l43ilgn2","slide":11,"name":"文本框 23","text":"启动配置与运行时业务规则必须分开","textPreview":"启动配置与运行时业务规则必须分开","textChars":16,"textLines":1,"bbox":[127.66,60.39,940,42.01]}
+{"kind":"textbox","id":"sh/y1czalob","slide":11,"name":"文本框 26","text":"KH.WMS","textPreview":"KH.WMS","textChars":6,"textLines":1,"bbox":[772.14,60.39,453.84,42.01]}
+{"kind":"shape","id":"sh/o7axk7m9","slide":11,"name":"直接连接符 31","bbox":[127.66,104.59,1098.32,0]}
+{"kind":"shape","id":"sh/xcryxg7y","slide":11,"name":"直接连接符 1","bbox":[54.02,661.92,1171.96,0]}
+{"kind":"shape","id":"sh/250zy18b","slide":11,"name":"矩形: 圆角 4","bbox":[95.88,167.8,534.78,210.86]}
+{"kind":"textbox","id":"sh/o7ih0r6h","slide":11,"name":"矩形: 圆角 6","text":"appsettings / Options","textPreview":"appsettings / Options","textChars":21,"textLines":1,"bbox":[113.75,186.22,283.59,60]}
+{"kind":"textbox","id":"sh/72t03qp0","slide":11,"name":"文本框 7","text":"• 数据库连接、日志、认证等启动行为\n• 环境差异通过环境配置覆盖","textPreview":"• 数据库连接、日志、认证等启动行为 | • 环境差异通过环境配置覆盖","textChars":33,"textLines":2,"bbox":[113.75,260.89,500.92,93.53]}
+{"kind":"shape","id":"sh/ofqtgnyt","slide":11,"name":"矩形: 圆角 9","bbox":[95.88,397.08,534.78,210.86]}
+{"kind":"textbox","id":"sh/9gza9sze","slide":11,"name":"矩形: 圆角 10","text":"继续检查","textPreview":"继续检查","textChars":4,"textLines":1,"bbox":[113.75,415.5,283.59,60]}
+{"kind":"textbox","id":"sh/mdobedg3","slide":11,"name":"文本框 11","text":"• 通常随应用启动绑定\n• 变更常需要重启或重新部署","textPreview":"• 通常随应用启动绑定 | • 变更常需要重启或重新部署","textChars":26,"textLines":2,"bbox":[113.75,490.16,500.92,93.53]}
+{"kind":"shape","id":"sh/nehs7iho","slide":11,"name":"矩形: 圆角 12","bbox":[648.53,167.8,534.78,210.86]}
+{"kind":"textbox","id":"sh/0b6tc3yx","slide":11,"name":"矩形: 圆角 13","text":"Config 配置库 / 系统参数","textPreview":"Config 配置库 / 系统参数","textChars":17,"textLines":1,"bbox":[666.4,186.22,283.59,60]}
+{"kind":"textbox","id":"sh/1cfa58zi","slide":11,"name":"文本框 14","text":"• 业务校验、编码、状态、动态字段等规则\n• 运行期可维护并可能带作用域","textPreview":"• 业务校验、编码、状态、动态字段等规则 | • 运行期可维护并可能带作用域","textChars":36,"textLines":2,"bbox":[666.4,260.89,500.92,93.53]}
+{"kind":"shape","id":"sh/epobatgr","slide":11,"name":"矩形: 圆角 15","bbox":[648.53,397.08,534.78,210.86]}
+{"kind":"textbox","id":"sh/zaxs3yhc","slide":11,"name":"矩形: 圆角 16","text":"继续检查","textPreview":"继续检查","textChars":4,"textLines":1,"bbox":[666.4,415.5,283.59,60]}
+{"kind":"textbox","id":"sh/cn6t83y1","slide":11,"name":"文本框 17","text":"• 通过 Contract 或配置底座读取\n• 不能用 IConfiguration 绕过业务边界","textPreview":"• 通过 Contract 或配置底座读取 | • 不能用 IConfiguration 绕过业务边界","textChars":49,"textLines":2,"bbox":[666.4,490.16,500.92,93.53]}
+{"kind":"notes","id":"nt/jetc3ut0","slide":11,"text":"建议时长：5 分钟\n讲师提示：补充当前 DataMap/InterfaceMiddleware 不是普通业务开发主路径，UseInterfaceMiddleware 处于注释状态。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\10-Config配置底座.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\15-应用配置Options与运行时配置边界.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\README.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/8f2psfyx","slide":12,"title":"小测","textShapes":14}
+{"kind":"textbox","id":"sh/ra943il8","slide":12,"name":"文本框 3","text":"小测","textPreview":"小测","textChars":2,"textLines":1,"bbox":[192.88,96.54,213.26,116.33]}
+{"kind":"textbox","id":"sh/q903ad4n","slide":12,"name":"文本框 4","text":"QUIZ","textPreview":"QUIZ","textChars":4,"textLines":1,"bbox":[404.72,156.07,172.2,42.01]}
+{"kind":"shape","id":"sh/dcbm583y","slide":12,"name":"弧形 5","bbox":[-563.93,54.29,203.57,203.57]}
+{"kind":"shape","id":"sh/sb2lcnmd","slide":12,"name":"椭圆 6","bbox":[-564.65,84.41,28.09,28.09]}
+{"kind":"textbox","id":"sh/a543mx4r","slide":12,"name":"矩形: 圆角 8","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[363.35,263.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/wvupgz6t","slide":12,"name":"文本框 9","text":"新增模块的 Controller","textPreview":"新增模块的 Controller","textChars":16,"textLines":1,"bbox":[431.66,261.48,453.84,42.01]}
+{"kind":"textbox","id":"sh/xw3q94ne","slide":12,"name":"文本框 10","text":"为什么可能不出现在 Swagger？","textPreview":"为什么可能不出现在 Swagger？","textChars":18,"textLines":1,"bbox":[431.66,298.71,453.84,24.23]}
+{"kind":"textbox","id":"sh/bulo7u58","slide":12,"name":"矩形: 圆角 12","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[445.6,358.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/9sj65kn2","slide":12,"name":"文本框 14","text":"Controller、Service","textPreview":"Controller、Service","textChars":18,"textLines":1,"bbox":[513.91,356.48,453.84,42.01]}
+{"kind":"textbox","id":"sh/mps7a5or","slide":12,"name":"文本框 15","text":"Contract 的职责边界分别是什么？","textPreview":"Contract 的职责边界分别是什么？","textChars":20,"textLines":1,"bbox":[513.91,393.71,453.84,24.23]}
+{"kind":"textbox","id":"sh/0nap8f6l","slide":12,"name":"矩形: 圆角 17","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[506.79,466.45,59.73,59.73]}
+{"kind":"textbox","id":"sh/uh0na1g3","slide":12,"name":"文本框 22","text":"业务运行期开关应该优先放","textPreview":"业务运行期开关应该优先放","textChars":12,"textLines":1,"bbox":[575.1,464.4,453.84,42.01]}
+{"kind":"textbox","id":"sh/sfi58ryd","slide":12,"name":"文本框 24","text":"appsettings 还是 Config 底座？","textPreview":"appsettings 还是 Config 底座？","textChars":25,"textLines":1,"bbox":[575.1,501.62,453.84,24.23]}
+{"kind":"textbox","id":"sh/7u94zmhs","slide":12,"name":"矩形: 圆角 25","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[603.17,572.63,59.73,59.73]}
+{"kind":"textbox","id":"sh/dcv6dgz2","slide":12,"name":"文本框 27","text":"为什么 Service","textPreview":"为什么 Service","textChars":11,"textLines":1,"bbox":[671.47,570.58,453.84,42.01]}
+{"kind":"textbox","id":"sh/cbm5kbyh","slide":12,"name":"文本框 28","text":"注册最好显式指定 ServiceType？","textPreview":"注册最好显式指定 ServiceType？","textChars":21,"textLines":1,"bbox":[671.47,607.81,453.84,24.23]}
+{"kind":"image","id":"im/ps7mlwbu","slide":12,"name":"图片 30","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/8f2psfyx","slide":12,"text":"建议时长：7 分钟（含答疑）\n讲师提示：先让成员口头回答，再根据备注补全。最后预告第 2 讲。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\00-这份文档怎么读.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\README.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\C-常见坑.md\n小测参考答案：1. 检查项目引用、.Modules. 命名、程序集扫描、ApplicationPart 注册和构造依赖。2. Controller 管 HTTP，Service 管模块业务，Contract 管跨模块能力。3. 业务运行期规则优先进入 Config 配置库或系统参数。4. 避免自动推断到非预期接口并保证代理注册明确。\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}

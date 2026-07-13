@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <!-- NuGet 打包配置：配置层实现，固化后独立版本管控 -->
+    <PackageId>KH.WMS.Config</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>KH.WMS</Authors>
+    <Description>WMS 配置层实现：配置解析、状态校验、扩展字段、编码规则</Description>
+    <PackageTags>WMS;Config;Configuration</PackageTags>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\KH.WMS.Core\KH.WMS.Core.csproj" />
+  </ItemGroup>
+
+</Project>

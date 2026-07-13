@@ -1,0 +1,40 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<Nullable>enable</Nullable>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<GenerateWindowsServiceManifest>true</GenerateWindowsServiceManifest>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\Modules\BaseDataModule\KH.WMS.Modules.BaseDataModule\KH.WMS.Modules.BaseDataModule.csproj" />
+		<ProjectReference Include="..\Config\KH.WMS.Config\KH.WMS.Config.csproj" />
+		<ProjectReference Include="..\Modules\DashboardModule\KH.WMS.Modules.DashboardModule\KH.WMS.Modules.DashboardModule.csproj" />
+		<ProjectReference Include="..\Modules\InboundModule\KH.WMS.Modules.InboundModule\KH.WMS.Modules.InboundModule.csproj" />
+		<ProjectReference Include="..\Modules\InventoryModule\KH.WMS.Modules.InventoryModule\KH.WMS.Modules.InventoryModule.csproj" />
+		<ProjectReference Include="..\Modules\OutboundModule\KH.WMS.Modules.OutboundModule\KH.WMS.Modules.OutboundModule.csproj" />
+		<ProjectReference Include="..\Modules\SystemModule\KH.WMS.Modules.SystemModule\KH.WMS.Modules.SystemModule.csproj" />
+		<ProjectReference Include="..\Modules\TaskModule\KH.WMS.Modules.TaskModule\KH.WMS.Modules.TaskModule.csproj" />
+		<ProjectReference Include="..\Modules\WarehouseModule\KH.WMS.Modules.WarehouseModule\KH.WMS.Modules.WarehouseModule.csproj" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Microsoft.Extensions.Hosting.WindowsServices" Version="8.0.1" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Content Update="wwwroot\swg-login.html">
+	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </Content>
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Folder Include="Logs\" />
+	</ItemGroup>
+
+	<Target Name="GenerateKeysAfterPublish" AfterTargets="Publish">
+		<Exec Command="&quot;$(KeyGenTool)&quot; &quot;$(PublishDir.TrimEnd('\'))&quot;" Condition="Exists('$(KeyGenTool)')" />
+	</Target>
+
+</Project>

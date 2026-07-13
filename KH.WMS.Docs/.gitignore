@@ -1,0 +1,7 @@
+node_modules/
+.vitepress/cache/
+.vitepress/dist/
+.site-content/
+playwright-report/
+test-results/
+.playwright-cli/

@@ -1,0 +1,282 @@
+{"kind":"deck","id":"pr/ct2cjw","name":"Deck"}
+{"kind":"layout","layoutId":"/ppt/slideMasters/slideMaster1.xml","name":"","type":"master","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout1.xml","name":"标题幻灯片","type":"title","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"subtitle","type":"subtitle","textPreview":"单击此处编辑母版副标题样式"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout2.xml","name":"标题和内容","type":"obj","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"2","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout3.xml","name":"节标题","type":"secHead","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout4.xml","name":"两栏内容","type":"twoObj","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"2","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"3","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout5.xml","name":"比较","type":"twoTxTwoObj","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式"},{"name":"3","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式"},{"name":"5","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout6.xml","name":"仅标题","type":"titleOnly","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout7.xml","name":"空白","type":"blank","placeholders":[{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout8.xml","name":"内容与标题","type":"objTx","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"2","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout9.xml","name":"图片与标题","type":"picTx","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"picture","type":"picture"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout10.xml","name":"标题和竖排文字","type":"vertTx","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout11.xml","name":"竖排标题与文本","type":"vertTitleAndTx","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"slide","id":"sl/y90nupkv","slide":1,"title":"ExtData","textShapes":4}
+{"kind":"textbox","id":"sh/1cvuxc7e","slide":1,"name":"文本框 19","text":"ExtData","textPreview":"ExtData","textChars":7,"textLines":1,"bbox":[635,275,600,102]}
+{"kind":"textbox","id":"sh/0bmd476t","slide":1,"name":"文本框 20","text":"CRUD 扩展","textPreview":"CRUD 扩展","textChars":7,"textLines":1,"bbox":[635,178,600,102]}
+{"kind":"textbox","id":"sh/90ve1w7q","slide":1,"name":"文本框 23","text":"在不复制框架代码的前提下，扩展主从表、状态和动态字段","textPreview":"在不复制框架代码的前提下，扩展主从表、状态和动态字段","textChars":26,"textLines":1,"bbox":[618.67,421.45,366,46.19]}
+{"kind":"shape","id":"sh/mx4v6hoz","slide":1,"name":"直接连接符 26","bbox":[523.91,344.35,158.03,148.43]}
+{"kind":"textbox","id":"sh/p4bu5s76","slide":1,"name":"文本框 27","text":"第 04 讲 · KH.WMS 后端培训","textPreview":"第 04 讲 · KH.WMS 后端培训","textChars":20,"textLines":1,"bbox":[655.47,379.44,243.72,42.01]}
+{"kind":"shape","id":"sh/uxgjq907","slide":1,"name":"弧形 29","bbox":[442.62,153.5,203.57,203.57]}
+{"kind":"shape","id":"sh/vyp0je1s","slide":1,"name":"直接连接符 30","bbox":[582.06,311.12,158.03,148.43]}
+{"kind":"shape","id":"sh/h072l4jy","slide":1,"name":"椭圆 32","bbox":[511.66,142.67,28.09,28.09]}
+{"kind":"image","id":"im/5kjidwzq","slide":1,"name":"图片 16","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/y90nupkv","slide":1,"text":"建议时长：2 分钟\n讲师提示：开场先强调原则：业务差异通过钩子和正确基类接入，不复制 CrudService 或 Controller 的整段实现。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\07-CRUD基类能力详解.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\07-CRUD基类与扩展钩子.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/hwbqtkby","slide":2,"title":"范围","textShapes":14}
+{"kind":"textbox","id":"sh/b29kza94","slide":2,"name":"文本框 3","text":"范围","textPreview":"范围","textChars":2,"textLines":1,"bbox":[192.88,96.54,213.26,116.33]}
+{"kind":"textbox","id":"sh/a10jqpsj","slide":2,"name":"文本框 4","text":"SCOPE","textPreview":"SCOPE","textChars":5,"textLines":1,"bbox":[404.72,156.07,172.2,42.01]}
+{"kind":"shape","id":"sh/x4r21kru","slide":2,"name":"弧形 5","bbox":[-563.93,54.29,203.57,203.57]}
+{"kind":"shape","id":"sh/w3i1sfa9","slide":2,"name":"椭圆 6","bbox":[-564.65,84.41,28.09,28.09]}
+{"kind":"textbox","id":"sh/q5wjelsz","slide":2,"name":"矩形: 圆角 8","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[363.35,263.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/ove9o7yd","slide":2,"name":"文本框 9","text":"CRUD 扩展钩子","textPreview":"CRUD 扩展钩子","textChars":9,"textLines":1,"bbox":[431.66,261.48,650,42.01]}
+{"kind":"textbox","id":"sh/9wnqhczy","slide":2,"name":"文本框 10","text":"能选择正确钩子扩展业务","textPreview":"能选择正确钩子扩展业务","textChars":11,"textLines":1,"bbox":[431.66,298.71,453.84,24.23]}
+{"kind":"textbox","id":"sh/nu58f2hs","slide":2,"name":"矩形: 圆角 12","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[445.6,358.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/xk7qlczu","slide":2,"name":"文本框 14","text":"主从表、启停与导入导出","textPreview":"主从表、启停与导入导出","textChars":11,"textLines":1,"bbox":[513.91,356.48,620,42.01]}
+{"kind":"textbox","id":"sh/ahwrqhgj","slide":2,"name":"文本框 15","text":"能配置主从关系和保存边界","textPreview":"能配置主从关系和保存边界","textChars":12,"textLines":1,"bbox":[513.91,393.71,453.84,24.23]}
+{"kind":"textbox","id":"sh/cnupgny5","slide":2,"name":"矩形: 圆角 17","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[506.79,466.45,59.73,59.73]}
+{"kind":"textbox","id":"sh/65kfmpor","slide":2,"name":"文本框 22","text":"两种 Controller 的选择","textPreview":"两种 Controller 的选择","textChars":17,"textLines":1,"bbox":[575.1,464.4,580,42.01]}
+{"kind":"textbox","id":"sh/gbmxszmt","slide":2,"name":"文本框 24","text":"能判断是否真的需要 ExtData","textPreview":"能判断是否真的需要 ExtData","textChars":17,"textLines":1,"bbox":[575.1,501.62,453.84,24.23]}
+{"kind":"textbox","id":"sh/fadgzu58","slide":2,"name":"矩形: 圆角 25","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[603.17,572.63,59.73,59.73]}
+{"kind":"textbox","id":"sh/p0vy54na","slide":2,"name":"文本框 27","text":"ExtData 保存与回显","textPreview":"ExtData 保存与回显","textChars":13,"textLines":1,"bbox":[671.47,570.58,520,42.01]}
+{"kind":"textbox","id":"sh/4zmxwzmp","slide":2,"name":"文本框 28","text":"能排查动态字段保存和回显","textPreview":"能排查动态字段保存和回显","textChars":12,"textLines":1,"bbox":[671.47,607.81,453.84,24.23]}
+{"kind":"image","id":"im/xo7il4ne","slide":2,"name":"图片 30","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/hwbqtkby","slide":2,"text":"建议时长：5 分钟\n讲师提示：说明主从表和 ExtData 都是常见扩展，但解决的问题完全不同。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\07-CRUD基类能力详解.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\09-CrudController与ExtDataCrudController怎么选.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\08-ExtData动态字段.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/ofy9wn61","slide":3,"title":"03","textShapes":11}
+{"kind":"textbox","id":"sh/03ix43e5","slide":3,"name":"矩形: 圆角 21","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[54.02,51.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/6d0fytg3","slide":3,"name":"文本框 23","text":"扩展 CRUD 的原则：重写钩子，不复制基类","textPreview":"扩展 CRUD 的原则：重写钩子，不复制基类","textChars":22,"textLines":1,"bbox":[127.66,60.39,940,42.01]}
+{"kind":"textbox","id":"sh/tgry9ofu","slide":3,"name":"文本框 26","text":"KH.WMS","textPreview":"KH.WMS","textChars":6,"textLines":1,"bbox":[772.14,60.39,453.84,42.01]}
+{"kind":"shape","id":"sh/z2d07mh4","slide":3,"name":"直接连接符 31","bbox":[127.66,104.59,1098.32,0]}
+{"kind":"shape","id":"sh/cza94vmx","slide":3,"name":"直接连接符 1","bbox":[54.02,661.92,1171.96,0]}
+{"kind":"shape","id":"sh/obq90bml","slide":3,"name":"椭圆 5","bbox":[172.36,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/3ah8rqlg","slide":3,"name":"椭圆 4","bbox":[194.7,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/n2l4fq98","slide":3,"name":"文本框 9","text":"保留统一事务与响应","textPreview":"保留统一事务与响应","textChars":9,"textLines":1,"bbox":[123.91,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/m1c3mlsn","slide":3,"name":"文本框 10","text":"判断 01","textPreview":"判断 01","textChars":5,"textLines":1,"bbox":[105.84,358.92,266.91,42.01]}
+{"kind":"shape","id":"sh/ja54na9g","slide":3,"name":"椭圆 17","bbox":[439.27,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/i9w3u58v","slide":3,"name":"椭圆 18","bbox":[461.62,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/e10f2twf","slide":3,"name":"文本框 19","text":"只改当前业务需要的步骤","textPreview":"只改当前业务需要的步骤","textChars":11,"textLines":1,"bbox":[390.83,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/f29gbyx0","slide":3,"name":"文本框 20","text":"判断 02","textPreview":"判断 02","textChars":5,"textLines":1,"bbox":[372.75,358.92,266.91,42.01]}
+{"kind":"shape","id":"sh/re9g7yxo","slide":3,"name":"椭圆 24","bbox":[706.18,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/sfix03y9","slide":3,"name":"椭圆 25","bbox":[728.53,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/a9kfadwn","slide":3,"name":"文本框 27","text":"升级基类时不丢失通用修复","textPreview":"升级基类时不丢失通用修复","textChars":12,"textLines":1,"bbox":[657.74,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/batgjixs","slide":3,"name":"文本框 28","text":"判断 03","textPreview":"判断 03","textChars":5,"textLines":1,"bbox":[639.66,358.92,266.91,42.01]}
+{"kind":"shape","id":"sh/k3m1g7yp","slide":3,"name":"椭圆 30","bbox":[973.09,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/y14jehgj","slide":3,"name":"椭圆 32","bbox":[995.44,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/x0vi5czy","slide":3,"name":"文本框 33","text":"排错时能明确是框架还是业务钩子","textPreview":"排错时能明确是框架还是业务钩子","textChars":15,"textLines":1,"bbox":[924.65,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/czmhc7id","slide":3,"name":"文本框 34","text":"判断 04","textPreview":"判断 04","textChars":5,"textLines":1,"bbox":[906.57,358.92,266.91,42.01]}
+{"kind":"image","id":"im/gfy9wfil","slide":3,"name":"图形 35","bbox":[757.47,240.58,43.73,43.73]}
+{"kind":"image","id":"im/hg7apkj6","slide":3,"name":"图形 36","bbox":[490.56,239.02,43.73,43.73]}
+{"kind":"image","id":"im/e90b690z","slide":3,"name":"图形 37","bbox":[1024.38,238.98,43.73,43.73]}
+{"kind":"image","id":"im/fa9szehk","slide":3,"name":"图形 38","bbox":[223.87,239.16,43.73,43.73]}
+{"kind":"notes","id":"nt/ofy9wn61","slide":3,"text":"建议时长：4 分钟\n讲师提示：用“新增前校验唯一性”示例，说明钩子比重写整个 Create Action 更小、更安全。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\07-CRUD基类与扩展钩子.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\07-CRUD基类能力详解.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/jyx0ra1s","slide":4,"title":"04","textShapes":12}
+{"kind":"textbox","id":"sh/3ytsrmpw","slide":4,"name":"矩形: 圆角 21","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[54.02,51.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/1wbapc7q","slide":4,"name":"文本框 23","text":"查询、写入和删除都有明确扩展点","textPreview":"查询、写入和删除都有明确扩展点","textChars":15,"textLines":1,"bbox":[127.66,60.39,940,42.01]}
+{"kind":"textbox","id":"sh/et0reh8f","slide":4,"name":"文本框 26","text":"KH.WMS","textPreview":"KH.WMS","textChars":6,"textLines":1,"bbox":[772.14,60.39,453.84,42.01]}
+{"kind":"shape","id":"sh/knex8j21","slide":4,"name":"直接连接符 31","bbox":[127.66,104.59,1098.32,0]}
+{"kind":"shape","id":"sh/1cj2d8b6","slide":4,"name":"直接连接符 1","bbox":[54.02,661.92,1171.96,0]}
+{"kind":"textbox","id":"sh/sna103ap","slide":4,"name":"文本框 6","text":"• 查询前 / 查询构建\n• 新增前\n• 新增后\n• 更新前 / 后\n• 删除前 / 后","textPreview":"• 查询前 / 查询构建 | • 新增前 | • 新增后 | • 更新前 / 后 | • 删除前 / 后","textChars":44,"textLines":5,"bbox":[107.78,350.07,311.91,153.6]}
+{"kind":"textbox","id":"sh/3ihk3et8","slide":4,"name":"文本框 7","text":"阶段","textPreview":"阶段","textChars":2,"textLines":1,"bbox":[134.38,293.42,258.7,42.01]}
+{"kind":"textbox","id":"sh/ih8ju9sn","slide":4,"name":"矩形: 圆角 8","text":"PART ONE","textPreview":"PART ONE","textChars":8,"textLines":1,"bbox":[157.02,524.26,213.42,57.14]}
+{"kind":"textbox","id":"sh/jadsz2xk","slide":4,"name":"文本框 12","text":"• 默认过滤、包含导航、关联查询 • 唯一性、默认值、业务前置校验 • 依赖主实体 ID 的后置写入 • 状态校验、字段保护、关联维护","textPreview":"• 默认过滤、包含导航、关联查询 • 唯一性、默认值、业务前置校验 • 依赖主实体 ID 的后置写入 • 状态校验、字段保护、关联维护","textChars":67,"textLines":1,"bbox":[485.24,350.07,311.91,151.69]}
+{"kind":"textbox","id":"sh/w72947yt","slide":4,"name":"文本框 13","text":"适合放什么","textPreview":"适合放什么","textChars":5,"textLines":1,"bbox":[511.84,293.42,258.7,42.01]}
+{"kind":"textbox","id":"sh/x8vaxsfe","slide":4,"name":"矩形: 圆角 14","text":"PART TWO","textPreview":"PART TWO","textChars":8,"textLines":1,"bbox":[534.48,524.26,213.42,57.14]}
+{"kind":"textbox","id":"sh/a5kr2xg3","slide":4,"name":"文本框 15","text":"• 在 Controller 拼接复杂数据库逻辑 • 发送外部通知等不可回滚副作用 • 绕过事务直接提交独立连接 • 整段复制基类更新流程","textPreview":"• 在 Controller 拼接复杂数据库逻辑 • 发送外部通知等不可回滚副作用 • 绕过事务直接提交独立连接 • 整段复制基类更新流程","textChars":69,"textLines":1,"bbox":[853.56,350.07,311.91,151.69]}
+{"kind":"textbox","id":"sh/v6tsv2xo","slide":4,"name":"文本框 16","text":"不适合放什么","textPreview":"不适合放什么","textChars":6,"textLines":1,"bbox":[880.16,293.42,258.7,42.01]}
+{"kind":"textbox","id":"sh/g36tgryd","slide":4,"name":"矩形: 圆角 17","text":"PART THREE","textPreview":"PART THREE","textChars":10,"textLines":1,"bbox":[902.8,524.26,213.42,57.14]}
+{"kind":"image","id":"im/61wbax4n","slide":4,"name":"图形 9","bbox":[218.32,181.37,90.83,90.83]}
+{"kind":"image","id":"im/hs7u9c3a","slide":4,"name":"图形 10","bbox":[592.25,183.03,92.47,92.47]}
+{"kind":"image","id":"im/grytg7mp","slide":4,"name":"图形 11","bbox":[972.73,179.53,92.47,92.47]}
+{"kind":"notes","id":"nt/jyx0ra1s","slide":4,"text":"建议时长：6 分钟\n讲师提示：钩子名称以仓库实际基类为准，培训重点是执行时机与责任。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\07-CRUD基类与扩展钩子.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\07-CRUD基类能力详解.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/i107q5of","slide":5,"title":"05","textShapes":11}
+{"kind":"textbox","id":"sh/fe94nm1w","slide":5,"name":"矩形: 圆角 21","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[54.02,51.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/pkr6tgjy","slide":5,"name":"文本框 23","text":"钩子里做业务差异，不接管通用执行链","textPreview":"钩子里做业务差异，不接管通用执行链","textChars":17,"textLines":1,"bbox":[127.66,60.39,940,42.01]}
+{"kind":"textbox","id":"sh/2h0ni107","slide":5,"name":"文本框 26","text":"KH.WMS","textPreview":"KH.WMS","textChars":6,"textLines":1,"bbox":[772.14,60.39,453.84,42.01]}
+{"kind":"shape","id":"sh/wve1knyx","slide":5,"name":"直接连接符 31","bbox":[127.66,104.59,1098.32,0]}
+{"kind":"shape","id":"sh/dgbulwnm","slide":5,"name":"直接连接符 1","bbox":[54.02,661.92,1171.96,0]}
+{"kind":"shape","id":"sh/yhkbe1o7","slide":5,"name":"矩形: 圆角 4","bbox":[95.88,167.8,534.78,210.86]}
+{"kind":"textbox","id":"sh/032tgr6d","slide":5,"name":"矩形: 圆角 6","text":"推荐","textPreview":"推荐","textChars":2,"textLines":1,"bbox":[113.75,186.22,283.59,60]}
+{"kind":"textbox","id":"sh/n6dcr65o","slide":5,"name":"文本框 7","text":"• 校验当前业务唯一性和状态\n• 设置默认值、审计说明或衍生字段","textPreview":"• 校验当前业务唯一性和状态 | • 设置默认值、审计说明或衍生字段","textChars":32,"textLines":2,"bbox":[113.75,260.89,500.92,93.53]}
+{"kind":"shape","id":"sh/w32dkbuh","slide":5,"name":"矩形: 圆角 9","bbox":[95.88,397.08,534.78,210.86]}
+{"kind":"textbox","id":"sh/x4vedgvm","slide":5,"name":"矩形: 圆角 10","text":"继续检查","textPreview":"继续检查","textChars":4,"textLines":1,"bbox":[113.75,415.5,283.59,60]}
+{"kind":"textbox","id":"sh/ahkvi1cb","slide":5,"name":"文本框 11","text":"• 扩展当前实体查询\n• 使用同一 UnitOfWork 写关联数据","textPreview":"• 扩展当前实体查询 | • 使用同一 UnitOfWork 写关联数据","textChars":34,"textLines":2,"bbox":[113.75,490.16,500.92,93.53]}
+{"kind":"shape","id":"sh/v2twb6dw","slide":5,"name":"矩形: 圆角 12","bbox":[648.53,167.8,534.78,210.86]}
+{"kind":"textbox","id":"sh/k7mxovud","slide":5,"name":"矩形: 圆角 13","text":"避免","textPreview":"避免","textChars":2,"textLines":1,"bbox":[666.4,186.22,283.59,60]}
+{"kind":"textbox","id":"sh/58vehgvy","slide":5,"name":"文本框 14","text":"• 手动复制分页、更新、删除全过程\n• 再次开启与外层重叠的事务","textPreview":"• 手动复制分页、更新、删除全过程 | • 再次开启与外层重叠的事务","textChars":32,"textLines":2,"bbox":[666.4,260.89,500.92,93.53]}
+{"kind":"shape","id":"sh/i54fmlc7","slide":5,"name":"矩形: 圆角 15","bbox":[648.53,397.08,534.78,210.86]}
+{"kind":"textbox","id":"sh/j6dwfqds","slide":5,"name":"矩形: 圆角 16","text":"继续检查","textPreview":"继续检查","textChars":4,"textLines":1,"bbox":[666.4,415.5,283.59,60]}
+{"kind":"textbox","id":"sh/sb6xsvu9","slide":5,"name":"文本框 17","text":"• 吞异常后返回匿名对象\n• 在钩子里调用不可回滚外部副作用","textPreview":"• 吞异常后返回匿名对象 | • 在钩子里调用不可回滚外部副作用","textChars":30,"textLines":2,"bbox":[666.4,490.16,500.92,93.53]}
+{"kind":"notes","id":"nt/i107q5of","slide":5,"text":"建议时长：5 分钟\n讲师提示：强调钩子仍运行在基类事务和异常语义之内。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\07-CRUD基类与扩展钩子.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\06-数据访问仓储与事务边界.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/x8f69ofe","slide":6,"title":"06","textShapes":11}
+{"kind":"textbox","id":"sh/qpwnet0b","slide":6,"name":"矩形: 圆角 21","text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[54.02,51.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/0fy5k3id","slide":6,"name":"文本框 23","text":"主从表保存依赖关系配置和同一事务","textPreview":"主从表保存依赖关系配置和同一事务","textChars":16,"textLines":1,"bbox":[127.66,60.39,940,42.01]}
+{"kind":"textbox","id":"sh/zep4byhs","slide":6,"name":"文本框 26","text":"KH.WMS","textPreview":"KH.WMS","textChars":6,"textLines":1,"bbox":[772.14,60.39,453.84,42.01]}
+{"kind":"shape","id":"sh/50bqpcj2","slide":6,"name":"直接连接符 31","bbox":[127.66,104.59,1098.32,0]}
+{"kind":"shape","id":"sh/yhg7epsj","slide":6,"name":"直接连接符 1","bbox":[54.02,661.92,1171.96,0]}
+{"kind":"shape","id":"sh/ml07i9sv","slide":6,"name":"椭圆 5","bbox":[172.36,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/98rqt4r6","slide":6,"name":"椭圆 4","bbox":[194.7,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/h4bupgn6","slide":6,"name":"文本框 9","text":"配置 Navigate：声明关系类型。\n保存主实体：生成主键。","textPreview":"配置 Navigate：声明关系类型。 | 保存主实体：生成主键。","textChars":31,"textLines":2,"bbox":[123.91,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/w32twb6l","slide":6,"name":"文本框 10","text":"配置 Navigate / 保存主实体","textPreview":"配置 Navigate / 保存主实体","textChars":19,"textLines":1,"bbox":[105.84,358.92,266.91,73.6]}
+{"kind":"shape","id":"sh/twfux0ne","slide":6,"name":"椭圆 17","bbox":[439.27,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/svmt4v6t","slide":6,"name":"椭圆 18","bbox":[461.62,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/cbe5g3ih","slide":6,"name":"文本框 19","text":"识别明细差异：按主键判断新增、更新、删除。","textPreview":"识别明细差异：按主键判断新增、更新、删除。","textChars":21,"textLines":1,"bbox":[390.83,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/dcnm98zm","slide":6,"name":"文本框 20","text":"识别明细差异","textPreview":"识别明细差异","textChars":6,"textLines":1,"bbox":[372.75,358.92,266.91,42.01]}
+{"kind":"shape","id":"sh/lg76d8zy","slide":6,"name":"椭圆 24","bbox":[706.18,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/ydgnit07","slide":6,"name":"椭圆 25","bbox":[728.53,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/gju58ji9","slide":6,"name":"文本框 27","text":"保存关系数据：OneToMany / OneToOne 进入同一事务。","textPreview":"保存关系数据：OneToMany / OneToOne 进入同一事务。","textChars":35,"textLines":1,"bbox":[657.74,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/1k3mhozu","slide":6,"name":"文本框 28","text":"保存关系数据","textPreview":"保存关系数据","textChars":6,"textLines":1,"bbox":[639.66,358.92,266.91,42.01]}
+{"kind":"shape","id":"sh/idk7ehkr","slide":6,"name":"椭圆 30","bbox":[973.09,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/4f2pgr2h","slide":6,"name":"椭圆 32","bbox":[995.44,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/va98j210","slide":6,"name":"文本框 33","text":"提交或回滚：任何一步异常都保持整体一致。","textPreview":"提交或回滚：任何一步异常都保持整体一致。","textChars":20,"textLines":1,"bbox":[924.65,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/u907axkf","slide":6,"name":"文本框 34","text":"提交或回滚","textPreview":"提交或回滚","textChars":5,"textLines":1,"bbox":[906.57,358.92,266.91,42.01]}
+{"kind":"image","id":"im/yh0n6x87","slide":6,"name":"图形 35","bbox":[757.47,240.58,43.73,43.73]}
+{"kind":"image","id":"im/ji9of2ps","slide":6,"name":"图形 36","bbox":[490.56,239.02,43.73,43.73]}
+{"kind":"image","id":"im/4fm5krqh","slide":6,"name":"图形 37","bbox":[1024.38,238.98,43.73,43.73]}
+{"kind":"image","id":"im/pgv6tw72","slide":6,"name":"图形 38","bbox":[223.87,239.16,43.73,43.73]}
+{"kind":"notes","id":"nt/x8f69ofe","slide":6,"text":"建议时长：6 分钟\n讲师提示：说明 ManyToOne 通常是引用关系，不由当前主表保存流程反向维护。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\07-CRUD基类能力详解.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\07-CRUD基类与扩展钩子.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/gnmp4jqx","slide":7,"title":"07","textShapes":11}
+{"kind":"textbox","id":"sh/4fm1wb6p","slide":7,"name":"矩形: 圆角 21","text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[54.02,51.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/q143ylov","slide":7,"name":"文本框 23","text":"启停、导入导出和主从保存都是可复用能力","textPreview":"启停、导入导出和主从保存都是可复用能力","textChars":19,"textLines":1,"bbox":[127.66,60.39,940,42.01]}
+{"kind":"textbox","id":"sh/d4f2t0nm","slide":7,"name":"文本框 26","text":"KH.WMS","textPreview":"KH.WMS","textChars":6,"textLines":1,"bbox":[772.14,60.39,453.84,42.01]}
+{"kind":"shape","id":"sh/nyh4jupo","slide":7,"name":"直接连接符 31","bbox":[127.66,104.59,1098.32,0]}
+{"kind":"shape","id":"sh/cb2tkvap","slide":7,"name":"直接连接符 1","bbox":[54.02,661.92,1171.96,0]}
+{"kind":"shape","id":"sh/zedcfa9g","slide":7,"name":"矩形: 圆角 4","bbox":[95.88,167.8,534.78,210.86]}
+{"kind":"textbox","id":"sh/l0vuh0rm","slide":7,"name":"矩形: 圆角 6","text":"状态启停 / 批量删除","textPreview":"状态启停 / 批量删除","textChars":11,"textLines":1,"bbox":[113.75,186.22,283.59,60]}
+{"kind":"textbox","id":"sh/eh0ba1sr","slide":7,"name":"文本框 7","text":"状态启停：实体实现 IEnableDisableEntity 后使用统一入口和状态语义。\n批量删除：使用基类批量能力并让事务统一处理。","textPreview":"状态启停：实体实现 IEnableDisableEntity 后使用统一入口和状态语义。 | 批量删除：使用基类批量能力并让事务统一处理。","textChars":67,"textLines":2,"bbox":[113.75,260.89,500.92,96]}
+{"kind":"shape","id":"sh/baxkjqlk","slide":7,"name":"矩形: 圆角 9","bbox":[95.88,397.08,534.78,210.86]}
+{"kind":"textbox","id":"sh/a9ojq5kz","slide":7,"name":"矩形: 圆角 10","text":"导入","textPreview":"导入","textChars":2,"textLines":1,"bbox":[113.75,415.5,283.59,60]}
+{"kind":"textbox","id":"sh/xcz2l03q","slide":7,"name":"文本框 11","text":"导入：复用字段解析、校验和写入钩子。","textPreview":"导入：复用字段解析、校验和写入钩子。","textChars":18,"textLines":1,"bbox":[113.75,490.16,500.92,93.53]}
+{"kind":"shape","id":"sh/cbq1sv25","slide":7,"name":"矩形: 圆角 12","bbox":[648.53,167.8,534.78,210.86]}
+{"kind":"textbox","id":"sh/n6x0fqlo","slide":7,"name":"矩形: 圆角 13","text":"导出 / 主从保存","textPreview":"导出 / 主从保存","textChars":9,"textLines":1,"bbox":[666.4,186.22,283.59,60]}
+{"kind":"textbox","id":"sh/25ojml43","slide":7,"name":"文本框 14","text":"导出：复用查询链和字段输出约定。\n主从保存：通过 Navigate 和关系类型管理明细差异。","textPreview":"导出：复用查询链和字段输出约定。 | 主从保存：通过 Navigate 和关系类型管理明细差异。","textChars":46,"textLines":2,"bbox":[666.4,260.89,500.92,93.53]}
+{"kind":"shape","id":"sh/p8fih03e","slide":7,"name":"矩形: 圆角 15","bbox":[648.53,397.08,534.78,210.86]}
+{"kind":"textbox","id":"sh/o761ov2t","slide":7,"name":"矩形: 圆角 16","text":"查询扩展","textPreview":"查询扩展","textChars":4,"textLines":1,"bbox":[666.4,415.5,283.59,60]}
+{"kind":"textbox","id":"sh/f2d0b6lc","slide":7,"name":"文本框 17","text":"查询扩展：优先扩展 Service 查询落点，而不是重写 HTTP 入口。","textPreview":"查询扩展：优先扩展 Service 查询落点，而不是重写 HTTP 入口。","textChars":37,"textLines":1,"bbox":[666.4,490.16,500.92,93.53]}
+{"kind":"notes","id":"nt/gnmp4jqx","slide":7,"text":"建议时长：5 分钟\n讲师提示：本页让成员建立“先查基类能力”的习惯。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\07-CRUD基类能力详解.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\07-CRUD基类与扩展钩子.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/fu1gfa1s","slide":8,"title":"08","textShapes":11}
+{"kind":"textbox","id":"sh/7u5w765k","slide":8,"name":"矩形: 圆角 21","text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[54.02,51.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/5sne5wne","slide":8,"name":"文本框 23","text":"两种 Controller 的核心差异是动态字段协议","textPreview":"两种 Controller 的核心差异是动态字段协议","textChars":26,"textLines":1,"bbox":[127.66,60.39,940,42.01]}
+{"kind":"textbox","id":"sh/i5wva1o3","slide":8,"name":"文本框 26","text":"KH.WMS","textPreview":"KH.WMS","textChars":6,"textLines":1,"bbox":[772.14,60.39,453.84,42.01]}
+{"kind":"shape","id":"sh/8bat47ml","slide":8,"name":"直接连接符 31","bbox":[127.66,104.59,1098.32,0]}
+{"kind":"shape","id":"sh/18byd4zy","slide":8,"name":"直接连接符 1","bbox":[54.02,661.92,1171.96,0]}
+{"kind":"shape","id":"sh/6h0fypgb","slide":8,"name":"矩形: 圆角 4","bbox":[95.88,167.8,534.78,210.86]}
+{"kind":"textbox","id":"sh/sjix0zy1","slide":8,"name":"矩形: 圆角 6","text":"Crud Controller","textPreview":"Crud Controller","textChars":15,"textLines":1,"bbox":[113.75,186.22,283.59,60]}
+{"kind":"textbox","id":"sh/je9g3ahk","slide":8,"name":"文本框 7","text":"• 普通固定字段维护\n• 请求体按实体 / DTO 正常绑定","textPreview":"• 普通固定字段维护 | • 请求体按实体 / DTO 正常绑定","textChars":30,"textLines":2,"bbox":[113.75,260.89,500.92,93.53]}
+{"kind":"shape","id":"sh/o7ydoret","slide":8,"name":"矩形: 圆角 9","bbox":[95.88,397.08,534.78,210.86]}
+{"kind":"textbox","id":"sh/98rehwve","slide":8,"name":"矩形: 圆角 10","text":"继续检查","textPreview":"继续检查","textChars":4,"textLines":1,"bbox":[113.75,415.5,283.59,60]}
+{"kind":"textbox","id":"sh/m5gvmhwn","slide":8,"name":"文本框 11","text":"• 列表与详情遵循标准序列化\n• 默认优先选择","textPreview":"• 列表与详情遵循标准序列化 | • 默认优先选择","textChars":23,"textLines":2,"bbox":[113.75,490.16,500.92,93.53]}
+{"kind":"shape","id":"sh/n6pwfmd8","slide":8,"name":"矩形: 圆角 12","bbox":[648.53,167.8,534.78,210.86]}
+{"kind":"textbox","id":"sh/0jydkreh","slide":8,"name":"矩形: 圆角 13","text":"ExtData Controller","textPreview":"ExtData Controller","textChars":18,"textLines":1,"bbox":[666.4,186.22,283.59,60]}
+{"kind":"textbox","id":"sh/1k7edwv2","slide":8,"name":"文本框 14","text":"• 实体存在 string? ExtData\n• 保存时需要读取 extDataRaw","textPreview":"• 实体存在 string? ExtData | • 保存时需要读取 extDataRaw","textChars":43,"textLines":2,"bbox":[666.4,260.89,500.92,93.53]}
+{"kind":"shape","id":"sh/ehgvihwr","slide":8,"name":"矩形: 圆角 15","bbox":[648.53,397.08,534.78,210.86]}
+{"kind":"textbox","id":"sh/zipwbmdc","slide":8,"name":"矩形: 圆角 16","text":"继续检查","textPreview":"继续检查","textChars":4,"textLines":1,"bbox":[666.4,415.5,283.59,60]}
+{"kind":"textbox","id":"sh/kfixwbe1","slide":8,"name":"文本框 17","text":"• 详情需要把动态字段展平\n• 需配合表单配置 Contract","textPreview":"• 详情需要把动态字段展平 | • 需配合表单配置 Contract","textChars":32,"textLines":2,"bbox":[666.4,490.16,500.92,93.53]}
+{"kind":"notes","id":"nt/fu1gfa1s","slide":8,"text":"建议时长：5 分钟\n讲师提示：把“是否有真正动态、可配置的展示字段”作为选择依据，而不是看到模板就复制。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\09-CrudController与ExtDataCrudController怎么选.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\08-ExtData动态字段.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/udsvah03","slide":9,"title":"09","textShapes":11}
+{"kind":"textbox","id":"sh/76h0zup8","slide":9,"name":"矩形: 圆角 21","text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[54.02,51.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/hcji5o7a","slide":9,"name":"文本框 23","text":"ExtData 适合展示扩展，不适合核心业务字段","textPreview":"ExtData 适合展示扩展，不适合核心业务字段","textChars":24,"textLines":1,"bbox":[127.66,60.39,940,42.01]}
+{"kind":"textbox","id":"sh/u9sja98z","slide":9,"name":"文本框 26","text":"KH.WMS","textPreview":"KH.WMS","textChars":6,"textLines":1,"bbox":[772.14,60.39,453.84,42.01]}
+{"kind":"shape","id":"sh/onmxcv69","slide":9,"name":"直接连接符 31","bbox":[127.66,104.59,1098.32,0]}
+{"kind":"shape","id":"sh/1cfmhgne","slide":9,"name":"直接连接符 1","bbox":[54.02,661.92,1171.96,0]}
+{"kind":"shape","id":"sh/mdonql4z","slide":9,"name":"矩形: 圆角 4","bbox":[95.88,167.8,534.78,210.86]}
+{"kind":"textbox","id":"sh/ofq5svm5","slide":9,"name":"矩形: 圆角 6","text":"适合放入 ExtData","textPreview":"适合放入 ExtData","textChars":12,"textLines":1,"bbox":[113.75,186.22,283.59,60]}
+{"kind":"textbox","id":"sh/bih4na5w","slide":9,"name":"文本框 7","text":"• 客户差异化的补充展示字段\n• 不参与关键查询和统计的字段","textPreview":"• 客户差异化的补充展示字段 | • 不参与关键查询和统计的字段","textChars":30,"textLines":2,"bbox":[113.75,260.89,500.92,93.53]}
+{"kind":"shape","id":"sh/oza1gfyh","slide":9,"name":"矩形: 圆角 9","bbox":[95.88,397.08,534.78,210.86]}
+{"kind":"textbox","id":"sh/p0ji9kf2","slide":9,"name":"矩形: 圆角 10","text":"继续检查","textPreview":"继续检查","textChars":4,"textLines":1,"bbox":[113.75,415.5,283.59,60]}
+{"kind":"textbox","id":"sh/2xsjepgb","slide":9,"name":"文本框 11","text":"• 运行期可通过表单配置增减\n• 缺失时不破坏核心流程","textPreview":"• 运行期可通过表单配置增减 | • 缺失时不破坏核心流程","textChars":27,"textLines":2,"bbox":[113.75,490.16,500.92,93.53]}
+{"kind":"shape","id":"sh/3y107axw","slide":9,"name":"矩形: 圆角 12","bbox":[648.53,167.8,534.78,210.86]}
+{"kind":"textbox","id":"sh/cnu1kzyd","slide":9,"name":"矩形: 圆角 13","text":"应该建正式字段","textPreview":"应该建正式字段","textChars":7,"textLines":1,"bbox":[666.4,186.22,283.59,60]}
+{"kind":"textbox","id":"sh/do3id4fy","slide":9,"name":"文本框 14","text":"• 参与过滤、排序、聚合和索引\n• 决定状态、库存或事务规则","textPreview":"• 参与过滤、排序、聚合和索引 | • 决定状态、库存或事务规则","textChars":30,"textLines":2,"bbox":[666.4,260.89,500.92,93.53]}
+{"kind":"shape","id":"sh/qlcjipgn","slide":9,"name":"矩形: 圆角 15","bbox":[648.53,397.08,534.78,210.86]}
+{"kind":"textbox","id":"sh/bml0buxs","slide":9,"name":"矩形: 圆角 16","text":"继续检查","textPreview":"继续检查","textChars":4,"textLines":1,"bbox":[666.4,415.5,283.59,60]}
+{"kind":"textbox","id":"sh/0ru1ozyp","slide":9,"name":"文本框 17","text":"• 需要数据库约束和强类型\n• 跨模块 Contract 长期依赖","textPreview":"• 需要数据库约束和强类型 | • 跨模块 Contract 长期依赖","textChars":33,"textLines":2,"bbox":[666.4,490.16,500.92,93.53]}
+{"kind":"notes","id":"nt/udsvah03","slide":9,"text":"建议时长：5 分钟\n讲师提示：ExtData 是扩展机制，不是逃避数据库建模的捷径。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\08-ExtData动态字段.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\B-开发检查清单.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/m90b6t0r","slide":10,"title":"10","textShapes":11}
+{"kind":"textbox","id":"sh/bu5cnqd8","slide":10,"name":"矩形: 圆角 21","text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[54.02,51.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/lk7ut0va","slide":10,"name":"文本框 23","text":"保存链读取 extDataRaw，再序列化进 ExtData","textPreview":"保存链读取 extDataRaw，再序列化进 ExtData","textChars":30,"textLines":1,"bbox":[127.66,60.39,940,42.01]}
+{"kind":"textbox","id":"sh/yxgbilcj","slide":10,"name":"文本框 26","text":"KH.WMS","textPreview":"KH.WMS","textChars":6,"textLines":1,"bbox":[772.14,60.39,453.84,42.01]}
+{"kind":"shape","id":"sh/cva9k7a9","slide":10,"name":"直接连接符 31","bbox":[127.66,104.59,1098.32,0]}
+{"kind":"shape","id":"sh/xc3mho32","slide":10,"name":"直接连接符 1","bbox":[54.02,661.92,1171.96,0]}
+{"kind":"shape","id":"sh/l036l83y","slide":10,"name":"椭圆 5","bbox":[172.36,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/ydcnatkn","slide":10,"name":"椭圆 4","bbox":[194.7,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/s7yt4b21","slide":10,"name":"文本框 9","text":"前端读取配置：GET /form-config 获取动态字段定义。\n提交 extDataRaw：按约定传合法 JSON 字符串。","textPreview":"前端读取配置：GET /form-config 获取动态字段定义。 | 提交 extDataRaw：按约定传合法 JSON 字符串。","textChars":64,"textLines":2,"bbox":[123.91,409.78,230.75,182.4]}
+{"kind":"textbox","id":"sh/d87uxg3m","slide":10,"name":"文本框 10","text":"前端读取配置","textPreview":"前端读取配置","textChars":6,"textLines":1,"bbox":[105.84,358.92,266.91,42.01]}
+{"kind":"shape","id":"sh/ozitcv29","slide":10,"name":"椭圆 17","bbox":[439.27,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/p0ru503u","slide":10,"name":"椭圆 18","bbox":[461.62,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/xwnupgvy","slide":10,"name":"文本框 19","text":"请求体可重读：EnableBuffering 允许 Controller 再次读取 Body。","textPreview":"请求体可重读：EnableBuffering 允许 Controller 再次读取 Body。","textChars":47,"textLines":1,"bbox":[390.83,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/wvetgbud","slide":10,"name":"文本框 20","text":"请求体可重读","textPreview":"请求体可重读","textChars":6,"textLines":1,"bbox":[372.75,358.92,266.91,42.01]}
+{"kind":"shape","id":"sh/kjytkvup","slide":10,"name":"椭圆 24","bbox":[706.18,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/jypcrqd4","slide":10,"name":"椭圆 25","bbox":[728.53,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/1o3ahwvq","slide":10,"name":"文本框 27","text":"写入 ExtData：动态字段序列化到实体字符串字段。","textPreview":"写入 ExtData：动态字段序列化到实体字符串字段。","textChars":27,"textLines":1,"bbox":[657.74,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/0nut8rul","slide":10,"name":"文本框 28","text":"写入 ExtData","textPreview":"写入 ExtData","textChars":10,"textLines":1,"bbox":[639.66,358.92,266.91,42.01]}
+{"kind":"shape","id":"sh/ru18r2to","slide":10,"name":"椭圆 30","bbox":[973.09,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/dwjqtcbu","slide":10,"name":"椭圆 32","bbox":[995.44,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/exsrmhsf","slide":10,"name":"文本框 33","text":"业务钩子继续执行：与普通 CRUD 一样进入 Service 执行链。","textPreview":"业务钩子继续执行：与普通 CRUD 一样进入 Service 执行链。","textChars":35,"textLines":1,"bbox":[924.65,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/zyl8vmt0","slide":10,"name":"文本框 34","text":"业务钩子继续执行","textPreview":"业务钩子继续执行","textChars":8,"textLines":1,"bbox":[906.57,358.92,266.91,42.01]}
+{"kind":"image","id":"im/f61wvu94","slide":10,"name":"图形 35","bbox":[757.47,240.58,43.73,43.73]}
+{"kind":"image","id":"im/e5sfmpsj","slide":10,"name":"图形 36","bbox":[490.56,239.02,43.73,43.73]}
+{"kind":"image","id":"im/hczel0bq","slide":10,"name":"图形 37","bbox":[1024.38,238.98,43.73,43.73]}
+{"kind":"image","id":"im/wb6dcval","slide":10,"name":"图形 38","bbox":[223.87,239.16,43.73,43.73]}
+{"kind":"notes","id":"nt/m90b6t0r","slide":10,"text":"建议时长：6 分钟\n讲师提示：强调 extDataRaw 是字符串协议；传对象、非法 JSON 或未启用请求缓冲都会失败。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\08-ExtData动态字段.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\17-JSON序列化与HTTP契约约定.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/jetc3ut0","slide":11,"title":"11","textShapes":11}
+{"kind":"textbox","id":"sh/7650nq5s","slide":11,"name":"矩形: 圆角 21","text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[54.02,51.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/l43ilgn2","slide":11,"name":"文本框 23","text":"详情会展开动态字段，分页当前不会自动展开","textPreview":"详情会展开动态字段，分页当前不会自动展开","textChars":20,"textLines":1,"bbox":[127.66,60.39,940,42.01]}
+{"kind":"textbox","id":"sh/y1czalob","slide":11,"name":"文本框 26","text":"KH.WMS","textPreview":"KH.WMS","textChars":6,"textLines":1,"bbox":[772.14,60.39,453.84,42.01]}
+{"kind":"shape","id":"sh/o7axk7m9","slide":11,"name":"直接连接符 31","bbox":[127.66,104.59,1098.32,0]}
+{"kind":"shape","id":"sh/xcryxg7y","slide":11,"name":"直接连接符 1","bbox":[54.02,661.92,1171.96,0]}
+{"kind":"shape","id":"sh/250zy18b","slide":11,"name":"矩形: 圆角 4","bbox":[95.88,167.8,534.78,210.86]}
+{"kind":"textbox","id":"sh/o7ih0r6h","slide":11,"name":"矩形: 圆角 6","text":"GetById 详情","textPreview":"GetById 详情","textChars":10,"textLines":1,"bbox":[113.75,186.22,283.59,60]}
+{"kind":"textbox","id":"sh/72t03qp0","slide":11,"name":"文本框 7","text":"• 读取实体 ExtData\n• 按配置把动态字段展平","textPreview":"• 读取实体 ExtData | • 按配置把动态字段展平","textChars":27,"textLines":2,"bbox":[113.75,260.89,500.92,93.53]}
+{"kind":"shape","id":"sh/ofqtgnyt","slide":11,"name":"矩形: 圆角 9","bbox":[95.88,397.08,534.78,210.86]}
+{"kind":"textbox","id":"sh/9gza9sze","slide":11,"name":"矩形: 圆角 10","text":"继续检查","textPreview":"继续检查","textChars":4,"textLines":1,"bbox":[113.75,415.5,283.59,60]}
+{"kind":"textbox","id":"sh/mdobedg3","slide":11,"name":"文本框 11","text":"• 前端详情表单直接回显\n• 适合单条维护场景","textPreview":"• 前端详情表单直接回显 | • 适合单条维护场景","textChars":23,"textLines":2,"bbox":[113.75,490.16,500.92,93.53]}
+{"kind":"shape","id":"sh/nehs7iho","slide":11,"name":"矩形: 圆角 12","bbox":[648.53,167.8,534.78,210.86]}
+{"kind":"textbox","id":"sh/0b6tc3yx","slide":11,"name":"矩形: 圆角 13","text":"分页列表","textPreview":"分页列表","textChars":4,"textLines":1,"bbox":[666.4,186.22,283.59,60]}
+{"kind":"textbox","id":"sh/1cfa58zi","slide":11,"name":"文本框 14","text":"• 当前基类不会自动展平所有动态字段\n• 前端列表按 load / 配置自行处理","textPreview":"• 当前基类不会自动展平所有动态字段 | • 前端列表按 load / 配置自行处理","textChars":40,"textLines":2,"bbox":[666.4,260.89,500.92,93.53]}
+{"kind":"shape","id":"sh/epobatgr","slide":11,"name":"矩形: 圆角 15","bbox":[648.53,397.08,534.78,210.86]}
+{"kind":"textbox","id":"sh/zaxs3yhc","slide":11,"name":"矩形: 圆角 16","text":"继续检查","textPreview":"继续检查","textChars":4,"textLines":1,"bbox":[666.4,415.5,283.59,60]}
+{"kind":"textbox","id":"sh/cn6t83y1","slide":11,"name":"文本框 17","text":"• 动态字段不适合核心排序和统计\n• 需要稳定查询时应建正式列","textPreview":"• 动态字段不适合核心排序和统计 | • 需要稳定查询时应建正式列","textChars":31,"textLines":2,"bbox":[666.4,490.16,500.92,93.53]}
+{"kind":"notes","id":"nt/jetc3ut0","slide":11,"text":"建议时长：5 分钟\n讲师提示：这是培训必须讲清的当前限制，避免前后端把差异当作接口 Bug。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\08-ExtData动态字段.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\C-常见坑.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/8f2psfyx","slide":12,"title":"12","textShapes":11}
+{"kind":"textbox","id":"sh/fit436ho","slide":12,"name":"矩形: 圆角 21","text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[54.02,51.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/tgrm1wzy","slide":12,"name":"文本框 23","text":"带 ExtData 的 CRUD 提测前检查五件事","textPreview":"带 ExtData 的 CRUD 提测前检查五件事","textChars":25,"textLines":1,"bbox":[127.66,60.39,940,42.01]}
+{"kind":"textbox","id":"sh/6t0n6hg7","slide":12,"name":"文本框 26","text":"KH.WMS","textPreview":"KH.WMS","textChars":6,"textLines":1,"bbox":[772.14,60.39,453.84,42.01]}
+{"kind":"shape","id":"sh/wnetkjat","slide":12,"name":"直接连接符 31","bbox":[127.66,104.59,1098.32,0]}
+{"kind":"shape","id":"sh/1gbm9s3a","slide":12,"name":"直接连接符 1","bbox":[54.02,661.92,1171.96,0]}
+{"kind":"shape","id":"sh/0f2lgnmp","slide":12,"name":"椭圆 2","bbox":[113.75,321.46,73.61,73.61]}
+{"kind":"textbox","id":"sh/dcbm583y","slide":12,"name":"文本框 5","text":"• 字段确实适合动态扩展，不参与核心规则\n• 实体存在 string? ExtData","textPreview":"• 字段确实适合动态扩展，不参与核心规则 | • 实体存在 string? ExtData","textChars":43,"textLines":2,"bbox":[206.81,333.39,414.52,93.53]}
+{"kind":"textbox","id":"sh/sb2lcnmd","slide":12,"name":"文本框 6","text":"模型与接口 · 1","textPreview":"模型与接口 · 1","textChars":9,"textLines":1,"bbox":[206.81,293,383.02,42.01]}
+{"kind":"shape","id":"sh/a543mx4r","slide":12,"name":"椭圆 8","bbox":[113.75,489.07,73.61,73.61]}
+{"kind":"textbox","id":"sh/xw3q94ne","slide":12,"name":"文本框 10","text":"• Controller 继承 ExtDataCrudController\n• 表单配置和 Contract 能按业务类型命中","textPreview":"• Controller 继承 ExtDataCrudController | • 表单配置和 Contract 能按业务类型命中","textChars":63,"textLines":2,"bbox":[206.81,501.01,414.52,93.53]}
+{"kind":"textbox","id":"sh/atc7epon","slide":12,"name":"文本框 11","text":"模型与接口 · 2","textPreview":"模型与接口 · 2","textChars":9,"textLines":1,"bbox":[206.81,460.62,383.02,42.01]}
+{"kind":"shape","id":"sh/orapcf6h","slide":12,"name":"椭圆 13","bbox":[668.41,321.46,73.61,73.61]}
+{"kind":"textbox","id":"sh/mps7a5or","slide":12,"name":"文本框 15","text":"• 前端提交 extDataRaw 且内容为合法 JSON 字符串\n• Program 已启用请求体缓冲","textPreview":"• 前端提交 extDataRaw 且内容为合法 JSON 字符串 | • Program 已启用请求体缓冲","textChars":52,"textLines":2,"bbox":[761.48,333.39,414.52,93.53]}
+{"kind":"textbox","id":"sh/nq1o3a5w","slide":12,"name":"文本框 16","text":"请求与回显 · 1","textPreview":"请求与回显 · 1","textChars":9,"textLines":1,"bbox":[761.48,293,383.02,42.01]}
+{"kind":"shape","id":"sh/1oj61kn6","slide":12,"name":"椭圆 18","bbox":[668.41,489.07,73.61,73.61]}
+{"kind":"textbox","id":"sh/gj25cry9","slide":12,"name":"文本框 20","text":"• 新增与更新都能保存 ExtData\n• 详情回显、分页表现和明细字段均按当前边界验证","textPreview":"• 新增与更新都能保存 ExtData | • 详情回显、分页表现和明细字段均按当前边界验证","textChars":44,"textLines":2,"bbox":[761.48,501.01,414.52,93.53]}
+{"kind":"textbox","id":"sh/uh0na1g3","slide":12,"name":"文本框 22","text":"请求与回显 · 2","textPreview":"请求与回显 · 2","textChars":9,"textLines":1,"bbox":[761.48,460.62,383.02,42.01]}
+{"kind":"shape","id":"sh/sfi58ryd","slide":12,"name":"矩形: 圆角 24","bbox":[113.75,160.27,1052.5,105.51]}
+{"kind":"shape","id":"sh/mhcbe9sr","slide":12,"name":"文本框 33","bbox":[142.96,179.94,994.09,64.45]}
+{"kind":"image","id":"im/gnelo7ux","slide":12,"name":"图形 3","bbox":[133.21,340.92,34.69,34.69]}
+{"kind":"image","id":"im/vm5kf2tc","slide":12,"name":"图形 28","bbox":[687.87,340.92,34.69,34.69]}
+{"kind":"image","id":"im/ulw3mxc7","slide":12,"name":"图形 29","bbox":[687.87,508.53,34.69,34.69]}
+{"kind":"image","id":"im/tk32dsbm","slide":12,"name":"图形 30","bbox":[134.21,509.35,34.69,34.69]}
+{"kind":"notes","id":"nt/8f2psfyx","slide":12,"text":"建议时长：6 分钟\n讲师提示：让成员对照 B.2 清单逐项勾选；主从单据还要分别验证 Header 和 Line。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\B-开发检查清单.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\08-ExtData动态字段.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/hgzapcr6","slide":13,"title":"小测","textShapes":14}
+{"kind":"textbox","id":"sh/o3i5w3ad","slide":13,"name":"文本框 3","text":"小测","textPreview":"小测","textChars":2,"textLines":1,"bbox":[192.88,96.54,213.26,116.33]}
+{"kind":"textbox","id":"sh/p4r6p8by","slide":13,"name":"文本框 4","text":"QUIZ","textPreview":"QUIZ","textChars":4,"textLines":1,"bbox":[404.72,156.07,172.2,42.01]}
+{"kind":"shape","id":"sh/21gnuts7","slide":13,"name":"弧形 5","bbox":[-563.93,54.29,203.57,203.57]}
+{"kind":"shape","id":"sh/32ponyts","slide":13,"name":"椭圆 6","bbox":[-564.65,84.41,28.09,28.09]}
+{"kind":"textbox","id":"sh/1076lobm","slide":13,"name":"矩形: 圆角 8","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[363.35,263.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/hcfy9k3u","slide":13,"name":"文本框 9","text":"为什么不应该复制 CrudService","textPreview":"为什么不应该复制 CrudService","textChars":20,"textLines":1,"bbox":[431.66,261.48,453.84,42.01]}
+{"kind":"textbox","id":"sh/gb6x0zm9","slide":13,"name":"文本框 10","text":"的完整实现来扩展业务？","textPreview":"的完整实现来扩展业务？","textChars":11,"textLines":1,"bbox":[431.66,298.71,453.84,24.23]}
+{"kind":"textbox","id":"sh/u9ofyp43","slide":13,"name":"矩形: 圆角 12","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[445.6,358.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/876xwfmx","slide":13,"name":"文本框 14","text":"OneToMany","textPreview":"OneToMany","textChars":9,"textLines":1,"bbox":[513.91,356.48,453.84,42.01]}
+{"kind":"textbox","id":"sh/7mdg3als","slide":13,"name":"文本框 15","text":"主从保存依赖哪些关系信息？","textPreview":"主从保存依赖哪些关系信息？","textChars":13,"textLines":1,"bbox":[513.91,393.71,453.84,24.23]}
+{"kind":"textbox","id":"sh/lkvy103m","slide":13,"name":"矩形: 圆角 17","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[506.79,466.45,59.73,59.73]}
+{"kind":"textbox","id":"sh/bmhgfatc","slide":13,"name":"文本框 22","text":"什么字段不应该放进","textPreview":"什么字段不应该放进","textChars":9,"textLines":1,"bbox":[575.1,464.4,453.84,42.01]}
+{"kind":"textbox","id":"sh/p0zyd0b6","slide":13,"name":"文本框 24","text":"ExtData？","textPreview":"ExtData？","textChars":8,"textLines":1,"bbox":[575.1,501.62,453.84,24.23]}
+{"kind":"textbox","id":"sh/2xof2lcv","slide":13,"name":"矩形: 圆角 25","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[603.17,572.63,59.73,59.73]}
+{"kind":"textbox","id":"sh/8vahgzu5","slide":13,"name":"文本框 27","text":"ExtData 详情能回显但分页看不","textPreview":"ExtData 详情能回显但分页看不","textChars":18,"textLines":1,"bbox":[671.47,570.58,453.84,42.01]}
+{"kind":"textbox","id":"sh/9wjyp4bq","slide":13,"name":"文本框 28","text":"到展开字段，是否一定是 Bug？","textPreview":"到展开字段，是否一定是 Bug？","textChars":16,"textLines":1,"bbox":[671.47,607.81,453.84,24.23]}
+{"kind":"image","id":"im/wbylczmp","slide":13,"name":"图片 30","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/hgzapcr6","slide":13,"text":"建议时长：8 分钟（含答疑）\n讲师提示：小测后让成员判断当前项目中的一个 ExtData 字段是否选型合理。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\09-CrudController与ExtDataCrudController怎么选.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\C-常见坑.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\08-ExtData动态字段.md\n小测参考答案：1. 会复制通用事务、响应和修复，导致后续升级分叉。2. Navigate、主外键和关系类型，并在同一事务识别新增更新删除。3. 参与核心查询、统计、状态、库存和强约束的字段。4. 不一定，当前实现只保证详情展开，分页由前端按配置处理。\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}

@@ -1,0 +1,299 @@
+{"kind":"deck","id":"pr/k4bgu4","name":"Deck"}
+{"kind":"layout","layoutId":"/ppt/slideMasters/slideMaster1.xml","name":"","type":"master","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout1.xml","name":"标题幻灯片","type":"title","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"subtitle","type":"subtitle","textPreview":"单击此处编辑母版副标题样式"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout2.xml","name":"标题和内容","type":"obj","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"2","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout3.xml","name":"节标题","type":"secHead","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout4.xml","name":"两栏内容","type":"twoObj","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"2","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"3","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout5.xml","name":"比较","type":"twoTxTwoObj","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式"},{"name":"3","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式"},{"name":"5","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout6.xml","name":"仅标题","type":"titleOnly","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout7.xml","name":"空白","type":"blank","placeholders":[{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout8.xml","name":"内容与标题","type":"objTx","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"2","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout9.xml","name":"图片与标题","type":"picTx","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"picture","type":"picture"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout10.xml","name":"标题和竖排文字","type":"vertTx","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout11.xml","name":"竖排标题与文本","type":"vertTitleAndTx","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/10"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"slide","id":"sl/y90nupkv","slide":1,"title":"事务与校验","textShapes":4}
+{"kind":"textbox","id":"sh/1cvuxc7e","slide":1,"name":"文本框 19","text":"事务与校验","textPreview":"事务与校验","textChars":5,"textLines":1,"bbox":[635,275,600,102]}
+{"kind":"textbox","id":"sh/0bmd476t","slide":1,"name":"文本框 20","text":"跨模块 Contract","textPreview":"跨模块 Contract","textChars":12,"textLines":1,"bbox":[635,178,600,102]}
+{"kind":"textbox","id":"sh/90ve1w7q","slide":1,"name":"文本框 23","text":"让复杂业务流程跨模块协作，同时保持一致性和清晰边界","textPreview":"让复杂业务流程跨模块协作，同时保持一致性和清晰边界","textChars":25,"textLines":1,"bbox":[618.67,421.45,366,46.19]}
+{"kind":"shape","id":"sh/mx4v6hoz","slide":1,"name":"直接连接符 26","bbox":[523.91,344.35,158.03,148.43]}
+{"kind":"textbox","id":"sh/p4bu5s76","slide":1,"name":"文本框 27","text":"第 05 讲 · KH.WMS 后端培训","textPreview":"第 05 讲 · KH.WMS 后端培训","textChars":20,"textLines":1,"bbox":[655.47,379.44,243.72,42.01]}
+{"kind":"shape","id":"sh/uxgjq907","slide":1,"name":"弧形 29","bbox":[442.62,153.5,203.57,203.57]}
+{"kind":"shape","id":"sh/vyp0je1s","slide":1,"name":"直接连接符 30","bbox":[582.06,311.12,158.03,148.43]}
+{"kind":"shape","id":"sh/h072l4jy","slide":1,"name":"椭圆 32","bbox":[511.66,142.67,28.09,28.09]}
+{"kind":"image","id":"im/5kjidwzq","slide":1,"name":"图片 16","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/y90nupkv","slide":1,"text":"建议时长：2 分钟\n讲师提示：开场用入库上架流程说明：多个模块参与时，普通 CRUD 的边界已经不够。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\10-跨模块Contract契约.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\11-业务流程事务和校验扩展.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/hwbqtkby","slide":2,"title":"范围","textShapes":14}
+{"kind":"textbox","id":"sh/b29kza94","slide":2,"name":"文本框 3","text":"范围","textPreview":"范围","textChars":2,"textLines":1,"bbox":[192.88,96.54,213.26,116.33]}
+{"kind":"textbox","id":"sh/a10jqpsj","slide":2,"name":"文本框 4","text":"SCOPE","textPreview":"SCOPE","textChars":5,"textLines":1,"bbox":[404.72,156.07,172.2,42.01]}
+{"kind":"shape","id":"sh/x4r21kru","slide":2,"name":"弧形 5","bbox":[-563.93,54.29,203.57,203.57]}
+{"kind":"shape","id":"sh/w3i1sfa9","slide":2,"name":"椭圆 6","bbox":[-564.65,84.41,28.09,28.09]}
+{"kind":"textbox","id":"sh/q5wjelsz","slide":2,"name":"矩形: 圆角 8","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[363.35,263.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/ove9o7yd","slide":2,"name":"文本框 9","text":"流程接口与普通 CRUD","textPreview":"流程接口与普通 CRUD","textChars":12,"textLines":1,"bbox":[431.66,261.48,650,42.01]}
+{"kind":"textbox","id":"sh/9wnqhczy","slide":2,"name":"文本框 10","text":"能设计不泄露实现的 Contract","textPreview":"能设计不泄露实现的 Contract","textChars":18,"textLines":1,"bbox":[431.66,298.71,453.84,24.23]}
+{"kind":"textbox","id":"sh/nu58f2hs","slide":2,"name":"矩形: 圆角 12","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[445.6,358.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/xk7qlczu","slide":2,"name":"文本框 14","text":"Contract 设计与调用边界","textPreview":"Contract 设计与调用边界","textChars":16,"textLines":1,"bbox":[513.91,356.48,620,42.01]}
+{"kind":"textbox","id":"sh/ahwrqhgj","slide":2,"name":"文本框 15","text":"能决定跨模块流程的事务责任","textPreview":"能决定跨模块流程的事务责任","textChars":13,"textLines":1,"bbox":[513.91,393.71,453.84,24.23]}
+{"kind":"textbox","id":"sh/cnupgny5","slide":2,"name":"矩形: 圆角 17","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[506.79,466.45,59.73,59.73]}
+{"kind":"textbox","id":"sh/65kfmpor","slide":2,"name":"文本框 22","text":"事务责任与失败回滚","textPreview":"事务责任与失败回滚","textChars":9,"textLines":1,"bbox":[575.1,464.4,580,42.01]}
+{"kind":"textbox","id":"sh/gbmxszmt","slide":2,"name":"文本框 24","text":"判断规则放 Validator 还是事务内部","textPreview":"判断规则放 Validator 还是事务内部","textChars":22,"textLines":1,"bbox":[575.1,501.62,453.84,24.23]}
+{"kind":"textbox","id":"sh/fadgzu58","slide":2,"name":"矩形: 圆角 25","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[603.17,572.63,59.73,59.73]}
+{"kind":"textbox","id":"sh/p0vy54na","slide":2,"name":"文本框 27","text":"Validator、并发与幂等","textPreview":"Validator、并发与幂等","textChars":15,"textLines":1,"bbox":[671.47,570.58,520,42.01]}
+{"kind":"textbox","id":"sh/4zmxwzmp","slide":2,"name":"文本框 28","text":"为回调和状态设计并发保护","textPreview":"为回调和状态设计并发保护","textChars":12,"textLines":1,"bbox":[671.47,607.81,453.84,24.23]}
+{"kind":"image","id":"im/xo7il4ne","slide":2,"name":"图片 30","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/hwbqtkby","slide":2,"text":"建议时长：5 分钟\n讲师提示：说明本讲最重要的不是 API 写法，而是责任归属和一致性边界。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\10-跨模块Contract契约.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\11-业务流程事务和校验扩展.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\09-跨模块Contract契约.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/ofy9wn61","slide":3,"title":"03","textShapes":11}
+{"kind":"textbox","id":"sh/03ix43e5","slide":3,"name":"矩形: 圆角 21","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[54.02,51.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/6d0fytg3","slide":3,"name":"文本框 23","text":"流程接口跨模块、跨写操作，不能按普通 CRUD 设计","textPreview":"流程接口跨模块、跨写操作，不能按普通 CRUD 设计","textChars":26,"textLines":1,"bbox":[127.66,60.39,940,42.01]}
+{"kind":"textbox","id":"sh/tgry9ofu","slide":3,"name":"文本框 26","text":"KH.WMS","textPreview":"KH.WMS","textChars":6,"textLines":1,"bbox":[772.14,60.39,453.84,42.01]}
+{"kind":"shape","id":"sh/z2d07mh4","slide":3,"name":"直接连接符 31","bbox":[127.66,104.59,1098.32,0]}
+{"kind":"shape","id":"sh/cza94vmx","slide":3,"name":"直接连接符 1","bbox":[54.02,661.92,1171.96,0]}
+{"kind":"shape","id":"sh/obq90bml","slide":3,"name":"椭圆 5","bbox":[172.36,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/3ah8rqlg","slide":3,"name":"椭圆 4","bbox":[194.7,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/n2l4fq98","slide":3,"name":"文本框 9","text":"一个动作可能修改订单、任务和库存","textPreview":"一个动作可能修改订单、任务和库存","textChars":16,"textLines":1,"bbox":[123.91,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/m1c3mlsn","slide":3,"name":"文本框 10","text":"判断 01","textPreview":"判断 01","textChars":5,"textLines":1,"bbox":[105.84,358.92,266.91,42.01]}
+{"kind":"shape","id":"sh/ja54na9g","slide":3,"name":"椭圆 17","bbox":[439.27,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/i9w3u58v","slide":3,"name":"椭圆 18","bbox":[461.62,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/e10f2twf","slide":3,"name":"文本框 19","text":"调用顺序本身就是业务规则","textPreview":"调用顺序本身就是业务规则","textChars":12,"textLines":1,"bbox":[390.83,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/f29gbyx0","slide":3,"name":"文本框 20","text":"判断 02","textPreview":"判断 02","textChars":5,"textLines":1,"bbox":[372.75,358.92,266.91,42.01]}
+{"kind":"shape","id":"sh/re9g7yxo","slide":3,"name":"椭圆 24","bbox":[706.18,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/sfix03y9","slide":3,"name":"椭圆 25","bbox":[728.53,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/a9kfadwn","slide":3,"name":"文本框 27","text":"任何一步失败都可能需要整体回滚","textPreview":"任何一步失败都可能需要整体回滚","textChars":15,"textLines":1,"bbox":[657.74,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/batgjixs","slide":3,"name":"文本框 28","text":"判断 03","textPreview":"判断 03","textChars":5,"textLines":1,"bbox":[639.66,358.92,266.91,42.01]}
+{"kind":"shape","id":"sh/k3m1g7yp","slide":3,"name":"椭圆 30","bbox":[973.09,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/y14jehgj","slide":3,"name":"椭圆 32","bbox":[995.44,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/x0vi5czy","slide":3,"name":"文本框 33","text":"重复请求必须被状态复核或幂等挡住","textPreview":"重复请求必须被状态复核或幂等挡住","textChars":16,"textLines":1,"bbox":[924.65,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/czmhc7id","slide":3,"name":"文本框 34","text":"判断 04","textPreview":"判断 04","textChars":5,"textLines":1,"bbox":[906.57,358.92,266.91,42.01]}
+{"kind":"image","id":"im/gfy9wfil","slide":3,"name":"图形 35","bbox":[757.47,240.58,43.73,43.73]}
+{"kind":"image","id":"im/hg7apkj6","slide":3,"name":"图形 36","bbox":[490.56,239.02,43.73,43.73]}
+{"kind":"image","id":"im/e90b690z","slide":3,"name":"图形 37","bbox":[1024.38,238.98,43.73,43.73]}
+{"kind":"image","id":"im/fa9szehk","slide":3,"name":"图形 38","bbox":[223.87,239.16,43.73,43.73]}
+{"kind":"notes","id":"nt/ofy9wn61","slide":3,"text":"建议时长：4 分钟\n讲师提示：让听众把流程接口理解为业务用例，而不是多个 CRUD 调用的拼接。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\11-业务流程事务和校验扩展.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\12-结合源码的后端深度走读.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/jyx0ra1s","slide":4,"title":"04","textShapes":11}
+{"kind":"textbox","id":"sh/3ytsrmpw","slide":4,"name":"矩形: 圆角 21","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[54.02,51.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/1wbapc7q","slide":4,"name":"文本框 23","text":"Contract 是跨模块门面，不是另一套 CRUD Service","textPreview":"Contract 是跨模块门面，不是另一套 CRUD Service","textChars":34,"textLines":1,"bbox":[127.66,60.39,940,42.01]}
+{"kind":"textbox","id":"sh/et0reh8f","slide":4,"name":"文本框 26","text":"KH.WMS","textPreview":"KH.WMS","textChars":6,"textLines":1,"bbox":[772.14,60.39,453.84,42.01]}
+{"kind":"shape","id":"sh/knex8j21","slide":4,"name":"直接连接符 31","bbox":[127.66,104.59,1098.32,0]}
+{"kind":"shape","id":"sh/1cj2d8b6","slide":4,"name":"直接连接符 1","bbox":[54.02,661.92,1171.96,0]}
+{"kind":"shape","id":"sh/ql8jytsj","slide":4,"name":"矩形: 圆角 4","bbox":[95.88,167.8,534.78,210.86]}
+{"kind":"textbox","id":"sh/sna103ap","slide":4,"name":"矩形: 圆角 6","text":"好的 Contract","textPreview":"好的 Contract","textChars":11,"textLines":1,"bbox":[113.75,186.22,283.59,60]}
+{"kind":"textbox","id":"sh/3ihk3et8","slide":4,"name":"文本框 7","text":"• 以业务能力命名，例如锁定库存、生成任务\n• 只暴露调用方真正需要的请求与结果","textPreview":"• 以业务能力命名，例如锁定库存、生成任务 | • 只暴露调用方真正需要的请求与结果","textChars":40,"textLines":2,"bbox":[113.75,260.89,500.92,93.53]}
+{"kind":"shape","id":"sh/kbm987y5","slide":4,"name":"矩形: 圆角 9","bbox":[95.88,397.08,534.78,210.86]}
+{"kind":"textbox","id":"sh/5cva1cfq","slide":4,"name":"矩形: 圆角 10","text":"继续检查","textPreview":"继续检查","textChars":4,"textLines":1,"bbox":[113.75,415.5,283.59,60]}
+{"kind":"textbox","id":"sh/i94r6xgz","slide":4,"name":"文本框 11","text":"• 隐藏表结构和仓储实现\n• 允许能力归属模块独立演进","textPreview":"• 隐藏表结构和仓储实现 | • 允许能力归属模块独立演进","textChars":27,"textLines":2,"bbox":[113.75,490.16,500.92,93.53]}
+{"kind":"shape","id":"sh/jadsz2xk","slide":4,"name":"矩形: 圆角 12","bbox":[648.53,167.8,534.78,210.86]}
+{"kind":"textbox","id":"sh/w72947yt","slide":4,"name":"矩形: 圆角 13","text":"失控的 Contract","textPreview":"失控的 Contract","textChars":12,"textLines":1,"bbox":[666.4,186.22,283.59,60]}
+{"kind":"textbox","id":"sh/x8vaxsfe","slide":4,"name":"文本框 14","text":"• 把对方模块全部 CRUD 暴露出来\n• 让调用方直接传内部 Entity","textPreview":"• 把对方模块全部 CRUD 暴露出来 | • 让调用方直接传内部 Entity","textChars":38,"textLines":2,"bbox":[666.4,260.89,500.92,93.53]}
+{"kind":"shape","id":"sh/a5kr2xg3","slide":4,"name":"矩形: 圆角 15","bbox":[648.53,397.08,534.78,210.86]}
+{"kind":"textbox","id":"sh/v6tsv2xo","slide":4,"name":"矩形: 圆角 16","text":"继续检查","textPreview":"继续检查","textChars":4,"textLines":1,"bbox":[666.4,415.5,283.59,60]}
+{"kind":"textbox","id":"sh/g36tgryd","slide":4,"name":"文本框 17","text":"• 返回内部仓储或 IQueryable\n• 调用方绕过对方业务规则改表","textPreview":"• 返回内部仓储或 IQueryable | • 调用方绕过对方业务规则改表","textChars":36,"textLines":2,"bbox":[666.4,490.16,500.92,93.53]}
+{"kind":"notes","id":"nt/jyx0ra1s","slide":4,"text":"建议时长：5 分钟\n讲师提示：Contract 的颗粒度应围绕业务动作，而不是数据库表。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\10-跨模块Contract契约.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\09-跨模块Contract契约.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/i107q5of","slide":5,"title":"05","textShapes":11}
+{"kind":"textbox","id":"sh/fe94nm1w","slide":5,"name":"矩形: 圆角 21","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[54.02,51.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/pkr6tgjy","slide":5,"name":"文本框 23","text":"接口放在 Contracts，实现放在能力归属模块","textPreview":"接口放在 Contracts，实现放在能力归属模块","textChars":25,"textLines":1,"bbox":[127.66,60.39,940,42.01]}
+{"kind":"textbox","id":"sh/2h0ni107","slide":5,"name":"文本框 26","text":"KH.WMS","textPreview":"KH.WMS","textChars":6,"textLines":1,"bbox":[772.14,60.39,453.84,42.01]}
+{"kind":"shape","id":"sh/wve1knyx","slide":5,"name":"直接连接符 31","bbox":[127.66,104.59,1098.32,0]}
+{"kind":"shape","id":"sh/dgbulwnm","slide":5,"name":"直接连接符 1","bbox":[54.02,661.92,1171.96,0]}
+{"kind":"shape","id":"sh/l4bupwny","slide":5,"name":"椭圆 5","bbox":[172.36,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/yhkbe1o7","slide":5,"name":"椭圆 4","bbox":[194.7,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/w32dkbuh","slide":5,"name":"文本框 9","text":"定义接口：Contracts/{Domain} 中定义 I{Domain}Contract。\n定义模型：请求和结果模型同样属于契约层。","textPreview":"定义接口：Contracts/{Domain} 中定义 I{Domain}Contract。 | 定义模型：请求和结果模型同样属于契约层。","textChars":67,"textLines":2,"bbox":[123.91,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/x4vedgvm","slide":5,"name":"文本框 10","text":"定义接口 / 定义模型","textPreview":"定义接口 / 定义模型","textChars":11,"textLines":1,"bbox":[105.84,358.92,266.91,42.01]}
+{"kind":"shape","id":"sh/sb6xsvu9","slide":5,"name":"椭圆 17","bbox":[439.27,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/tcfel0vu","slide":5,"name":"椭圆 18","bbox":[461.62,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/hgrmpwj2","slide":5,"name":"文本框 19","text":"能力方实现：在拥有数据和规则的模块 Contracts 目录实现。","textPreview":"能力方实现：在拥有数据和规则的模块 Contracts 目录实现。","textChars":33,"textLines":1,"bbox":[390.83,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/gfi5grih","slide":5,"name":"文本框 20","text":"能力方实现","textPreview":"能力方实现","textChars":5,"textLines":1,"bbox":[372.75,358.92,266.91,42.01]}
+{"kind":"shape","id":"sh/4ji5kbid","slide":5,"name":"椭圆 24","bbox":[706.18,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/3i94r61s","slide":5,"name":"椭圆 25","bbox":[728.53,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/5o7mhcju","slide":5,"name":"文本框 27","text":"显式注册：RegisteredService 指向 Contract 接口。","textPreview":"显式注册：RegisteredService 指向 Contract 接口。","textChars":38,"textLines":1,"bbox":[657.74,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/kny587i9","slide":5,"name":"文本框 28","text":"显式注册","textPreview":"显式注册","textChars":4,"textLines":1,"bbox":[639.66,358.92,266.91,42.01]}
+{"kind":"shape","id":"sh/vu5kbihc","slide":5,"name":"椭圆 30","bbox":[973.09,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/xwn2dszi","slide":5,"name":"椭圆 32","bbox":[995.44,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/ihw3mxg3","slide":5,"name":"文本框 33","text":"调用方注入：只引用接口，不引用对方 Services。","textPreview":"调用方注入：只引用接口，不引用对方 Services。","textChars":27,"textLines":1,"bbox":[924.65,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/ji5kf2ho","slide":5,"name":"文本框 34","text":"调用方注入","textPreview":"调用方注入","textChars":5,"textLines":1,"bbox":[906.57,358.92,266.91,42.01]}
+{"kind":"image","id":"im/rix0bu9s","slide":5,"name":"图形 35","bbox":[757.47,240.58,43.73,43.73]}
+{"kind":"image","id":"im/6hozip87","slide":5,"name":"图形 36","bbox":[490.56,239.02,43.73,43.73]}
+{"kind":"image","id":"im/18zih4ru","slide":5,"name":"图形 37","bbox":[1024.38,238.98,43.73,43.73]}
+{"kind":"image","id":"im/g7q1ozq9","slide":5,"name":"图形 38","bbox":[223.87,239.16,43.73,43.73]}
+{"kind":"notes","id":"nt/i107q5of","slide":5,"text":"建议时长：6 分钟\n讲师提示：补充版本兼容：新增字段优先保持向后兼容，不让调用方依赖内部 Entity。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\10-跨模块Contract契约.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\B-开发检查清单.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\09-跨模块Contract契约.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/x8f69ofe","slide":6,"title":"06","textShapes":11}
+{"kind":"textbox","id":"sh/qpwnet0b","slide":6,"name":"矩形: 圆角 21","text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[54.02,51.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/0fy5k3id","slide":6,"name":"文本框 23","text":"调用方控制整条业务链的事务","textPreview":"调用方控制整条业务链的事务","textChars":13,"textLines":1,"bbox":[127.66,60.39,940,42.01]}
+{"kind":"textbox","id":"sh/zep4byhs","slide":6,"name":"文本框 26","text":"KH.WMS","textPreview":"KH.WMS","textChars":6,"textLines":1,"bbox":[772.14,60.39,453.84,42.01]}
+{"kind":"shape","id":"sh/50bqpcj2","slide":6,"name":"直接连接符 31","bbox":[127.66,104.59,1098.32,0]}
+{"kind":"shape","id":"sh/yhg7epsj","slide":6,"name":"直接连接符 1","bbox":[54.02,661.92,1171.96,0]}
+{"kind":"shape","id":"sh/ml07i9sv","slide":6,"name":"椭圆 5","bbox":[172.36,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/98rqt4r6","slide":6,"name":"椭圆 4","bbox":[194.7,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/h4bupgn6","slide":6,"name":"文本框 9","text":"流程 Service 开事务：最外层用例建立一致性边界。\n调用订单能力：校验并更新当前业务状态。","textPreview":"流程 Service 开事务：最外层用例建立一致性边界。 | 调用订单能力：校验并更新当前业务状态。","textChars":48,"textLines":2,"bbox":[123.91,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/w32twb6l","slide":6,"name":"文本框 10","text":"流程 Service 开事务","textPreview":"流程 Service 开事务","textChars":14,"textLines":1,"bbox":[105.84,358.92,266.91,42.01]}
+{"kind":"shape","id":"sh/twfux0ne","slide":6,"name":"椭圆 17","bbox":[439.27,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/svmt4v6t","slide":6,"name":"椭圆 18","bbox":[461.62,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/cbe5g3ih","slide":6,"name":"文本框 19","text":"调用库存 Contract：按库存模块规则锁定或移动库存。","textPreview":"调用库存 Contract：按库存模块规则锁定或移动库存。","textChars":29,"textLines":1,"bbox":[390.83,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/dcnm98zm","slide":6,"name":"文本框 20","text":"调用库存 Contract","textPreview":"调用库存 Contract","textChars":13,"textLines":1,"bbox":[372.75,358.92,266.91,42.01]}
+{"kind":"shape","id":"sh/lg76d8zy","slide":6,"name":"椭圆 24","bbox":[706.18,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/ydgnit07","slide":6,"name":"椭圆 25","bbox":[728.53,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/gju58ji9","slide":6,"name":"文本框 27","text":"调用任务 Contract：创建或完成执行任务。","textPreview":"调用任务 Contract：创建或完成执行任务。","textChars":24,"textLines":1,"bbox":[657.74,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/1k3mhozu","slide":6,"name":"文本框 28","text":"调用任务 Contract","textPreview":"调用任务 Contract","textChars":13,"textLines":1,"bbox":[639.66,358.92,266.91,42.01]}
+{"kind":"shape","id":"sh/idk7ehkr","slide":6,"name":"椭圆 30","bbox":[973.09,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/4f2pgr2h","slide":6,"name":"椭圆 32","bbox":[995.44,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/va98j210","slide":6,"name":"文本框 33","text":"统一提交：全部成功才 commit；异常则整体 rollback。","textPreview":"统一提交：全部成功才 commit；异常则整体 rollback。","textChars":33,"textLines":1,"bbox":[924.65,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/u907axkf","slide":6,"name":"文本框 34","text":"统一提交","textPreview":"统一提交","textChars":4,"textLines":1,"bbox":[906.57,358.92,266.91,42.01]}
+{"kind":"image","id":"im/yh0n6x87","slide":6,"name":"图形 35","bbox":[757.47,240.58,43.73,43.73]}
+{"kind":"image","id":"im/ji9of2ps","slide":6,"name":"图形 36","bbox":[490.56,239.02,43.73,43.73]}
+{"kind":"image","id":"im/4fm5krqh","slide":6,"name":"图形 37","bbox":[1024.38,238.98,43.73,43.73]}
+{"kind":"image","id":"im/pgv6tw72","slide":6,"name":"图形 38","bbox":[223.87,239.16,43.73,43.73]}
+{"kind":"notes","id":"nt/x8f69ofe","slide":6,"text":"建议时长：7 分钟\n讲师提示：强调被调 Contract 不应擅自开启独立大事务，否则调用方无法保证整链一致。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\10-跨模块Contract契约.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\06-数据访问仓储与事务边界.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\12-结合源码的后端深度走读.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/gnmp4jqx","slide":7,"title":"07","textShapes":12}
+{"kind":"textbox","id":"sh/4fm1wb6p","slide":7,"name":"矩形: 圆角 21","text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[54.02,51.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/q143ylov","slide":7,"name":"文本框 23","text":"三类事务边界按业务一致性选择","textPreview":"三类事务边界按业务一致性选择","textChars":14,"textLines":1,"bbox":[127.66,60.39,940,42.01]}
+{"kind":"textbox","id":"sh/d4f2t0nm","slide":7,"name":"文本框 26","text":"KH.WMS","textPreview":"KH.WMS","textChars":6,"textLines":1,"bbox":[772.14,60.39,453.84,42.01]}
+{"kind":"shape","id":"sh/nyh4jupo","slide":7,"name":"直接连接符 31","bbox":[127.66,104.59,1098.32,0]}
+{"kind":"shape","id":"sh/cb2tkvap","slide":7,"name":"直接连接符 1","bbox":[54.02,661.92,1171.96,0]}
+{"kind":"textbox","id":"sh/l0vuh0rm","slide":7,"name":"文本框 6","text":"• 单实体标准 CRUD\n• 一个 Service 内多次写入\n• 跨多个 Contract 的业务流程\n• Action 整体事务","textPreview":"• 单实体标准 CRUD | • 一个 Service 内多次写入 | • 跨多个 Contract 的业务流程 | • Action 整体事务","textChars":66,"textLines":4,"bbox":[107.78,350.07,311.91,151.69]}
+{"kind":"textbox","id":"sh/eh0ba1sr","slide":7,"name":"文本框 7","text":"场景","textPreview":"场景","textChars":2,"textLines":1,"bbox":[134.38,293.42,258.7,42.01]}
+{"kind":"textbox","id":"sh/fi9c369c","slide":7,"name":"矩形: 圆角 8","text":"PART ONE","textPreview":"PART ONE","textChars":8,"textLines":1,"bbox":[157.02,524.26,213.42,57.14]}
+{"kind":"textbox","id":"sh/cbq1sv25","slide":7,"name":"文本框 12","text":"• 基类内置事务\n• IUnitOfWork\n• 调用方 IUnitOfWork\n• Transaction Filter","textPreview":"• 基类内置事务 | • IUnitOfWork | • 调用方 IUnitOfWork | • Transaction Filter","textChars":61,"textLines":4,"bbox":[485.24,350.07,311.91,151.69]}
+{"kind":"textbox","id":"sh/n6x0fqlo","slide":7,"name":"文本框 13","text":"推荐边界","textPreview":"推荐边界","textChars":4,"textLines":1,"bbox":[511.84,293.42,258.7,42.01]}
+{"kind":"textbox","id":"sh/25ojml43","slide":7,"name":"矩形: 圆角 14","text":"PART TWO","textPreview":"PART TWO","textChars":8,"textLines":1,"bbox":[534.48,524.26,213.42,57.14]}
+{"kind":"textbox","id":"sh/p8fih03e","slide":7,"name":"文本框 15","text":"• 执行链已覆盖写入、钩子和异常回滚\n• 由 Service 清晰控制提交与回滚\n• 保证整条跨模块链只有一次提交\n• 由 MVC 层包裹 Action，但要避免内部重复开事务","textPreview":"• 执行链已覆盖写入、钩子和异常回滚 | • 由 Service 清晰控制提交与回滚 | • 保证整条跨模块链只有一次提交 | • 由 MVC 层包裹 Action，但要避免内部重复开事务","textChars":88,"textLines":4,"bbox":[853.56,350.07,311.91,153.6]}
+{"kind":"textbox","id":"sh/o761ov2t","slide":7,"name":"文本框 16","text":"原因","textPreview":"原因","textChars":2,"textLines":1,"bbox":[880.16,293.42,258.7,42.01]}
+{"kind":"textbox","id":"sh/f2d0b6lc","slide":7,"name":"矩形: 圆角 17","text":"PART THREE","textPreview":"PART THREE","textChars":10,"textLines":1,"bbox":[902.8,524.26,213.42,57.14]}
+{"kind":"image","id":"im/xc72tk3a","slide":7,"name":"图形 9","bbox":[218.32,181.37,90.83,90.83]}
+{"kind":"image","id":"im/ydg3m54v","slide":7,"name":"图形 10","bbox":[592.25,183.03,92.47,92.47]}
+{"kind":"image","id":"im/je9kvalg","slide":7,"name":"图形 11","bbox":[972.73,179.53,92.47,92.47]}
+{"kind":"notes","id":"nt/gnmp4jqx","slide":7,"text":"建议时长：5 分钟\n讲师提示：让听众用“谁最了解整体成功条件”判断事务责任。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\06-数据访问仓储与事务边界.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\11-业务流程事务和校验扩展.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/fu1gfa1s","slide":8,"title":"08","textShapes":9}
+{"kind":"textbox","id":"sh/7u5w765k","slide":8,"name":"矩形: 圆角 21","text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[54.02,51.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/5sne5wne","slide":8,"name":"文本框 23","text":"早返回前未回滚，业务失败可能被提交","textPreview":"早返回前未回滚，业务失败可能被提交","textChars":17,"textLines":1,"bbox":[127.66,60.39,940,42.01]}
+{"kind":"textbox","id":"sh/i5wva1o3","slide":8,"name":"文本框 26","text":"KH.WMS","textPreview":"KH.WMS","textChars":6,"textLines":1,"bbox":[772.14,60.39,453.84,42.01]}
+{"kind":"shape","id":"sh/8bat47ml","slide":8,"name":"直接连接符 31","bbox":[127.66,104.59,1098.32,0]}
+{"kind":"shape","id":"sh/18byd4zy","slide":8,"name":"直接连接符 1","bbox":[54.02,661.92,1171.96,0]}
+{"kind":"textbox","id":"sh/6h0fypgb","slide":8,"name":"矩形: 圆角 4","text":"await unitOfWork.BeginTranAsync();\n\nvar result = await inventoryContract.LockAsync(request);\nif (!result.Success)\n{\n    await unitOfWork.RollbackTranAsync();\n    return ServiceResult.Fail(result.Message);\n}\n\nawait taskContract.CreateAsync(taskRequest);\nawait unitOfWork.CommitTranAsync();","textPreview":"await unitOfWork.BeginTranAsync(); |  | var result = await inventoryContract.LockAsync(request); | if (!result.Success) | { |     await u...","textChars":288,"textLines":11,"bbox":[101.75,181.33,280.92,417.33]}
+{"kind":"textbox","id":"sh/tkby9kzm","slide":8,"name":"矩形: 圆角 5","text":"流程 Service 的检查点","textPreview":"流程 Service 的检查点","textChars":15,"textLines":1,"bbox":[407.08,181.33,324.92,60]}
+{"kind":"shape","id":"sh/sjix0zy1","slide":8,"name":"文本框 6","bbox":[407.08,239.97,794.25,64.45]}
+{"kind":"textbox","id":"sh/je9g3ahk","slide":8,"name":"矩形: 圆角 7","text":"关键检查","textPreview":"关键检查","textChars":4,"textLines":1,"bbox":[407.08,334.31,324.92,60]}
+{"kind":"textbox","id":"sh/id0fu50z","slide":8,"name":"文本框 8","text":"• 事务开始后每个早返回都要审计\n• 优先让异常保留回滚语义","textPreview":"• 事务开始后每个早返回都要审计 | • 优先让异常保留回滚语义","textChars":30,"textLines":2,"bbox":[407.08,392.94,794.25,67.2]}
+{"kind":"textbox","id":"sh/o7ydoret","slide":8,"name":"矩形: 圆角 9","text":"继续追踪","textPreview":"继续追踪","textChars":4,"textLines":1,"bbox":[407.08,483.02,324.92,60]}
+{"kind":"textbox","id":"sh/98rehwve","slide":8,"name":"文本框 10","text":"• 成功提交只能出现在整体成功之后\n• 不要让被调 Contract 独立 commit\n• 记录失败响应对应的 TraceId","textPreview":"• 成功提交只能出现在整体成功之后 | • 不要让被调 Contract 独立 commit | • 记录失败响应对应的 TraceId","textChars":64,"textLines":3,"bbox":[407.08,541.65,794.25,96]}
+{"kind":"notes","id":"nt/fu1gfa1s","slide":8,"text":"建议时长：6 分钟\n讲师提示：代码是教学模板，具体 UnitOfWork 方法以仓库实现为准；重点是早返回风险。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\05-请求管道统一响应异常TraceId日志.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\06-数据访问仓储与事务边界.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\12-结合源码的后端深度走读.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/udsvah03","slide":9,"title":"09","textShapes":11}
+{"kind":"textbox","id":"sh/76h0zup8","slide":9,"name":"矩形: 圆角 21","text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[54.02,51.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/hcji5o7a","slide":9,"name":"文本框 23","text":"Validator 只做业务方法执行前的配置化规则","textPreview":"Validator 只做业务方法执行前的配置化规则","textChars":25,"textLines":1,"bbox":[127.66,60.39,940,42.01]}
+{"kind":"textbox","id":"sh/u9sja98z","slide":9,"name":"文本框 26","text":"KH.WMS","textPreview":"KH.WMS","textChars":6,"textLines":1,"bbox":[772.14,60.39,453.84,42.01]}
+{"kind":"shape","id":"sh/onmxcv69","slide":9,"name":"直接连接符 31","bbox":[127.66,104.59,1098.32,0]}
+{"kind":"shape","id":"sh/1cfmhgne","slide":9,"name":"直接连接符 1","bbox":[54.02,661.92,1171.96,0]}
+{"kind":"shape","id":"sh/mdonql4z","slide":9,"name":"矩形: 圆角 4","bbox":[95.88,167.8,534.78,210.86]}
+{"kind":"textbox","id":"sh/ofq5svm5","slide":9,"name":"矩形: 圆角 6","text":"适合 Validator","textPreview":"适合 Validator","textChars":12,"textLines":1,"bbox":[113.75,186.22,283.59,60]}
+{"kind":"textbox","id":"sh/bih4na5w","slide":9,"name":"文本框 7","text":"• 按配置开关启用的前置校验\n• 多个业务入口可复用的规则","textPreview":"• 按配置开关启用的前置校验 | • 多个业务入口可复用的规则","textChars":29,"textLines":2,"bbox":[113.75,260.89,500.92,93.53]}
+{"kind":"shape","id":"sh/oza1gfyh","slide":9,"name":"矩形: 圆角 9","bbox":[95.88,397.08,534.78,210.86]}
+{"kind":"textbox","id":"sh/p0ji9kf2","slide":9,"name":"矩形: 圆角 10","text":"继续检查","textPreview":"继续检查","textChars":4,"textLines":1,"bbox":[113.75,415.5,283.59,60]}
+{"kind":"textbox","id":"sh/2xsjepgb","slide":9,"name":"文本框 11","text":"• 只依赖参数和普通查询\n• 失败时可在执行前安全短路","textPreview":"• 只依赖参数和普通查询 | • 失败时可在执行前安全短路","textChars":27,"textLines":2,"bbox":[113.75,490.16,500.92,93.53]}
+{"kind":"shape","id":"sh/3y107axw","slide":9,"name":"矩形: 圆角 12","bbox":[648.53,167.8,534.78,210.86]}
+{"kind":"textbox","id":"sh/cnu1kzyd","slide":9,"name":"矩形: 圆角 13","text":"放回事务内部","textPreview":"放回事务内部","textChars":6,"textLines":1,"bbox":[666.4,186.22,283.59,60]}
+{"kind":"textbox","id":"sh/do3id4fy","slide":9,"name":"文本框 14","text":"• 依赖加锁后的最新状态\n• 必须和写入原子完成","textPreview":"• 依赖加锁后的最新状态 | • 必须和写入原子完成","textChars":24,"textLines":2,"bbox":[666.4,260.89,500.92,93.53]}
+{"kind":"shape","id":"sh/qlcjipgn","slide":9,"name":"矩形: 圆角 15","bbox":[648.53,397.08,534.78,210.86]}
+{"kind":"textbox","id":"sh/bml0buxs","slide":9,"name":"矩形: 圆角 16","text":"继续检查","textPreview":"继续检查","textChars":4,"textLines":1,"bbox":[666.4,415.5,283.59,60]}
+{"kind":"textbox","id":"sh/0ru1ozyp","slide":9,"name":"文本框 17","text":"• 存在查询与写入竞态\n• 需要修改库存、任务或订单状态","textPreview":"• 存在查询与写入竞态 | • 需要修改库存、任务或订单状态","textChars":28,"textLines":2,"bbox":[666.4,490.16,500.92,93.53]}
+{"kind":"notes","id":"nt/udsvah03","slide":9,"text":"建议时长：5 分钟\n讲师提示：Validator 不是所有业务校验的万能容器，事务相关规则尤其要谨慎。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\11-可插拔校验器.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\11-业务流程事务和校验扩展.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/m90b6t0r","slide":10,"title":"10","textShapes":11}
+{"kind":"textbox","id":"sh/bu5cnqd8","slide":10,"name":"矩形: 圆角 21","text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[54.02,51.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/lk7ut0va","slide":10,"name":"文本框 23","text":"可插拔校验器有五个固定接入步骤","textPreview":"可插拔校验器有五个固定接入步骤","textChars":15,"textLines":1,"bbox":[127.66,60.39,940,42.01]}
+{"kind":"textbox","id":"sh/yxgbilcj","slide":10,"name":"文本框 26","text":"KH.WMS","textPreview":"KH.WMS","textChars":6,"textLines":1,"bbox":[772.14,60.39,453.84,42.01]}
+{"kind":"shape","id":"sh/cva9k7a9","slide":10,"name":"直接连接符 31","bbox":[127.66,104.59,1098.32,0]}
+{"kind":"shape","id":"sh/xc3mho32","slide":10,"name":"直接连接符 1","bbox":[54.02,661.92,1171.96,0]}
+{"kind":"shape","id":"sh/l036l83y","slide":10,"name":"椭圆 5","bbox":[172.36,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/ydcnatkn","slide":10,"name":"椭圆 4","bbox":[194.7,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/s7yt4b21","slide":10,"name":"文本框 9","text":"定义编码：在 ValidatorCodes 增加唯一常量。\n实现 IValidator：类只实现 IValidator，Code 与常量一致。","textPreview":"定义编码：在 ValidatorCodes 增加唯一常量。 | 实现 IValidator：类只实现 IValidator，Code 与常量一致。","textChars":71,"textLines":2,"bbox":[123.91,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/d87uxg3m","slide":10,"name":"文本框 10","text":"定义编码 / 实现 IValidator","textPreview":"定义编码 / 实现 IValidator","textChars":20,"textLines":1,"bbox":[105.84,358.92,266.91,73.6]}
+{"kind":"shape","id":"sh/ozitcv29","slide":10,"name":"椭圆 17","bbox":[439.27,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/p0ru503u","slide":10,"name":"椭圆 18","bbox":[461.62,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/xwnupgvy","slide":10,"name":"文本框 19","text":"关闭自身拦截：Validator 以 WithoutInterceptor 注册。","textPreview":"关闭自身拦截：Validator 以 WithoutInterceptor 注册。","textChars":41,"textLines":1,"bbox":[390.83,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/wvetgbud","slide":10,"name":"文本框 20","text":"关闭自身拦截","textPreview":"关闭自身拦截","textChars":6,"textLines":1,"bbox":[372.75,358.92,266.91,42.01]}
+{"kind":"shape","id":"sh/kjytkvup","slide":10,"name":"椭圆 24","bbox":[706.18,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/jypcrqd4","slide":10,"name":"椭圆 25","bbox":[728.53,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/1o3ahwvq","slide":10,"name":"文本框 27","text":"方法挂特性：目标方法增加 ConfigValidation。","textPreview":"方法挂特性：目标方法增加 ConfigValidation。","textChars":30,"textLines":1,"bbox":[657.74,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/0nut8rul","slide":10,"name":"文本框 28","text":"方法挂特性","textPreview":"方法挂特性","textChars":5,"textLines":1,"bbox":[639.66,358.92,266.91,42.01]}
+{"kind":"shape","id":"sh/ru18r2to","slide":10,"name":"椭圆 30","bbox":[973.09,189.29,146.31,146.31]}
+{"kind":"shape","id":"sh/dwjqtcbu","slide":10,"name":"椭圆 32","bbox":[995.44,211.64,101.62,101.62]}
+{"kind":"textbox","id":"sh/exsrmhsf","slide":10,"name":"文本框 33","text":"验证短路：失败返回错误消息，成功才进入业务方法。","textPreview":"验证短路：失败返回错误消息，成功才进入业务方法。","textChars":24,"textLines":1,"bbox":[924.65,409.78,230.75,180.78]}
+{"kind":"textbox","id":"sh/zyl8vmt0","slide":10,"name":"文本框 34","text":"验证短路","textPreview":"验证短路","textChars":4,"textLines":1,"bbox":[906.57,358.92,266.91,42.01]}
+{"kind":"image","id":"im/f61wvu94","slide":10,"name":"图形 35","bbox":[757.47,240.58,43.73,43.73]}
+{"kind":"image","id":"im/e5sfmpsj","slide":10,"name":"图形 36","bbox":[490.56,239.02,43.73,43.73]}
+{"kind":"image","id":"im/hczel0bq","slide":10,"name":"图形 37","bbox":[1024.38,238.98,43.73,43.73]}
+{"kind":"image","id":"im/wb6dcval","slide":10,"name":"图形 38","bbox":[223.87,239.16,43.73,43.73]}
+{"kind":"notes","id":"nt/m90b6t0r","slide":10,"text":"建议时长：6 分钟\n讲师提示：补充目标 Service 不能关闭拦截器，返回类型也必须符合配置校验拦截器支持的 ServiceResult 约定。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\11-可插拔校验器.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\B-开发检查清单.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/jetc3ut0","slide":11,"title":"11","textShapes":9}
+{"kind":"textbox","id":"sh/7650nq5s","slide":11,"name":"矩形: 圆角 21","text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[54.02,51.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/l43ilgn2","slide":11,"name":"文本框 23","text":"参数、配置和返回类型共同决定 Validator 能否执行","textPreview":"参数、配置和返回类型共同决定 Validator 能否执行","textChars":29,"textLines":1,"bbox":[127.66,60.39,940,42.01]}
+{"kind":"textbox","id":"sh/y1czalob","slide":11,"name":"文本框 26","text":"KH.WMS","textPreview":"KH.WMS","textChars":6,"textLines":1,"bbox":[772.14,60.39,453.84,42.01]}
+{"kind":"shape","id":"sh/o7axk7m9","slide":11,"name":"直接连接符 31","bbox":[127.66,104.59,1098.32,0]}
+{"kind":"shape","id":"sh/xcryxg7y","slide":11,"name":"直接连接符 1","bbox":[54.02,661.92,1171.96,0]}
+{"kind":"textbox","id":"sh/250zy18b","slide":11,"name":"矩形: 圆角 4","text":"[RegisteredService(\n    WithoutInterceptor = true,\n    ServiceType = typeof(IValidator))]\npublic class ContainerValidator : IValidator\n{\n    public string Code => ValidatorCodes.ContainerBind;\n\n    public Task<string?> ValidateAsync(\n        object[] args,\n        IDictionary<string, object> services)\n    {\n        var request = args.OfType<List<ContainerBindDto>>()\n            .FirstOrDefault();\n        return Task.FromResult<string?>(null);\n    }\n}","textPreview":"[RegisteredService( |     WithoutInterceptor = true, |     ServiceType = typeof(IValidator))] | public class ContainerValidator : IValida...","textChars":454,"textLines":16,"bbox":[101.75,181.33,280.92,417.33]}
+{"kind":"textbox","id":"sh/98rytw72","slide":11,"name":"矩形: 圆角 5","text":"排查校验没执行","textPreview":"排查校验没执行","textChars":7,"textLines":1,"bbox":[407.08,181.33,324.92,60]}
+{"kind":"shape","id":"sh/o7ih0r6h","slide":11,"name":"文本框 6","bbox":[407.08,239.97,794.25,64.45]}
+{"kind":"textbox","id":"sh/72t03qp0","slide":11,"name":"矩形: 圆角 7","text":"关键检查","textPreview":"关键检查","textChars":4,"textLines":1,"bbox":[407.08,334.31,324.92,60]}
+{"kind":"textbox","id":"sh/61kzalof","slide":11,"name":"文本框 8","text":"• Code 与 ValidatorCodes 是否一致\n• 实现是否只注册到 IValidator","textPreview":"• Code 与 ValidatorCodes 是否一致 | • 实现是否只注册到 IValidator","textChars":50,"textLines":2,"bbox":[407.08,392.94,794.25,67.2]}
+{"kind":"textbox","id":"sh/ofqtgnyt","slide":11,"name":"矩形: 圆角 9","text":"继续追踪","textPreview":"继续追踪","textChars":4,"textLines":1,"bbox":[407.08,483.02,324.92,60]}
+{"kind":"textbox","id":"sh/9gza9sze","slide":11,"name":"文本框 10","text":"• 目标方法是否挂 ConfigValidation\n• 目标 Service 是否仍启用 AOP\n• 方法返回类型是否为 ServiceResult 族","textPreview":"• 目标方法是否挂 ConfigValidation | • 目标 Service 是否仍启用 AOP | • 方法返回类型是否为 ServiceResult 族","textChars":77,"textLines":3,"bbox":[407.08,541.65,794.25,96]}
+{"kind":"notes","id":"nt/jetc3ut0","slide":11,"text":"建议时长：6 分钟\n讲师提示：讲清 services 字典与构造注入的边界；需要配置服务时按文档约定取得 ConfigService。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端底层概念\\11-可插拔校验器.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\B-开发检查清单.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/8f2psfyx","slide":12,"title":"12","textShapes":11}
+{"kind":"textbox","id":"sh/fit436ho","slide":12,"name":"矩形: 圆角 21","text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[54.02,51.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/tgrm1wzy","slide":12,"name":"文本框 23","text":"并发与幂等要在状态复核处收口","textPreview":"并发与幂等要在状态复核处收口","textChars":14,"textLines":1,"bbox":[127.66,60.39,940,42.01]}
+{"kind":"textbox","id":"sh/6t0n6hg7","slide":12,"name":"文本框 26","text":"KH.WMS","textPreview":"KH.WMS","textChars":6,"textLines":1,"bbox":[772.14,60.39,453.84,42.01]}
+{"kind":"shape","id":"sh/wnetkjat","slide":12,"name":"直接连接符 31","bbox":[127.66,104.59,1098.32,0]}
+{"kind":"shape","id":"sh/1gbm9s3a","slide":12,"name":"直接连接符 1","bbox":[54.02,661.92,1171.96,0]}
+{"kind":"shape","id":"sh/q903ad4n","slide":12,"name":"矩形: 圆角 4","bbox":[95.88,167.8,534.78,210.86]}
+{"kind":"textbox","id":"sh/sb2lcnmd","slide":12,"name":"矩形: 圆角 6","text":"并发保护","textPreview":"并发保护","textChars":4,"textLines":1,"bbox":[113.75,186.22,283.59,60]}
+{"kind":"textbox","id":"sh/b6d4f2lc","slide":12,"name":"文本框 7","text":"• 更新锁或条件更新保护资源\n• 写入前复核订单、任务和库存状态","textPreview":"• 更新锁或条件更新保护资源 | • 写入前复核订单、任务和库存状态","textChars":32,"textLines":2,"bbox":[113.75,260.89,500.92,93.53]}
+{"kind":"shape","id":"sh/wvupgz6t","slide":12,"name":"矩形: 圆角 9","bbox":[95.88,397.08,534.78,210.86]}
+{"kind":"textbox","id":"sh/xw3q94ne","slide":12,"name":"矩形: 圆角 10","text":"继续检查","textPreview":"继续检查","textChars":4,"textLines":1,"bbox":[113.75,415.5,283.59,60]}
+{"kind":"textbox","id":"sh/atc7epon","slide":12,"name":"文本框 11","text":"• 数量判断与扣减保持原子性\n• 事务内再次确认可操作条件","textPreview":"• 数量判断与扣减保持原子性 | • 事务内再次确认可操作条件","textChars":29,"textLines":2,"bbox":[113.75,490.16,500.92,93.53]}
+{"kind":"shape","id":"sh/bulo7u58","slide":12,"name":"矩形: 圆角 12","bbox":[648.53,167.8,534.78,210.86]}
+{"kind":"textbox","id":"sh/orapcf6h","slide":12,"name":"矩形: 圆角 13","text":"幂等保护","textPreview":"幂等保护","textChars":4,"textLines":1,"bbox":[666.4,186.22,283.59,60]}
+{"kind":"textbox","id":"sh/9sj65kn2","slide":12,"name":"文本框 14","text":"• WCS / PDA 回调允许重复到达\n• 已完成状态直接返回成功或安全结果","textPreview":"• WCS / PDA 回调允许重复到达 | • 已完成状态直接返回成功或安全结果","textChars":39,"textLines":2,"bbox":[666.4,260.89,500.92,93.53]}
+{"kind":"shape","id":"sh/mps7a5or","slide":12,"name":"矩形: 圆角 15","bbox":[648.53,397.08,534.78,210.86]}
+{"kind":"textbox","id":"sh/nq1o3a5w","slide":12,"name":"矩形: 圆角 16","text":"继续检查","textPreview":"继续检查","textChars":4,"textLines":1,"bbox":[666.4,415.5,283.59,60]}
+{"kind":"textbox","id":"sh/0nap8f6l","slide":12,"name":"文本框 17","text":"• 避免重复扣减、重复生成任务\n• 用业务键或状态机识别已处理请求","textPreview":"• 避免重复扣减、重复生成任务 | • 用业务键或状态机识别已处理请求","textChars":33,"textLines":2,"bbox":[666.4,490.16,500.92,93.53]}
+{"kind":"notes","id":"nt/8f2psfyx","slide":12,"text":"建议时长：5 分钟\n讲师提示：强调“接口限流”不能代替业务幂等，后者必须建立在业务状态上。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\11-业务流程事务和校验扩展.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\12-结合源码的后端深度走读.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\C-常见坑.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/hgzapcr6","slide":13,"title":"13","textShapes":11}
+{"kind":"textbox","id":"sh/q18f65cr","slide":13,"name":"矩形: 圆角 21","text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[54.02,51.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/oz6x4vul","slide":13,"name":"文本框 23","text":"流程接口提测前确认边界和失败路径","textPreview":"流程接口提测前确认边界和失败路径","textChars":16,"textLines":1,"bbox":[127.66,60.39,940,42.01]}
+{"kind":"textbox","id":"sh/3yxgbqdg","slide":13,"name":"文本框 26","text":"KH.WMS","textPreview":"KH.WMS","textChars":6,"textLines":1,"bbox":[772.14,60.39,453.84,42.01]}
+{"kind":"shape","id":"sh/5cn2h8vy","slide":13,"name":"直接连接符 31","bbox":[127.66,104.59,1098.32,0]}
+{"kind":"shape","id":"sh/q50nydsj","slide":13,"name":"直接连接符 1","bbox":[54.02,661.92,1171.96,0]}
+{"kind":"shape","id":"sh/bq9orito","slide":13,"name":"椭圆 2","bbox":[113.75,321.46,73.61,73.61]}
+{"kind":"textbox","id":"sh/21gnuts7","slide":13,"name":"文本框 5","text":"• Contract 只暴露必要业务能力\n• 调用方只依赖接口，不引用对方 Service","textPreview":"• Contract 只暴露必要业务能力 | • 调用方只依赖接口，不引用对方 Service","textChars":45,"textLines":2,"bbox":[206.81,333.39,414.52,93.53]}
+{"kind":"textbox","id":"sh/32ponyts","slide":13,"name":"文本框 6","text":"设计边界 · 1","textPreview":"设计边界 · 1","textChars":8,"textLines":1,"bbox":[206.81,293,383.02,42.01]}
+{"kind":"shape","id":"sh/1076lobm","slide":13,"name":"椭圆 8","bbox":[113.75,489.07,73.61,73.61]}
+{"kind":"textbox","id":"sh/gb6x0zm9","slide":13,"name":"文本框 10","text":"• 最外层 Service 控制事务\n• Validator 与事务内校验职责分开","textPreview":"• 最外层 Service 控制事务 | • Validator 与事务内校验职责分开","textChars":41,"textLines":2,"bbox":[206.81,501.01,414.52,93.53]}
+{"kind":"textbox","id":"sh/vaxg7ulo","slide":13,"name":"文本框 11","text":"设计边界 · 2","textPreview":"设计边界 · 2","textChars":8,"textLines":1,"bbox":[206.81,460.62,383.02,42.01]}
+{"kind":"shape","id":"sh/t8fy5k3i","slide":13,"name":"椭圆 13","bbox":[668.41,321.46,73.61,73.61]}
+{"kind":"textbox","id":"sh/7mdg3als","slide":13,"name":"文本框 15","text":"• 每个早返回都确认回滚语义\n• 模拟 Contract 中途失败并验证整体回滚","textPreview":"• 每个早返回都确认回滚语义 | • 模拟 Contract 中途失败并验证整体回滚","textChars":40,"textLines":2,"bbox":[761.48,333.39,414.52,93.53]}
+{"kind":"textbox","id":"sh/6l4fu547","slide":13,"name":"文本框 16","text":"异常与并发 · 1","textPreview":"异常与并发 · 1","textChars":9,"textLines":1,"bbox":[761.48,293,383.02,42.01]}
+{"kind":"shape","id":"sh/kjmxsfm1","slide":13,"name":"椭圆 18","bbox":[668.41,489.07,73.61,73.61]}
+{"kind":"textbox","id":"sh/xozyhkbi","slide":13,"name":"文本框 20","text":"• 重复回调不会重复扣减或生成任务\n• 成功与失败均可通过 traceId 还原链路","textPreview":"• 重复回调不会重复扣减或生成任务 | • 成功与失败均可通过 traceId 还原链路","textChars":42,"textLines":2,"bbox":[761.48,501.01,414.52,93.53]}
+{"kind":"textbox","id":"sh/bmhgfatc","slide":13,"name":"文本框 22","text":"异常与并发 · 2","textPreview":"异常与并发 · 2","textChars":9,"textLines":1,"bbox":[761.48,460.62,383.02,42.01]}
+{"kind":"shape","id":"sh/p0zyd0b6","slide":13,"name":"矩形: 圆角 24","bbox":[113.75,160.27,1052.5,105.51]}
+{"kind":"shape","id":"sh/re5kjydo","slide":13,"name":"文本框 33","bbox":[142.96,179.94,994.09,64.45]}
+{"kind":"image","id":"im/98nm1k3e","slide":13,"name":"图形 3","bbox":[133.21,340.92,34.69,34.69]}
+{"kind":"image","id":"im/mlw36p4n","slide":13,"name":"图形 28","bbox":[687.87,340.92,34.69,34.69]}
+{"kind":"image","id":"im/n65kzul8","slide":13,"name":"图形 29","bbox":[687.87,508.53,34.69,34.69]}
+{"kind":"image","id":"im/83ilkjmx","slide":13,"name":"图形 30","bbox":[134.21,509.35,34.69,34.69]}
+{"kind":"notes","id":"nt/hgzapcr6","slide":13,"text":"建议时长：5 分钟\n讲师提示：把 B.3、B.4、B.5 合并为流程接口的培训检查单。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\B-开发检查清单.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\C-常见坑.md\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
+{"kind":"slide","id":"sl/6lsnupw7","slide":14,"title":"小测","textShapes":14}
+{"kind":"textbox","id":"sh/jepwf2pc","slide":14,"name":"文本框 3","text":"小测","textPreview":"小测","textChars":2,"textLines":1,"bbox":[192.88,96.54,213.26,116.33]}
+{"kind":"textbox","id":"sh/idgvmx8r","slide":14,"name":"文本框 4","text":"QUIZ","textPreview":"QUIZ","textChars":4,"textLines":1,"bbox":[404.72,156.07,172.2,42.01]}
+{"kind":"shape","id":"sh/5grehs7i","slide":14,"name":"弧形 5","bbox":[-563.93,54.29,203.57,203.57]}
+{"kind":"shape","id":"sh/kfidonqx","slide":14,"name":"椭圆 6","bbox":[-564.65,84.41,28.09,28.09]}
+{"kind":"textbox","id":"sh/ehwvat8n","slide":14,"name":"矩形: 圆角 8","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[363.35,263.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/c3e1gjyd","slide":14,"name":"文本框 9","text":"为什么 Contract","textPreview":"为什么 Contract","textChars":12,"textLines":1,"bbox":[431.66,261.48,453.84,42.01]}
+{"kind":"textbox","id":"sh/x4ni9ofy","slide":14,"name":"文本框 10","text":"不应该暴露对方模块的整套 CRUD？","textPreview":"不应该暴露对方模块的整套 CRUD？","textChars":18,"textLines":1,"bbox":[431.66,298.71,453.84,24.23]}
+{"kind":"textbox","id":"sh/b2507exs","slide":14,"name":"矩形: 圆角 12","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[445.6,358.53,59.73,59.73]}
+{"kind":"textbox","id":"sh/ls7idofu","slide":14,"name":"文本框 14","text":"跨模块流程的事务通常由谁控制？","textPreview":"跨模块流程的事务通常由谁控制？","textChars":15,"textLines":1,"bbox":[513.91,356.48,453.84,42.01]}
+{"kind":"textbox","id":"sh/y5wjitgj","slide":14,"name":"文本框 15","text":"答案见讲师备注","textPreview":"答案见讲师备注","textChars":7,"textLines":1,"bbox":[513.91,393.71,453.84,24.23]}
+{"kind":"textbox","id":"sh/0buh8zy5","slide":14,"name":"矩形: 圆角 17","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[506.79,466.45,59.73,59.73]}
+{"kind":"textbox","id":"sh/up4fal83","slide":14,"name":"文本框 22","text":"哪些规则不适合做成","textPreview":"哪些规则不适合做成","textChars":9,"textLines":1,"bbox":[575.1,464.4,453.84,42.01]}
+{"kind":"textbox","id":"sh/4vmh0vq5","slide":14,"name":"文本框 24","text":"Validator？","textPreview":"Validator？","textChars":10,"textLines":1,"bbox":[575.1,501.62,453.84,24.23]}
+{"kind":"textbox","id":"sh/3udg7q9k","slide":14,"name":"矩形: 圆角 25","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[603.17,572.63,59.73,59.73]}
+{"kind":"textbox","id":"sh/d0fydk7m","slide":14,"name":"文本框 27","text":"WCS 回调如何避免重复完成和重","textPreview":"WCS 回调如何避免重复完成和重","textChars":16,"textLines":1,"bbox":[671.47,570.58,453.84,42.01]}
+{"kind":"textbox","id":"sh/cz6h4fq1","slide":14,"name":"文本框 28","text":"复扣减？","textPreview":"复扣减？","textChars":4,"textLines":1,"bbox":[671.47,607.81,453.84,24.23]}
+{"kind":"image","id":"im/dgvatwru","slide":14,"name":"图片 30","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/6lsnupw7","slide":14,"text":"建议时长：8 分钟（含答疑）\n讲师提示：要求成员用入库或出库流程举例，明确调用方、Contract 和事务边界。\n资料来源：\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\10-跨模块Contract契约.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\11-业务流程事务和校验扩展.md\n- D:\\Git\\0.KH.WMS\\docs\\backend\\后端开发指引V3教程\\C-常见坑.md\n小测参考答案：1. 会泄露内部表结构并让调用方绕过业务规则。2. 由最外层、了解整体成功条件的调用方 Service 控制。3. 依赖锁定后状态、必须与写入原子完成或存在竞态的规则。4. 状态复核、条件更新或业务幂等键，并确保重复请求不产生第二次副作用。\n培训方式：先讲结论，再结合页面中的链路、清单或代码说明；页面内容讲完后停顿确认理解。"}
