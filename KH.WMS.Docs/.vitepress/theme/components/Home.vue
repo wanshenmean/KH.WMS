@@ -15,6 +15,7 @@ const handleAppearanceKeydown = (event: KeyboardEvent) => {
 };
 const appearanceLabel = computed(() => isDark.value ? '切换到浅色模式' : '切换到深色模式');
 const routes = computed(() => [
+  { title: '架构设计', description: '理解前后端为什么这样分层、获得什么收益，以及什么时候应该例外。', href: withBase('/backend/架构设计/KH.WMS架构总览'), icon: '◇' },
   { title: '前端实战', description: '从启动、路由、权限到组件、状态、请求与 E2E。', href: withBase('/backend/KH.WMS前端开发指引%20V3.0'), icon: '⌘' },
   { title: '后端主线', description: '用完整 CRUD、Contract、事务与校验串起真实业务开发。', href: withBase('/backend/后端开发指引V3教程/01-KH.WMS后端整体地图'), icon: '↗' },
   { title: '底层概念', description: '理解启动、依赖注入、AOP、运行时配置和可观测性。', href: withBase('/backend/后端底层概念/01-启动入口与程序集扫描'), icon: '◌' }
@@ -30,6 +31,7 @@ const routes = computed(() => [
       </a>
       <nav aria-label="主导航">
         <a :href="withBase('/learning-path')">学习路径</a>
+        <a :href="withBase('/backend/架构设计/KH.WMS架构总览')">架构设计</a>
         <a :href="withBase('/backend/KH.WMS前端开发指引%20V3.0')">前端开发</a>
         <a :href="withBase('/backend/后端开发指引V3教程/01-KH.WMS后端整体地图')">后端开发</a>
         <a :href="withBase('/backend/后端底层概念/01-启动入口与程序集扫描')">底层概念</a>
