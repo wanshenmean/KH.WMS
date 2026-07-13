@@ -99,6 +99,16 @@ body { font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSyst
 .academy-header nav { display: flex; align-items: center; gap: 26px; flex: 1; }
 .academy-header nav a { color: var(--academy-text-muted); font-size: 14px; font-weight: 550; }
 .academy-header nav a:hover { color: var(--vp-c-brand-1); }
+.academy-nav-menu { position: relative; }
+.academy-nav-menu summary { display: flex; align-items: center; gap: 5px; color: var(--academy-text-muted); font-size: 14px; font-weight: 550; list-style: none; cursor: pointer; }
+.academy-nav-menu summary::-webkit-details-marker { display: none; }
+.academy-nav-menu summary::after { content: '⌄'; font-size: 12px; transition: transform .2s ease; }
+.academy-nav-menu[open] summary { color: var(--vp-c-brand-1); }
+.academy-nav-menu[open] summary::after { transform: rotate(180deg); }
+.academy-nav-menu summary:focus-visible { outline: 2px solid var(--vp-c-brand-1); outline-offset: 4px; border-radius: 2px; }
+.academy-nav-menu-panel { position: absolute; z-index: 10; top: calc(100% + 16px); left: -16px; width: 270px; padding: 8px; border: 1px solid var(--academy-border); border-radius: 8px; background: var(--academy-bg-elevated); box-shadow: var(--academy-shadow); }
+.academy-nav-menu-panel a { display: block; padding: 10px 12px; border-radius: 5px; line-height: 1.45; }
+.academy-nav-menu-panel a:hover { background: var(--academy-bg-hover); text-decoration: none; }
 .academy-tools { display: flex; align-items: center; gap: 10px; }
 .academy-search .VPNavBarSearch { width: 176px; }
 .academy-search .DocSearch-Button { width: 100%; margin: 0; border: 1px solid var(--vp-c-divider); border-radius: 6px; background: var(--academy-bg-elevated); }
@@ -161,7 +171,7 @@ body { font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSyst
 @media (max-width: 900px) {
   .academy-header { padding: 0 20px; gap: 22px; }
   .academy-header nav { gap: 16px; }
-  .academy-header nav a:nth-child(n+3) { display: none; }
+  .academy-header nav > a:nth-child(n+3) { display: none; }
   .academy-search .VPNavBarSearch { width: auto; }
   .academy-search .DocSearch-Button-Placeholder, .academy-search .DocSearch-Button-Keys { display: none; }
   .academy-search .DocSearch-Button { width: 34px; min-width: 34px; padding: 0 8px; }

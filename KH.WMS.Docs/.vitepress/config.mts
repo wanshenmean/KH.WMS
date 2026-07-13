@@ -54,6 +54,10 @@ const backendTutorialDirectory = 'backend/后端开发指引V3教程';
 const conceptDirectory = 'backend/后端底层概念';
 const apiDirectory = 'api';
 const primaryFiles = new Set([...architectureFiles, ...frontendFiles, ...await walkMarkdown(path.join(sourceRoot, backendTutorialDirectory)).then((files) => files.map((file) => path.relative(sourceRoot, file).replace(/\\/g, '/'))), ...await walkMarkdown(path.join(sourceRoot, conceptDirectory)).then((files) => files.map((file) => path.relative(sourceRoot, file).replace(/\\/g, '/')))]);
+const architectureItems = await Promise.all(architectureFiles.map(async (relative) => ({
+  text: await pageTitle(path.join(sourceRoot, relative)),
+  link: toUrl(relative)
+})));
 
 export default defineConfig({
   title: 'KH.WMS 开发学院',
@@ -70,7 +74,7 @@ export default defineConfig({
   themeConfig: {
     logo: '/mark.svg',
     nav: [
-      { text: '架构设计', link: toUrl(architectureFiles[0]) },
+      { text: '架构设计', items: architectureItems },
       { text: '学习路径', link: '/learning-path' },
       { text: '前端开发', link: toUrl(frontendFiles[0]) },
       { text: '后端开发', link: '/backend/后端开发指引V3教程/01-KH.WMS后端整体地图' },
@@ -79,7 +83,7 @@ export default defineConfig({
     ],
     sidebar: {
       '/backend/': [
-        { text: '架构设计', collapsed: false, items: await Promise.all(architectureFiles.map(async (relative) => ({ text: await pageTitle(path.join(sourceRoot, relative)), link: toUrl(relative) }))) },
+        { text: '架构设计', collapsed: false, items: architectureItems },
         { text: '前端开发', collapsed: false, items: await Promise.all(frontendFiles.map(async (relative) => ({ text: await pageTitle(path.join(sourceRoot, relative)), link: toUrl(relative) }))) },
         { text: '后端 V3 教程', collapsed: false, items: await createItems(backendTutorialDirectory) },
         { text: '底层概念', collapsed: true, items: await createItems(conceptDirectory) },
@@ -87,6 +91,7 @@ export default defineConfig({
         { text: '培训资料', items: [{ text: 'PPT / Word 下载', link: '/training-materials' }] }
       ],
       '/api/': [
+        { text: '架构设计', collapsed: false, items: architectureItems },
         { text: 'API 参考', collapsed: false, items: await createItems(apiDirectory) },
         { text: '继续学习', items: [{ text: '学习路径', link: '/learning-path' }, { text: '培训资料下载', link: '/training-materials' }] }
       ]

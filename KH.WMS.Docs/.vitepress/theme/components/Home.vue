@@ -31,7 +31,14 @@ const routes = computed(() => [
       </a>
       <nav aria-label="主导航">
         <a :href="withBase('/learning-path')">学习路径</a>
-        <a :href="withBase('/backend/架构设计/KH.WMS架构总览')">架构设计</a>
+        <details class="academy-nav-menu">
+          <summary>架构设计</summary>
+          <div class="academy-nav-menu-panel">
+            <a :href="withBase('/backend/架构设计/KH.WMS架构总览')">KH.WMS 架构总览</a>
+            <a :href="withBase('/backend/架构设计/KH.WMS前端架构设计思路')">KH.WMS 前端架构设计思路</a>
+            <a :href="withBase('/backend/架构设计/KH.WMS后端架构设计思路')">KH.WMS 后端架构设计思路</a>
+          </div>
+        </details>
         <a :href="withBase('/backend/KH.WMS前端开发指引%20V3.0')">前端开发</a>
         <a :href="withBase('/backend/后端开发指引V3教程/01-KH.WMS后端整体地图')">后端开发</a>
         <a :href="withBase('/backend/后端底层概念/01-启动入口与程序集扫描')">底层概念</a>
