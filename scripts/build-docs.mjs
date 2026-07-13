@@ -14,7 +14,7 @@ if (result.error || result.status !== 0) {
 }
 
 await rm('dist', { recursive: true, force: true });
-await cp('KH.WMS.Docs/.vitepress/dist', 'dist', { recursive: true });
+await cp('KH.WMS.Docs/.vitepress/dist', 'dist/client', { recursive: true });
 
 // Sites publishes through a Cloudflare Worker. The documentation itself is
 // pre-rendered by VitePress, so the worker only delegates requests to the
@@ -22,5 +22,11 @@ await cp('KH.WMS.Docs/.vitepress/dist', 'dist', { recursive: true });
 await mkdir('dist/server', { recursive: true });
 await writeFile(
   'dist/server/index.js',
-  'export default { async fetch(request, env) { return env.ASSETS.fetch(request); } };\n',
+  `export default {
+  async fetch(request, env) {
+    const url = new URL(request.url);
+    if (url.pathname === '/') url.pathname = '/index.html';
+    return env.ASSETS.fetch(new Request(url, request));
+  },
+};\n`,
 );
