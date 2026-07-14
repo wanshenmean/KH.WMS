@@ -1,4 +1,18 @@
-﻿# KH.WMS 后端开发指引
+---
+title: "KH.WMS 后端开发指引"
+description: "KH.WMS 后端开发指引：说明适用场景、当前实现、设计边界与开发或排障入口。"
+status: current
+audience: "参与 KH.WMS 开发、测试与运维的团队成员"
+reviewed: "2026-07-14"
+sourcePaths:
+  - "KH.WMS/KH.WMS.Server"
+  - "KH.WMS/KH.WMS.Core"
+  - "KH.WMS/Modules"
+---
+
+
+
+# KH.WMS 后端开发指引
 ## 目录
 
 - [第 0 章 这份文档怎么读](#第-0-章-这份文档怎么读)
@@ -3739,3 +3753,10 @@ flowchart LR
 | WCS/PDA 完成入口不做并发保护 | 重复完成、重复扣减、重复生成库存 | 使用锁、状态复核或幂等机制 |
 | 字典里塞业务专属配置 | 字典膨胀,规则难维护 | 业务配置走配置底座能力 |
 
+
+
+## 继续阅读
+
+- [学习路径](/learning-path)
+- [培训资料下载](/training-materials)
+- [架构总览](/backend/架构设计/KH.WMS架构总览)

@@ -1,3 +1,15 @@
+---
+title: "KH.WMS 前端配置与启动指引"
+description: "KH.WMS 前端配置与启动指引：说明适用场景、当前实现、设计边界与开发或排障入口。"
+status: current
+audience: "前端开发人员与联调负责人"
+reviewed: "2026-07-14"
+sourcePaths:
+  - "KH.WMS.Client/src"
+---
+
+
+
 # KH.WMS 前端配置与启动指引
 
 > 本文用于培训 KH.WMS.Client 的本地启动、构建、代理和基础配置。
@@ -183,3 +195,11 @@ KH.WMS.Client/vite.config.js
 - 能知道在哪里改前端端口和别名。
 - 能说明为什么不要写死后端地址。
 - 能按顺序排查“页面能打开但接口不通”的问题。
+
+
+
+## 继续阅读
+
+- [前端开发指引 V3.0](/backend/KH.WMS前端开发指引%20V3.0)
+- [前端架构设计思路](/backend/架构设计/KH.WMS前端架构设计思路)
+- [前后端联调与接口契约](/backend/KH.WMS前后端联调与接口契约指引)

@@ -1,3 +1,16 @@
+---
+title: "KH.WMS 后端架构设计思路"
+description: "KH.WMS 后端架构设计思路：说明适用场景、当前实现、设计边界与开发或排障入口。"
+status: current
+audience: "新成员、技术负责人和模块维护者"
+reviewed: "2026-07-14"
+sourcePaths:
+  - "KH.WMS.Client/src"
+  - "KH.WMS/KH.WMS.Server"
+---
+
+
+
 # KH.WMS 后端架构设计思路
 
 KH.WMS 后端采用 ASP.NET Core 模块化单体：一个启动和部署单元内保留统一事务与运维方式，同时用业务模块、分层职责和 Contract 约束代码边界。
@@ -383,3 +396,11 @@ Server 项目引用模块
 - [业务流程、事务和校验扩展](/backend/后端开发指引V3教程/11-业务流程事务和校验扩展)
 - [模块边界与分层职责](/backend/后端底层概念/02-模块边界与分层职责)
 - [依赖注入自动注册与 AOP 代理](/backend/后端底层概念/03-依赖注入自动注册与AOP代理)
+
+
+
+## 继续阅读
+
+- [架构总览](/backend/架构设计/KH.WMS架构总览)
+- [学习路径](/learning-path)
+- [后端整体地图](/backend/后端开发指引V3教程/01-KH.WMS后端整体地图)

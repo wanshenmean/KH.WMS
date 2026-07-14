@@ -1,3 +1,17 @@
+---
+title: "第 3 章 请求链路、事务、异常、TraceId、AOP 教程"
+description: "第 3 章 请求链路、事务、异常、TraceId、AOP 教程：说明适用场景、当前实现、设计边界与开发或排障入口。"
+status: current
+audience: "后端开发人员与代码评审人员"
+reviewed: "2026-07-14"
+sourcePaths:
+  - "KH.WMS/KH.WMS.Server"
+  - "KH.WMS/KH.WMS.Core"
+  - "KH.WMS/Modules"
+---
+
+
+
 # 第 3 章 请求链路、事务、异常、TraceId、AOP 教程
 
 > 来源: KH.WMS后端开发指引 V3.0.md。本文把原章节单独抽出来，并补充“干什么、什么时候看、怎么执行”，用于新人培训和日常开发查阅。
@@ -26,9 +40,6 @@
 
 ---
 
-## 原章节内容
-
-# 第 3 章 请求链路、事务、异常、TraceId、AOP
 
 ### 3.1 一个请求的大致旅程
 
@@ -220,3 +231,11 @@ sequenceDiagram
 6. 方法返回类型是否适合 `ConfigValidationInterceptor`。
 
 ---
+
+
+
+## 继续阅读
+
+- [后端 V3 教程目录](/backend/后端开发指引V3教程/README)
+- [后端架构设计思路](/backend/架构设计/KH.WMS后端架构设计思路)
+- [底层机制索引](/backend/后端底层概念/README)

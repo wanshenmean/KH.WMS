@@ -1,3 +1,15 @@
+---
+title: "KH.WMS 前端状态管理与公共工具指引"
+description: "KH.WMS 前端状态管理与公共工具指引：说明适用场景、当前实现、设计边界与开发或排障入口。"
+status: current
+audience: "前端开发人员与联调负责人"
+reviewed: "2026-07-14"
+sourcePaths:
+  - "KH.WMS.Client/src"
+---
+
+
+
 # KH.WMS 前端状态管理与公共工具指引
 
 > 本文用于培训 Pinia Store 和 `src/utils` 工具函数的使用边界。
@@ -225,3 +237,11 @@ WebSocket 状态分两层：
 - 能使用字典缓存。
 - 能说明工具函数不应承载复杂业务流程。
 - 能为一个新页面列出状态归属表。
+
+
+
+## 继续阅读
+
+- [前端开发指引 V3.0](/backend/KH.WMS前端开发指引%20V3.0)
+- [前端架构设计思路](/backend/架构设计/KH.WMS前端架构设计思路)
+- [前后端联调与接口契约](/backend/KH.WMS前后端联调与接口契约指引)

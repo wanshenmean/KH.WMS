@@ -1,4 +1,16 @@
-﻿# KH.WMS 前端常用组件详细使用文档
+---
+title: "KH.WMS 前端常用组件详细使用文档"
+description: "KH.WMS 前端常用组件详细使用文档：说明适用场景、当前实现、设计边界与开发或排障入口。"
+status: current
+audience: "前端开发人员与联调负责人"
+reviewed: "2026-07-14"
+sourcePaths:
+  - "KH.WMS.Client/src"
+---
+
+
+
+# KH.WMS 前端常用组件详细使用文档
 
 > 本文面向 `KH.WMS.Client` 前端开发，说明 `src/components/KhXxx` 公共组件的定位、常用 props、事件、插槽、暴露方法、典型写法和页面开发场景。  
 > 代码依据当前仓库实现整理，重点覆盖页面中使用最多的 `KhPage`。
@@ -3680,3 +3692,11 @@ PC 后台整体布局。普通页面一般不直接使用。
 | 图表空白 | 容器尺寸、ECharts option、refresh/resize |
 | 拖拽排序丢失 | rowKey、v-model、保存接口 |
 | 上传异常 | accept、limit、maxSize、接口返回、业务关联 |
+
+
+
+## 继续阅读
+
+- [前端开发指引 V3.0](/backend/KH.WMS前端开发指引%20V3.0)
+- [前端架构设计思路](/backend/架构设计/KH.WMS前端架构设计思路)
+- [前后端联调与接口契约](/backend/KH.WMS前后端联调与接口契约指引)

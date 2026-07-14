@@ -1,3 +1,15 @@
+---
+title: "KH.WMS PC 前端开发指引 V3.0"
+description: "KH.WMS PC 前端开发指引 V3.0：说明适用场景、当前实现、设计边界与开发或排障入口。"
+status: current
+audience: "前端开发人员与联调负责人"
+reviewed: "2026-07-14"
+sourcePaths:
+  - "KH.WMS.Client/src"
+---
+
+
+
 # KH.WMS PC 前端开发指引 V3.0
 
 > 适用范围：`KH.WMS.Client` 的 PC 端业务页面。PDA 页面走 `PdaLayout.vue`，本文只在必要处说明差异。
@@ -1841,3 +1853,10 @@ window.__APP_CONFIG__ = {
   API_BASE_URL: '',
 }
 ```
+
+
+
+## 继续阅读
+
+- [前端架构设计思路](/backend/架构设计/KH.WMS前端架构设计思路)
+- [前后端联调与接口契约](/backend/KH.WMS前后端联调与接口契约指引)

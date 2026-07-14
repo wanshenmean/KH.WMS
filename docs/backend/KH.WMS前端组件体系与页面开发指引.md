@@ -1,3 +1,15 @@
+---
+title: "KH.WMS 前端组件体系与页面开发指引"
+description: "KH.WMS 前端组件体系与页面开发指引：说明适用场景、当前实现、设计边界与开发或排障入口。"
+status: current
+audience: "前端开发人员与联调负责人"
+reviewed: "2026-07-14"
+sourcePaths:
+  - "KH.WMS.Client/src"
+---
+
+
+
 # KH.WMS 前端组件体系与页面开发指引
 
 > 本文用于培训通用组件、页面组件和典型页面结构。
@@ -202,3 +214,11 @@ src/views/basedata/components/MaterialImportDialog.vue
 - 能按命名规则新增弹窗组件。
 - 能说明通用组件为什么不应直接调用业务 API。
 - 能把一个复杂页面拆成主页面、表单弹窗、详情弹窗。
+
+
+
+## 继续阅读
+
+- [前端开发指引 V3.0](/backend/KH.WMS前端开发指引%20V3.0)
+- [前端架构设计思路](/backend/架构设计/KH.WMS前端架构设计思路)
+- [前后端联调与接口契约](/backend/KH.WMS前后端联调与接口契约指引)

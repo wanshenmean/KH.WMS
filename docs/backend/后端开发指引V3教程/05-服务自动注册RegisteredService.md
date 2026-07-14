@@ -1,3 +1,17 @@
+---
+title: "第 5 章 服务自动注册: [RegisteredService] 教程"
+description: "第 5 章 服务自动注册: [RegisteredService] 教程：说明适用场景、当前实现、设计边界与开发或排障入口。"
+status: current
+audience: "后端开发人员与代码评审人员"
+reviewed: "2026-07-14"
+sourcePaths:
+  - "KH.WMS/KH.WMS.Server"
+  - "KH.WMS/KH.WMS.Core"
+  - "KH.WMS/Modules"
+---
+
+
+
 # 第 5 章 服务自动注册: `[RegisteredService]` 教程
 
 > 来源: KH.WMS后端开发指引 V3.0.md。本文把原章节单独抽出来，并补充“干什么、什么时候看、怎么执行”，用于新人培训和日常开发查阅。
@@ -26,9 +40,6 @@
 
 ---
 
-## 原章节内容
-
-# 第 5 章 服务自动注册: `[RegisteredService]`
 
 ### 5.1 自动注册从哪里来
 
@@ -282,3 +293,11 @@ public class XxxValidator : IValidator
 自注册类,即按自身类型注册而不是按接口注册时,使用 `[SelfRegisteredService]`。普通业务 Service 不建议这么写。
 
 ---
+
+
+
+## 继续阅读
+
+- [后端 V3 教程目录](/backend/后端开发指引V3教程/README)
+- [后端架构设计思路](/backend/架构设计/KH.WMS后端架构设计思路)
+- [底层机制索引](/backend/后端底层概念/README)

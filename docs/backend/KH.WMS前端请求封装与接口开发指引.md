@@ -1,3 +1,15 @@
+---
+title: "KH.WMS 前端请求封装与接口开发指引"
+description: "KH.WMS 前端请求封装与接口开发指引：说明适用场景、当前实现、设计边界与开发或排障入口。"
+status: current
+audience: "前端开发人员与联调负责人"
+reviewed: "2026-07-14"
+sourcePaths:
+  - "KH.WMS.Client/src"
+---
+
+
+
 # KH.WMS 前端请求封装与接口开发指引
 
 > 本文用于培训前端如何统一调用后端 API。
@@ -260,3 +272,11 @@ export function enableBrand(id) {
 - 能说明 `buildPageQuery` 的输出结构。
 - 能判断哪些请求需要 `showLoading: false`。
 - 能根据 Network 请求定位 401、403、404、422、500 的责任范围。
+
+
+
+## 继续阅读
+
+- [前端开发指引 V3.0](/backend/KH.WMS前端开发指引%20V3.0)
+- [前端架构设计思路](/backend/架构设计/KH.WMS前端架构设计思路)
+- [前后端联调与接口契约](/backend/KH.WMS前后端联调与接口契约指引)

@@ -1,6 +1,7 @@
 import { access, readFile, readdir, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { apiFiles, architectureFiles, backendTutorialFiles, conceptGroups, frontendFiles, referenceFiles } from '../content-map.mjs';
 
 const siteRoot = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const workspaceRoot = path.resolve(siteRoot, '..');
@@ -91,9 +92,8 @@ function areaOf(relative) {
 }
 
 function groupOf(relative) {
-  const area = areaOf(relative);
-  if (['architecture', 'frontend', 'tutorial'].includes(area) || relative === 'backend/KH.WMS后端开发指引 V3.0.md') return 'core';
-  if (area === 'concepts' || area === 'api' || relative.includes('Core-API') || relative.includes('Algorithms')) return 'mechanisms';
+  if ([...architectureFiles, ...frontendFiles, ...backendTutorialFiles].includes(relative)) return 'core';
+  if ([...apiFiles, ...conceptGroups.flatMap((group) => group.files), ...referenceFiles.slice(0, 4)].includes(relative)) return 'mechanisms';
   return 'resources';
 }
 
@@ -157,9 +157,17 @@ function normalizeHeadings(source, title, relative) {
     }
     if (!inFence && /^#\s+/.test(line)) {
       if (!h1Seen) h1Seen = true;
-      else line = `## ${line.slice(2)}`;
+      else {
+        const repeatedTitle = line.slice(2).replace(/`/g, '').trim();
+        if (relative.includes('/后端开发指引V3教程/') && repeatedTitle === title.replace(/\s+教程$/, '')) continue;
+        line = `## ${line.slice(2)}`;
+      }
     }
-    if (!inFence && relative.includes('/后端开发指引V3教程/') && /^##\s+原章节内容\s*$/.test(line)) continue;
+    if (!inFence && relative.includes('/后端开发指引V3教程/')) {
+      if (/^##\s+原章节内容\s*$/.test(line)) continue;
+      const levelTwoTitle = line.match(/^##\s+(.+)$/)?.[1]?.replace(/`/g, '').trim();
+      if (levelTwoTitle === title.replace(/\s+教程$/, '')) continue;
+    }
     normalized.push(line);
   }
   if (!h1Seen) {
