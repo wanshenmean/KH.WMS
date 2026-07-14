@@ -1,3 +1,15 @@
+---
+title: "KH.WMS 后端 Contract 与模块协作指引"
+description: "KH.WMS 后端 Contract 与模块协作指引：说明适用场景、当前实现、设计边界与开发或排障入口。"
+status: reference
+audience: "参与 KH.WMS 开发、测试与运维的团队成员"
+reviewed: "2026-07-14"
+sourcePaths:
+  - "KH.WMS/KH.WMS.Server"
+  - "KH.WMS/KH.WMS.Core"
+  - "KH.WMS/Modules"
+---
+
 # KH.WMS 后端 Contract 与模块协作指引
 
 > 本文用于培训跨模块调用规则。目标是让成员知道什么时候新增 Contract，怎么定义 Contract，以及为什么不能直接引用其他模块的 Service。
@@ -201,3 +213,9 @@ InboundOrderService
 - 能说出 Contract 定义方、实现方、调用方职责。
 - 能解释为什么不能直接引用其他模块 Service。
 - 能识别事务边界是否放错。
+
+## 继续阅读
+
+- [学习路径](/learning-path)
+- [培训资料下载](/training-materials)
+- [架构总览](/backend/架构设计/KH.WMS架构总览)

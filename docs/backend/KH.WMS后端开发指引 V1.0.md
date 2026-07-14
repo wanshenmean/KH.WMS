@@ -1,3 +1,13 @@
+---
+title: "KH.WMS 后端开发指引 V1.0（历史）"
+description: "KH.WMS 后端开发指引 V1.0（历史）：说明适用场景、当前实现、设计边界与开发或排障入口。"
+status: archived
+audience: "维护历史版本或执行迁移的开发人员"
+reviewed: "2026-07-14"
+search: false
+replacement: "/backend/后端开发指引V3教程/README"
+---
+
 # KH.WMS 后端开发指引
 
 > 本文档面向后端新人的深入专题,与根目录《`KH.WMS项目技术栈与目录指引.md`》(全栈概览)互补。
@@ -1965,3 +1975,9 @@ public interface ILocationContract
 | 新模块程序集名不含 `.Modules.` | 控制器不被 MVC 发现 | 改名为 `KH.WMS.Modules.Xxx` |
 | 业务扩展方法返回 `IActionResult` | 绕过 TraceId 注入 | 返回 `ApiResponse` |
 | `MaterialService` 主构造函数参数顺序与基类不一致 | 运行时报"无法解析服务" | 严格对齐 `CrudService<T>` 6 个参数顺序 |
+
+## 继续阅读
+
+- [当前维护版本](/backend/后端开发指引V3教程/README)
+- [学习路径](/learning-path)
+- [培训资料下载](/training-materials)

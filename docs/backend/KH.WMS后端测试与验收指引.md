@@ -1,3 +1,15 @@
+---
+title: "KH.WMS 后端测试与验收指引"
+description: "KH.WMS 后端测试与验收指引：说明适用场景、当前实现、设计边界与开发或排障入口。"
+status: reference
+audience: "参与 KH.WMS 开发、测试与运维的团队成员"
+reviewed: "2026-07-14"
+sourcePaths:
+  - "KH.WMS/KH.WMS.Server"
+  - "KH.WMS/KH.WMS.Core"
+  - "KH.WMS/Modules"
+---
+
 # KH.WMS 后端测试与验收指引
 
 > 本文定义后端功能完成后的基础验证标准。培训目标是让成员知道“功能写完后怎么证明它能用”。
@@ -174,3 +186,9 @@ TraceId：
 - 能用 Swagger 验证接口。
 - 能设计一个新增 CRUD 功能的验收清单。
 - 能说明哪些场景必须验证事务回滚。
+
+## 继续阅读
+
+- [学习路径](/learning-path)
+- [培训资料下载](/training-materials)
+- [架构总览](/backend/架构设计/KH.WMS架构总览)

@@ -3662,6 +3662,7 @@ public class AuthService
         return _jwtTokenService.RefreshToken(accessToken, refreshToken);
     }
 }
+```
 
 #### 3.4.2 JwtBearerExtensions
 

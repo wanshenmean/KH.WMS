@@ -1,3 +1,15 @@
+---
+title: "KH.WMS 后端部署与环境配置指引"
+description: "KH.WMS 后端部署与环境配置指引：说明适用场景、当前实现、设计边界与开发或排障入口。"
+status: reference
+audience: "参与 KH.WMS 开发、测试与运维的团队成员"
+reviewed: "2026-07-14"
+sourcePaths:
+  - "KH.WMS/KH.WMS.Server"
+  - "KH.WMS/KH.WMS.Core"
+  - "KH.WMS/Modules"
+---
+
 # KH.WMS 后端部署与环境配置指引
 
 > 本文用于培训后端环境配置、部署差异和敏感信息管理。
@@ -169,3 +181,9 @@ dotnet run --project KH.WMS.Server\KH.WMS.Server.csproj
 - 能列出不能提交仓库的敏感信息。
 - 能配置数据库、JWT、Swagger、MiniProfiler 的基本项。
 - 能给出测试环境和生产环境的配置差异。
+
+## 继续阅读
+
+- [学习路径](/learning-path)
+- [培训资料下载](/training-materials)
+- [架构总览](/backend/架构设计/KH.WMS架构总览)

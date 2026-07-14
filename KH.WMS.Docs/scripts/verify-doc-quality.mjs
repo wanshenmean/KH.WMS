@@ -50,7 +50,7 @@ function parseFrontmatter(source) {
   return { data, body: normalized.slice(end + 5) };
 }
 
-function outsideFences(body) {
+function inspectFences(body) {
   const lines = [];
   let inFence = false;
   for (const line of body.split('\n')) {
@@ -60,7 +60,7 @@ function outsideFences(body) {
     }
     if (!inFence) lines.push(line);
   }
-  return lines.join('\n');
+  return { prose: lines.join('\n'), balanced: !inFence };
 }
 
 const sourceFiles = (await Promise.all(['backend', 'api'].map((root) => walk(path.join(docsRoot, root))))).flat();
@@ -103,7 +103,9 @@ for (const file of sourceFiles) {
   for (const sourcePath of data.sourcePaths ?? []) {
     try { await access(path.join(workspaceRoot, sourcePath)); } catch { failures.push(`${relative}: missing sourcePath ${sourcePath}.`); }
   }
-  const prose = outsideFences(body);
+  const inspected = inspectFences(body);
+  const prose = inspected.prose;
+  if (!inspected.balanced) failures.push(`${relative}: unbalanced Markdown code fence.`);
   const h1Count = (prose.match(/^#\s+.+$/gm) ?? []).length;
   if (h1Count !== 1) failures.push(`${relative}: expected exactly one H1, found ${h1Count}.`);
   if (/^\s*<\/?[A-Za-z][^>]*>\s*$/m.test(prose)) failures.push(`${relative}: raw HTML found outside a code fence.`);

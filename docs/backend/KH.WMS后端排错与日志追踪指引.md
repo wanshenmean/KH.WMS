@@ -1,3 +1,15 @@
+---
+title: "KH.WMS 后端排错与日志追踪指引"
+description: "KH.WMS 后端排错与日志追踪指引：说明适用场景、当前实现、设计边界与开发或排障入口。"
+status: reference
+audience: "参与 KH.WMS 开发、测试与运维的团队成员"
+reviewed: "2026-07-14"
+sourcePaths:
+  - "KH.WMS/KH.WMS.Server"
+  - "KH.WMS/KH.WMS.Core"
+  - "KH.WMS/Modules"
+---
+
 # KH.WMS 后端排错与日志追踪指引
 
 > 本文用于培训接口、业务、权限、数据库和策略问题的排查方法。
@@ -214,3 +226,9 @@
 - 能区分 401、403、422、500 的排查方向。
 - 能排查服务无法解析和 Controller 不出现在 Swagger 的问题。
 - 能说明策略问题从注册、参数、数据、结果四层排查。
+
+## 继续阅读
+
+- [学习路径](/learning-path)
+- [培训资料下载](/training-materials)
+- [架构总览](/backend/架构设计/KH.WMS架构总览)

@@ -1,4 +1,14 @@
-﻿# KH.WMS 第一次培训考题
+---
+title: "KH.WMS 第一次培训考题（历史副本）"
+description: "KH.WMS 第一次培训考题（历史副本）：说明适用场景、当前实现、设计边界与开发或排障入口。"
+status: archived
+audience: "维护历史版本或执行迁移的开发人员"
+reviewed: "2026-07-14"
+search: false
+replacement: "/backend/KH.WMS第一次培训考题"
+---
+
+# KH.WMS 第一次培训考题
 
 ## 考题说明
 
@@ -459,3 +469,8 @@
 
 4. 你要排查一个模块控制器没有出现在 Swagger 中的问题。结合文档说明 `Program.cs` 中控制器发现机制和你会优先检查哪些点。
 
+## 继续阅读
+
+- [当前维护版本](/backend/KH.WMS第一次培训考题)
+- [学习路径](/learning-path)
+- [培训资料下载](/training-materials)

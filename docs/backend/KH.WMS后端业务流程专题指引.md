@@ -1,3 +1,15 @@
+---
+title: "KH.WMS 后端业务流程专题指引"
+description: "KH.WMS 后端业务流程专题指引：说明适用场景、当前实现、设计边界与开发或排障入口。"
+status: reference
+audience: "参与 KH.WMS 开发、测试与运维的团队成员"
+reviewed: "2026-07-14"
+sourcePaths:
+  - "KH.WMS/KH.WMS.Server"
+  - "KH.WMS/KH.WMS.Core"
+  - "KH.WMS/Modules"
+---
+
 # KH.WMS 后端业务流程专题指引
 
 > 本文按业务链路讲 KH.WMS 后端，不按模块孤立讲。适合作为模块逐讲之后的业务串联培训资料。
@@ -291,3 +303,9 @@
 - 能指出一个流程中哪些模块负责主流程，哪些模块提供能力。
 - 能判断库存数量变更应通过哪个模块。
 - 能说明为什么任务确认是多个模块协作点。
+
+## 继续阅读
+
+- [学习路径](/learning-path)
+- [培训资料下载](/training-materials)
+- [架构总览](/backend/架构设计/KH.WMS架构总览)

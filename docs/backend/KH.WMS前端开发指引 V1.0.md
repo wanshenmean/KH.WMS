@@ -1,3 +1,14 @@
+---
+title: "KH.WMS 前端开发指引 V1.0（历史）"
+description: "KH.WMS 前端开发指引 V1.0（历史）：说明适用场景、当前实现、设计边界与开发或排障入口。"
+status: archived
+audience: "维护历史版本或执行迁移的开发人员"
+reviewed: "2026-07-14"
+search: false
+replacement: "/backend/KH.WMS前端开发指引%20V3.0"
+---
+
+
 # KH.WMS 前端开发指引
 
 > 适用版本：KH.WMS.Client 与后端对齐至 ad110f3
@@ -543,7 +554,9 @@ export const useDictStore = defineStore('dict', {
 > **本节以 A 线为例**。读者应能复述 `KhStatCard` 真实 props、能写出 ECharts 接入 5 步代码、能解释为什么图表组件必须在 `onBeforeUnmount` 调 `dispose`。
 
 `KhStatCard` 真实 props（`src/components/KhStatCard/index.vue`）：`value` `[Number|String]`（Number 自动 `toLocaleString` 千分位）、`label` `String`、`icon` `[Object|String]`（Element Plus 图标组件，`markRaw` 包装更安全）、`iconSize` `Number=28`、`theme` `String='primary'`（枚举 `primary|success|warning|danger|info`）、`shadow` `String='hover'`、`clickable` `Boolean=false`、`formatter` `Function=null`（自定义 `(value) => string`）。**解读**：`icon` 推荐 `markRaw(ElementPlusIcon)`，组件内部 `toRaw` 再解包一层更安全。
-`WarehouseDashboard.vue` 用 ECharts 渲染多图组合（ECharts 接入 5 步：`import * as echarts` → `echarts.init(dom)` → `setOption` → `resize` 监听 → `dispose`）：```js
+`WarehouseDashboard.vue` 用 ECharts 渲染多图组合（ECharts 接入 5 步：`import * as echarts` → `echarts.init(dom)` → `setOption` → `resize` 监听 → `dispose`）：
+
+```js
 import * as echarts from 'echarts'
 import { ref, onMounted, onBeforeUnmount } from 'vue'
 const chartRef = ref(null)                          // 1. <div ref="chartRef" style="height:320px">
@@ -1557,3 +1570,9 @@ export default defineConfig({
 | 13 | 局部组件放进 `src/components/` | 该业务域专用组件污染通用层 | 跨业务域才提升到 `src/components/` |
 | 14 | WebSocket 断开未重连 | 实时任务收不到 | `useWebsocketStore` 内置心跳与重连 |
 | 15 | RSA 公钥未更新 | 加密后端解密失败 | 公钥从 `/api/auth/public-key` 拉，不要硬编码 |
+
+
+## 继续阅读
+
+- [前端开发指引 V3.0](/backend/KH.WMS前端开发指引%20V3.0)
+- [前端架构设计思路](/backend/架构设计/KH.WMS前端架构设计思路)

@@ -1,3 +1,15 @@
+---
+title: "KH.WMS 后端配置驱动开发指引"
+description: "KH.WMS 后端配置驱动开发指引：说明适用场景、当前实现、设计边界与开发或排障入口。"
+status: reference
+audience: "参与 KH.WMS 开发、测试与运维的团队成员"
+reviewed: "2026-07-14"
+sourcePaths:
+  - "KH.WMS/KH.WMS.Server"
+  - "KH.WMS/KH.WMS.Core"
+  - "KH.WMS/Modules"
+---
+
 # KH.WMS 后端配置驱动开发指引
 
 > 本文用于培训后端成员识别“应配置化”的业务能力，避免把可变规则硬编码到 Service 或 Controller 中。
@@ -270,3 +282,9 @@ BusinessService
 - 能说明 `SystemModule` 与 `ConfigModule` 的边界。
 - 能说出扩展字段、字典、单据状态、编码规则的典型用途。
 - 能指出硬编码状态流转和硬编码编号的风险。
+
+## 继续阅读
+
+- [学习路径](/learning-path)
+- [培训资料下载](/training-materials)
+- [架构总览](/backend/架构设计/KH.WMS架构总览)

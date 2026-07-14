@@ -1,3 +1,13 @@
+---
+title: "KH.WMS 后端开发指引 V2.0 培训考题（历史）"
+description: "KH.WMS 后端开发指引 V2.0 培训考题（历史）：说明适用场景、当前实现、设计边界与开发或排障入口。"
+status: archived
+audience: "维护历史版本或执行迁移的开发人员"
+reviewed: "2026-07-14"
+search: false
+replacement: "/backend/后端开发指引V3教程/README"
+---
+
 # KH.WMS 后端开发指引 V2.0 培训考题
 
 ## 考题说明
@@ -366,3 +376,9 @@
    - 确认 `ValidatorCodes`、`IValidator.Code`、`ConfigValidation` 三处编码一致。
    - 确认目标方法返回类型适合 `ConfigValidationInterceptor`,例如 `Task<ServiceResult>` 或 `Task<ServiceResult<T>>`。
    - Validator 类只实现 `IValidator`,避免注册到非预期接口。
+
+## 继续阅读
+
+- [当前维护版本](/backend/后端开发指引V3教程/README)
+- [学习路径](/learning-path)
+- [培训资料下载](/training-materials)

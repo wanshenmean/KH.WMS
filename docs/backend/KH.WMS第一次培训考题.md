@@ -1,4 +1,12 @@
-﻿# KH.WMS 第一次培训考题
+---
+title: "KH.WMS 第一次培训考题"
+description: "KH.WMS 第一次培训考题：说明适用场景、当前实现、设计边界与开发或排障入口。"
+status: training
+audience: "新成员、培训讲师与参与考核的开发人员"
+reviewed: "2026-07-14"
+---
+
+# KH.WMS 第一次培训考题
 
 ## 考题说明
 
@@ -671,5 +679,8 @@
 
 4. 检查控制器所在程序集是否属于 `.Modules.`，项目是否被 Server 引用，路由和控制器类型是否正确，`ApplicationPartManager` 是否能加载程序集。
 
+## 继续阅读
 
-
+- [学习路径](/learning-path)
+- [培训资料下载](/training-materials)
+- [架构总览](/backend/架构设计/KH.WMS架构总览)

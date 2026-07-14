@@ -1,3 +1,13 @@
+---
+title: "KH.WMS 项目技术栈与目录指引 V2.0（历史）"
+description: "KH.WMS 项目技术栈与目录指引 V2.0（历史）：说明适用场景、当前实现、设计边界与开发或排障入口。"
+status: archived
+audience: "维护历史版本或执行迁移的开发人员"
+reviewed: "2026-07-14"
+search: false
+replacement: "/backend/架构设计/KH.WMS架构总览"
+---
+
 # KH.WMS 项目技术栈、类库与目录开发指引
 
 本文档用于帮助开发人员快速理解 KH.WMS 的前后端组织方式、主要依赖、模块边界，以及新增文件时应该放在哪里。
@@ -620,3 +630,9 @@ public class MaterialBrandController(IMaterialBrandService materialBrandService)
 - 前端页面内弹窗：放 `views/{业务域}/components`。
 - 前端多页面复用组件：放 `src/components`。
 - 前端请求后端：放 `src/api`。
+
+## 继续阅读
+
+- [当前维护版本](/backend/架构设计/KH.WMS架构总览)
+- [学习路径](/learning-path)
+- [培训资料下载](/training-materials)

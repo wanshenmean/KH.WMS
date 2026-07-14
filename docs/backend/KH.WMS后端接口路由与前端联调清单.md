@@ -1,3 +1,14 @@
+---
+title: "KH.WMS 后端接口路由与前端联调清单"
+description: "KH.WMS 后端接口路由与前端联调清单：说明适用场景、当前实现、设计边界与开发或排障入口。"
+status: reference
+audience: "前端开发人员与联调负责人"
+reviewed: "2026-07-14"
+sourcePaths:
+  - "KH.WMS.Client/src"
+---
+
+
 # KH.WMS 后端接口路由与前端联调清单
 
 > 本文用于接口速查和前后端联调培训。它不替代 Swagger，而是帮助新人知道接口从哪里来、前端应该怎么对接。
@@ -232,3 +243,10 @@ export function confirmTask(data) {
 - 能根据后端路由找到前端 API 文件。
 - 能用 Swagger 验证接口。
 - 能说明默认 CRUD 端点和自定义端点的区别。
+
+
+## 继续阅读
+
+- [前端开发指引 V3.0](/backend/KH.WMS前端开发指引%20V3.0)
+- [前端架构设计思路](/backend/架构设计/KH.WMS前端架构设计思路)
+- [前后端联调与接口契约](/backend/KH.WMS前后端联调与接口契约指引)

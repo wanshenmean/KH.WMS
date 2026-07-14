@@ -46,6 +46,7 @@ const conceptItems = await Promise.all(conceptGroups.map(async (group) => ({
 export default withMermaid(defineConfig({
   title: 'KH.WMS 开发学院',
   description: 'KH.WMS 架构、前端、后端、底层机制与 API 技术文档。',
+  head: [['link', { rel: 'icon', href: '/mark.svg', type: 'image/svg+xml' }]],
   srcDir: '.site-content',
   cleanUrls: true,
   lastUpdated: true,
@@ -71,9 +72,14 @@ export default withMermaid(defineConfig({
     nav: [
       { text: '架构总览', items: architectureItems },
       { text: '学习路径', link: '/learning-path' },
-      { text: '前端开发', link: toUrl(frontendFiles[0]) },
-      { text: '后端开发', link: toUrl(backendTutorialFiles[0]) },
-      { text: '底层机制', link: toUrl(conceptGroups[0].files[0]) },
+      {
+        text: '开发文档',
+        items: [
+          { text: '前端开发', link: toUrl(frontendFiles[0]) },
+          { text: '后端开发', link: toUrl(backendTutorialFiles[0]) },
+          { text: '底层机制', link: toUrl(conceptGroups[0].files[0]) }
+        ]
+      },
       { text: 'API / 参考', link: toUrl(apiFiles[0]) },
       {
         text: '培训与历史',
