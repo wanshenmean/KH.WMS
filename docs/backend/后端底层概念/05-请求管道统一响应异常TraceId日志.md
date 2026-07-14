@@ -1,3 +1,15 @@
+---
+title: "05 请求管道、统一响应、异常、TraceId、日志"
+description: "05 请求管道、统一响应、异常、TraceId、日志：说明适用场景、当前实现、设计边界与开发或排障入口。"
+status: reference
+audience: "后端开发人员、排障人员与底座维护者"
+reviewed: "2026-07-14"
+sourcePaths:
+  - "KH.WMS/KH.WMS.Server"
+  - "KH.WMS/KH.WMS.Core"
+  - "KH.WMS/Modules"
+---
+
 # 05 请求管道、统一响应、异常、TraceId、日志
 
 ## 这个概念解决什么问题
@@ -479,3 +491,9 @@ catch
 - 全局异常 Filter 会脱敏常见字段，但业务日志里的 `[LogInterceptor(LogParameters=true)]` 仍可能记录参数。
 - 敏感方法不要打开返回值记录。
 - DTO 命名敏感字段时尽量使用可被脱敏规则识别的名称。
+
+## 继续阅读
+
+- [底层机制索引](/backend/后端底层概念/README)
+- [后端 V3 教程](/backend/后端开发指引V3教程/README)
+- [后端排错与日志追踪](/backend/KH.WMS后端排错与日志追踪指引)

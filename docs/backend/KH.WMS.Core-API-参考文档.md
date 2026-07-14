@@ -1,3 +1,15 @@
+---
+title: "KH.WMS.Core API 参考文档"
+description: "KH.WMS.Core API 参考文档：说明适用场景、当前实现、设计边界与开发或排障入口。"
+status: reference
+audience: "参与 KH.WMS 开发、测试与运维的团队成员"
+reviewed: "2026-07-14"
+sourcePaths:
+  - "KH.WMS/KH.WMS.Server"
+  - "KH.WMS/KH.WMS.Core"
+  - "KH.WMS/Modules"
+---
+
 # KH.WMS.Core API 参考文档
 
 > **本文档适用于 `KH.WMS.Core` 类库的 DLL 使用者。** 外部团队无法查看源码，所有功能需通过本文档调用。本文档涵盖了该类库中所有公开类型、方法、配置项和最佳实践。
@@ -10525,3 +10537,9 @@ builder.Services.AddLoggingSetup(builder.Configuration);
 ---
 
 > 本文档由 KH.WMS 团队维护。如有问题或建议，请联系项目维护者。
+
+## 继续阅读
+
+- [学习路径](/learning-path)
+- [培训资料下载](/training-materials)
+- [架构总览](/backend/架构设计/KH.WMS架构总览)

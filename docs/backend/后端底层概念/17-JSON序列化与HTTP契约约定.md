@@ -1,4 +1,16 @@
-﻿# 17 JSON 序列化与 HTTP 契约约定
+---
+title: "17 JSON 序列化与 HTTP 契约约定"
+description: "17 JSON 序列化与 HTTP 契约约定：说明适用场景、当前实现、设计边界与开发或排障入口。"
+status: reference
+audience: "后端开发人员、排障人员与底座维护者"
+reviewed: "2026-07-14"
+sourcePaths:
+  - "KH.WMS/KH.WMS.Server"
+  - "KH.WMS/KH.WMS.Core"
+  - "KH.WMS/Modules"
+---
+
+# 17 JSON 序列化与 HTTP 契约约定
 
 ## 这个概念解决什么问题
 
@@ -182,3 +194,9 @@ flowchart TD
 ### 把 ExtDataRaw 传成对象
 
 标准 `ExtDataCrudController` 期望 `extDataRaw` 是 JSON 字符串。主从 DTO 自定义接口可以设计成对象，但必须在 Controller 或 Service 入口显式处理。
+
+## 继续阅读
+
+- [底层机制索引](/backend/后端底层概念/README)
+- [后端 V3 教程](/backend/后端开发指引V3教程/README)
+- [后端排错与日志追踪](/backend/KH.WMS后端排错与日志追踪指引)

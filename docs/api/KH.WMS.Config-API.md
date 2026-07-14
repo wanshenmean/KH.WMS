@@ -1,3 +1,13 @@
+---
+title: "KH.WMS.Config API"
+description: "KH.WMS.Config API：说明适用场景、当前实现、设计边界与开发或排障入口。"
+status: reference
+audience: "接口调用方、扩展开发人员与模块维护者"
+reviewed: "2026-07-14"
+sourcePaths:
+  - "KH.WMS"
+---
+
 # KH.WMS.Config API
 
 `KH.WMS.Config` 是 WMS 业务配置实现层，提供配置实体、CRUD 服务、分层配置解析、单据状态校验、扩展字段转换和 HTTP 管理端点。程序集目标框架为 `.NET 8.0`，版本为 `1.0.0.0`。
@@ -741,3 +751,9 @@ curl -H "Authorization: Bearer $TOKEN" \
 | 前端可点但后端拒绝 | 状态或配置在两次请求间变化 | 以后端最终校验为准 |
 | 扩展字段不显示 | 实体编码、字段层级不一致或缓存未清 | 检查 `EntityCode`、`FieldLevel`，调用 `ClearCache` |
 | 多实例中只有一台生效 | 当前缓存是进程内 MemoryCache | 增加分布式缓存或失效广播 |
+
+## 继续阅读
+
+- [API 参考首页](/api/README)
+- [公开类型索引](/api/PUBLIC-TYPE-INDEX)
+- [跨模块 Contract](/backend/KH.WMS后端Contract与模块协作指引)

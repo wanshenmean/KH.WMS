@@ -1,3 +1,15 @@
+---
+title: "09 跨模块 Contract 契约"
+description: "09 跨模块 Contract 契约：说明适用场景、当前实现、设计边界与开发或排障入口。"
+status: reference
+audience: "后端开发人员、排障人员与底座维护者"
+reviewed: "2026-07-14"
+sourcePaths:
+  - "KH.WMS/KH.WMS.Server"
+  - "KH.WMS/KH.WMS.Core"
+  - "KH.WMS/Modules"
+---
+
 # 09 跨模块 Contract 契约
 
 ## 这个概念解决什么问题
@@ -245,3 +257,9 @@ public class OutboundAllocationService(IInventoryContract inventoryContract)
 - Contract 实现没加 `[RegisteredService(ServiceType=...)]`：运行时无法注入。
 - 以为 Contract 会自动开完整业务事务：跨模块流程事务由外层业务流程控制。
 - 在 Contract 里返回 `ApiResponse` 给另一个 Service：内部流程更适合 `ServiceResult` 或明确业务结果。
+
+## 继续阅读
+
+- [底层机制索引](/backend/后端底层概念/README)
+- [后端 V3 教程](/backend/后端开发指引V3教程/README)
+- [后端排错与日志追踪](/backend/KH.WMS后端排错与日志追踪指引)

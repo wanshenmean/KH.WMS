@@ -1,3 +1,15 @@
+---
+title: "04 AOP 拦截器与特性使用"
+description: "04 AOP 拦截器与特性使用：说明适用场景、当前实现、设计边界与开发或排障入口。"
+status: reference
+audience: "后端开发人员、排障人员与底座维护者"
+reviewed: "2026-07-14"
+sourcePaths:
+  - "KH.WMS/KH.WMS.Server"
+  - "KH.WMS/KH.WMS.Core"
+  - "KH.WMS/Modules"
+---
+
 # 04 AOP 拦截器与特性使用
 
 ## 这个概念解决什么问题
@@ -393,3 +405,9 @@ public class DemoService : IDemoService
 - AOP 异常拦截器主要记录和再抛。
 - HTTP 响应统一格式由 `GlobalExceptionFilter` 负责。
 - Service 内不要到处 catch 后吞异常，否则事务和全局异常都可能失去判断依据。
+
+## 继续阅读
+
+- [底层机制索引](/backend/后端底层概念/README)
+- [后端 V3 教程](/backend/后端开发指引V3教程/README)
+- [后端排错与日志追踪](/backend/KH.WMS后端排错与日志追踪指引)

@@ -1,3 +1,15 @@
+---
+title: "KH.WMS 前后端联调与接口契约指引"
+description: "KH.WMS 前后端联调与接口契约指引：说明适用场景、当前实现、设计边界与开发或排障入口。"
+status: reference
+audience: "参与 KH.WMS 开发、测试与运维的团队成员"
+reviewed: "2026-07-14"
+sourcePaths:
+  - "KH.WMS/KH.WMS.Server"
+  - "KH.WMS/KH.WMS.Core"
+  - "KH.WMS/Modules"
+---
+
 # KH.WMS 前后端联调与接口契约指引
 
 > 本文用于培训前后端如何围绕接口、权限、字典、扩展字段和 TraceId 协作。
@@ -277,3 +289,9 @@ component = "system/user"
 - 能说明扩展字段、字典、权限如何前后端配合。
 - 能按 TraceId 进行一次完整排错。
 - 能写出一条完整的联调问题记录。
+
+## 继续阅读
+
+- [学习路径](/learning-path)
+- [培训资料下载](/training-materials)
+- [架构总览](/backend/架构设计/KH.WMS架构总览)

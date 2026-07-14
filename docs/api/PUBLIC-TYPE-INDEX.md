@@ -1,3 +1,13 @@
+---
+title: "三个程序集公开类型索引"
+description: "三个程序集公开类型索引：说明适用场景、当前实现、设计边界与开发或排障入口。"
+status: reference
+audience: "接口调用方、扩展开发人员与模块维护者"
+reviewed: "2026-07-14"
+sourcePaths:
+  - "KH.WMS"
+---
+
 # 三个程序集公开类型索引
 
 本索引从文档基线提交成功编译的程序集提取，覆盖所有公开顶层类型。它用于发现类型和核对命名空间；成员签名及使用语义请查看各模块 API 文档或源码。
@@ -670,4 +680,7 @@
 - `IValidator` — 接口
 - `ValidatorCodes` — 静态类
 
+## 继续阅读
 
+- [API 参考首页](/api/README)
+- [跨模块 Contract](/backend/KH.WMS后端Contract与模块协作指引)

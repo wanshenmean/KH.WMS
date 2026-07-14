@@ -1,3 +1,15 @@
+---
+title: "08 ExtData 动态字段"
+description: "08 ExtData 动态字段：说明适用场景、当前实现、设计边界与开发或排障入口。"
+status: reference
+audience: "后端开发人员、排障人员与底座维护者"
+reviewed: "2026-07-14"
+sourcePaths:
+  - "KH.WMS/KH.WMS.Server"
+  - "KH.WMS/KH.WMS.Core"
+  - "KH.WMS/Modules"
+---
+
 # 08 ExtData 动态字段
 
 ## 这个概念解决什么问题
@@ -18,6 +30,10 @@ KH.WMS 的设计是：
 - `ExtDataCrudController<TEntity>` 从原始请求体提取 `extDataRaw`，写入实体 `ExtData`。
 - 详情查询时把 `ExtData` 展平成普通 JSON 属性，便于前端回显。
 - 扩展字段定义由 Config 模块的 Contract 查询和转换。
+
+### 当前实现边界
+
+`ExtDataCrudController<TEntity>` 及其请求体处理属于当前可用的业务链路。仓库中同时存在 DataMap／`UseInterfaceMiddleware` 一类接口映射底座，但 `Program.cs` 中对应中间件仍是注释状态，尚未进入默认请求管道。开发动态字段页面时应以 ExtData CRUD 和 Config Contract 为准，不要把 DataMap 预留能力当成已启用依赖。
 
 ## 什么时候需要看
 
@@ -751,3 +767,9 @@ if (extValues.TryGetValue("temperature", out var temperature))
 - 需要数据库约束或索引的字段不要放 ExtData。
 - 核心业务状态不要放 ExtData。
 - 参与复杂统计报表的字段慎用 ExtData。
+
+## 继续阅读
+
+- [底层机制索引](/backend/后端底层概念/README)
+- [后端 V3 教程](/backend/后端开发指引V3教程/README)
+- [后端排错与日志追踪](/backend/KH.WMS后端排错与日志追踪指引)

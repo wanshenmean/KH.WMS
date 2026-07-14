@@ -1,3 +1,15 @@
+---
+title: "KH.WMS 全栈部署配置与环境变量指引"
+description: "KH.WMS 全栈部署配置与环境变量指引：说明适用场景、当前实现、设计边界与开发或排障入口。"
+status: reference
+audience: "参与 KH.WMS 开发、测试与运维的团队成员"
+reviewed: "2026-07-14"
+sourcePaths:
+  - "KH.WMS/KH.WMS.Server"
+  - "KH.WMS/KH.WMS.Core"
+  - "KH.WMS/Modules"
+---
+
 # KH.WMS 全栈部署配置与环境变量指引
 
 > 本文用于培训 KH.WMS 的前端、后端在开发、测试、生产环境中的配置差异。
@@ -333,3 +345,9 @@ Windows Service 场景重点检查：
 - 能说明前端生产刷新 404 的原因和处理方式。
 - 能给出一份上线前联合检查清单。
 - 能说明上线失败时前端、后端、配置、数据库分别如何回滚。
+
+## 继续阅读
+
+- [学习路径](/learning-path)
+- [培训资料下载](/training-materials)
+- [架构总览](/backend/架构设计/KH.WMS架构总览)

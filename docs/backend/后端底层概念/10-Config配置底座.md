@@ -1,3 +1,15 @@
+---
+title: "10 Config 配置底座"
+description: "10 Config 配置底座：说明适用场景、当前实现、设计边界与开发或排障入口。"
+status: reference
+audience: "后端开发人员、排障人员与底座维护者"
+reviewed: "2026-07-14"
+sourcePaths:
+  - "KH.WMS/KH.WMS.Server"
+  - "KH.WMS/KH.WMS.Core"
+  - "KH.WMS/Modules"
+---
+
 # 10 Config 配置底座
 
 ## 这个概念解决什么问题
@@ -250,3 +262,9 @@ var columns = _documentFieldExtContract.BuildFormColumns(fields);
 - 业务模块直接查 `CfgGlobalConfig`：优先改成调用 `IConfigResolverContract`。
 - 把业务单据表放配置库：配置库只放配置和规则，不放业务流水。
 - 扩展字段不显示：检查字段配置、field level、缓存、前端 column 构建。
+
+## 继续阅读
+
+- [底层机制索引](/backend/后端底层概念/README)
+- [后端 V3 教程](/backend/后端开发指引V3教程/README)
+- [后端排错与日志追踪](/backend/KH.WMS后端排错与日志追踪指引)

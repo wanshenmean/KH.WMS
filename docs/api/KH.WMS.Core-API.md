@@ -1,3 +1,13 @@
+---
+title: "KH.WMS.Core API"
+description: "KH.WMS.Core API：说明适用场景、当前实现、设计边界与开发或排障入口。"
+status: reference
+audience: "接口调用方、扩展开发人员与模块维护者"
+reviewed: "2026-07-14"
+sourcePaths:
+  - "KH.WMS"
+---
+
 # KH.WMS.Core API
 
 `KH.WMS.Core` 是三个模块的基础设施层，提供统一响应、通用 CRUD、数据访问、事务、缓存、认证、日志、安全、模块化、依赖注入和 ASP.NET Core 宿主扩展。程序集目标框架为 `.NET 8.0`，版本为 `0.1.0.0`。
@@ -809,3 +819,9 @@ sequenceDiagram
 | 修改后读到旧数据 | 写入后未清缓存 | 检查 Cache-Aside 失效逻辑 |
 | 限流配置不生效 | 中间件未启用 | 检查 `UseRateLimiting` |
 | 线上 500 看不到堆栈 | 生产环境主动隐藏内部信息 | 用 `traceId` 查询结构化日志 |
+
+## 继续阅读
+
+- [API 参考首页](/api/README)
+- [公开类型索引](/api/PUBLIC-TYPE-INDEX)
+- [跨模块 Contract](/backend/KH.WMS后端Contract与模块协作指引)

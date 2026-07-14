@@ -1,4 +1,16 @@
-﻿# 15 应用配置 Options 与运行时配置边界
+---
+title: "15 应用配置 Options 与运行时配置边界"
+description: "15 应用配置 Options 与运行时配置边界：说明适用场景、当前实现、设计边界与开发或排障入口。"
+status: reference
+audience: "后端开发人员、排障人员与底座维护者"
+reviewed: "2026-07-14"
+sourcePaths:
+  - "KH.WMS/KH.WMS.Server"
+  - "KH.WMS/KH.WMS.Core"
+  - "KH.WMS/Modules"
+---
+
+# 15 应用配置 Options 与运行时配置边界
 
 ## 这个概念解决什么问题
 
@@ -204,3 +216,9 @@ flowchart TD
 ### 用 `IConfiguration` 绕过业务底座
 
 普通业务服务里到处读取裸配置 key，会让规则分散、测试困难、缓存失效不可控。已有 Config/Parameter/Contract 能力时优先使用它们。
+
+## 继续阅读
+
+- [底层机制索引](/backend/后端底层概念/README)
+- [后端 V3 教程](/backend/后端开发指引V3教程/README)
+- [后端排错与日志追踪](/backend/KH.WMS后端排错与日志追踪指引)

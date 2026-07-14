@@ -1,3 +1,15 @@
+---
+title: "KH.WMS 后端底层概念专题索引"
+description: "KH.WMS 后端底层概念专题索引：说明适用场景、当前实现、设计边界与开发或排障入口。"
+status: reference
+audience: "后端开发人员、排障人员与底座维护者"
+reviewed: "2026-07-14"
+sourcePaths:
+  - "KH.WMS/KH.WMS.Server"
+  - "KH.WMS/KH.WMS.Core"
+  - "KH.WMS/Modules"
+---
+
 # KH.WMS 后端底层概念专题索引
 
 这组文档是 `KH.WMS后端开发指引 V3.0.md` 的“按概念查”入口。V3 总文档仍然是完整开发指引，这里拆出业务开发者必须理解的底层机制：启动扫描、模块边界、自动注入、AOP、请求管道、事务、CRUD、ExtData、跨模块契约、配置底座、校验器、编码状态、鉴权缓存、策略算法，以及 Swagger、JSON、MiniProfiler、License、限流、后台服务、登录加密等运行时能力。
@@ -84,3 +96,8 @@
 - 新概念优先补到专题文档，V3 总文档保留整体流程。
 - 专题里只保留必要概念和排查线索，不复制整章源码。
 - 文档提到的类型、特性、文件路径要能在仓库中找到。
+
+## 继续阅读
+
+- [后端 V3 教程](/backend/后端开发指引V3教程/README)
+- [后端排错与日志追踪](/backend/KH.WMS后端排错与日志追踪指引)

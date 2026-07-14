@@ -1,3 +1,15 @@
+---
+title: "KH.WMS.Algorithms API 方法调用手册"
+description: "KH.WMS.Algorithms API 方法调用手册：说明适用场景、当前实现、设计边界与开发或排障入口。"
+status: reference
+audience: "参与 KH.WMS 开发、测试与运维的团队成员"
+reviewed: "2026-07-14"
+sourcePaths:
+  - "KH.WMS/KH.WMS.Server"
+  - "KH.WMS/KH.WMS.Core"
+  - "KH.WMS/Modules"
+---
+
 # KH.WMS.Algorithms API 方法调用手册
 
 > 适用对象：只能引用 `KH.WMS.Algorithms.dll`、不能查看源码的外部开发人员。  
@@ -771,3 +783,9 @@ var picking = GetOutput<PickingResult>(pickingResult);
 - 出库库存选择应使用 `PolicyType.InventoryAllocation` 和 `FIFO`、`FEFO`、`BATCH`、`UTILIZATION_PRIORITY` 等库存分配策略。
 - `PolicyType.Wave` 当前没有内置策略实现。文档不提供正式调用流程。
 - 本文档未记录当前代码不存在的策略编码、结果模型或补货能力；如后续代码新增实现，应同步更新本文档。
+
+## 继续阅读
+
+- [学习路径](/learning-path)
+- [培训资料下载](/training-materials)
+- [架构总览](/backend/架构设计/KH.WMS架构总览)

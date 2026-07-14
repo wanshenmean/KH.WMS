@@ -1,3 +1,13 @@
+---
+title: "KH.WMS.Algorithms API"
+description: "KH.WMS.Algorithms API：说明适用场景、当前实现、设计边界与开发或排障入口。"
+status: reference
+audience: "接口调用方、扩展开发人员与模块维护者"
+reviewed: "2026-07-14"
+sourcePaths:
+  - "KH.WMS"
+---
+
 # KH.WMS.Algorithms API
 
 `KH.WMS.Algorithms` 提供 WMS 策略引擎、策略链、内置库存/货位算法、策略配置服务和三组 HTTP 控制器。程序集目标框架为 `.NET 8.0`，版本为 `0.1.0.0`。
@@ -686,3 +696,9 @@ curl -H "Authorization: Bearer $TOKEN" \
 | 调整 `StepNo` 后顺序没变化 | 策略 `Priority` 仍决定最终执行顺序 | 检查策略实现的 `Priority` |
 | 自定义策略没有被发现 | 策略位于外部程序集 | 显式注册为 `IPolicyStrategy` |
 | 流水线有输出但 `ErrorMessage` 非空 | 某些步骤失败，保留了部分成功 | 检查 `ExecutionLogs`，决定接受还是回滚 |
+
+## 继续阅读
+
+- [API 参考首页](/api/README)
+- [公开类型索引](/api/PUBLIC-TYPE-INDEX)
+- [跨模块 Contract](/backend/KH.WMS后端Contract与模块协作指引)

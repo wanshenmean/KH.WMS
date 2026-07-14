@@ -1,3 +1,13 @@
+---
+title: "KH.WMS 三个基础模块 API 文档"
+description: "KH.WMS 三个基础模块 API 文档：说明适用场景、当前实现、设计边界与开发或排障入口。"
+status: reference
+audience: "接口调用方、扩展开发人员与模块维护者"
+reviewed: "2026-07-14"
+sourcePaths:
+  - "KH.WMS"
+---
+
 # KH.WMS 三个基础模块 API 文档
 
 本文档集面向 `0.KH.WMS` 的后端开发者和 DLL/API 使用者，覆盖：
@@ -129,3 +139,8 @@ dotnet build KH.WMS/KH.WMS.Core/KH.WMS.Core.csproj --no-restore
 ```
 
 三个项目均为 0 警告、0 错误。
+
+## 继续阅读
+
+- [公开类型索引](/api/PUBLIC-TYPE-INDEX)
+- [跨模块 Contract](/backend/KH.WMS后端Contract与模块协作指引)

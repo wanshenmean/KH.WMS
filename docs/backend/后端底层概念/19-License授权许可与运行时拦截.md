@@ -1,4 +1,16 @@
-﻿# 19 License 授权许可与运行时拦截
+---
+title: "19 License 授权许可与运行时拦截"
+description: "19 License 授权许可与运行时拦截：说明适用场景、当前实现、设计边界与开发或排障入口。"
+status: reference
+audience: "后端开发人员、排障人员与底座维护者"
+reviewed: "2026-07-14"
+sourcePaths:
+  - "KH.WMS/KH.WMS.Server"
+  - "KH.WMS/KH.WMS.Core"
+  - "KH.WMS/Modules"
+---
+
+# 19 License 授权许可与运行时拦截
 
 ## 这个概念解决什么问题
 
@@ -201,3 +213,9 @@ flowchart TD
 ### 机器码变化
 
 更换服务器、虚拟机硬件信息变化、容器环境变化，都可能导致机器码变化。License 绑定机器码时要把部署环境稳定性考虑进去。
+
+## 继续阅读
+
+- [底层机制索引](/backend/后端底层概念/README)
+- [后端 V3 教程](/backend/后端开发指引V3教程/README)
+- [后端排错与日志追踪](/backend/KH.WMS后端排错与日志追踪指引)
