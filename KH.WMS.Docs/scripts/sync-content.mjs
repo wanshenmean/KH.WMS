@@ -47,6 +47,15 @@ function createHome() {
   return `---\nlayout: home\ntitle: KH.WMS 开发学院\ndescription: KH.WMS 前端、后端与底层概念技术文档。\n---\n`;
 }
 
+function withDocMetadata(markdown, { status, audience, replacement }) {
+  const end = markdown.indexOf('\n---\n', 4);
+  if (end === -1) return markdown;
+  const fields = [`status: ${status}`, `audience: ${audience}`, 'reviewed: 2026-07-14'];
+  if (status === 'archived') fields.push('search: false');
+  if (replacement) fields.push(`replacement: ${replacement}`);
+  return `${markdown.slice(0, end)}\n${fields.join('\n')}${markdown.slice(end)}`;
+}
+
 function createTrainingMaterials(downloads) {
   const grouped = new Map();
   for (const download of downloads) {
@@ -109,9 +118,9 @@ async function main() {
   }
 
   await writeFile(path.join(outputRoot, 'index.md'), createHome(), 'utf8');
-  await writeFile(path.join(outputRoot, 'learning-path.md'), createLearningPath(), 'utf8');
-  await writeFile(path.join(outputRoot, 'training-materials.md'), createTrainingMaterials(downloads), 'utf8');
-  await writeFile(path.join(outputRoot, 'backend', 'KH.WMS前端开发指引.md'), `---\ntitle: KH.WMS 前端开发指引\n---\n\n# KH.WMS 前端开发指引\n\n本入口保留给旧专题文档的相对链接。请阅读当前维护版本：[KH.WMS 前端开发指引 V3.0](./KH.WMS前端开发指引%20V3.0.md)。\n`, 'utf8');
+  await writeFile(path.join(outputRoot, 'learning-path.md'), withDocMetadata(createLearningPath(), { status: 'current', audience: '新成员与需要跨端协作的开发人员' }), 'utf8');
+  await writeFile(path.join(outputRoot, 'training-materials.md'), withDocMetadata(createTrainingMaterials(downloads), { status: 'training', audience: '新成员、培训讲师与参与考核的开发人员' }), 'utf8');
+  await writeFile(path.join(outputRoot, 'backend', 'KH.WMS前端开发指引.md'), withDocMetadata(`---\ntitle: KH.WMS 前端开发指引\ndescription: 兼容旧链接的前端开发文档入口。\n---\n\n# KH.WMS 前端开发指引\n\n本入口保留给旧专题文档的相对链接。请阅读当前维护版本：[KH.WMS 前端开发指引 V3.0](./KH.WMS前端开发指引%20V3.0.md)。\n`, { status: 'archived', audience: '从旧链接进入文档的开发人员', replacement: '/backend/KH.WMS前端开发指引%20V3.0' }), 'utf8');
   await writeFile(path.join(outputRoot, '.content-manifest.json'), JSON.stringify({ markdownCount, downloadCount: downloads.length }, null, 2), 'utf8');
 
   console.log(`Synced ${markdownCount} Markdown files and ${downloads.length} downloadable files.`);

@@ -92,6 +92,19 @@ body { font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSyst
 .VPOutline .outline-link { font-size: 13px; }
 .VPDocFooter .pager-link { border-radius: 8px; }
 
+.doc-meta { margin: 0 0 28px; padding: 14px 16px; border: 1px solid var(--academy-border-blue); border-left: 3px solid var(--vp-c-brand-1); border-radius: 8px; background: var(--academy-bg-accent-soft); color: var(--academy-text); }
+.doc-meta-heading { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 14px; color: var(--academy-text-muted); font-size: 12px; }
+.doc-meta-status { display: inline-flex; align-items: center; min-height: 24px; padding: 0 9px; border-radius: 999px; color: var(--academy-api-text); background: var(--vp-c-brand-soft); font-weight: 700; }
+.doc-meta p { margin: 9px 0 0; font-size: 13px; line-height: 1.65; }
+.doc-meta-archived { border-color: #d79d48; border-left-color: #d18a24; background: color-mix(in srgb, #d18a24 9%, var(--academy-bg)); }
+.doc-meta-archived .doc-meta-status { color: #8c570b; background: color-mix(in srgb, #d18a24 18%, transparent); }
+.dark .doc-meta-archived .doc-meta-status { color: #ffd18c; }
+.doc-meta-training { border-left-color: var(--academy-mint); }
+
+.VPDoc .mermaid { margin: 24px 0; padding: 20px; overflow-x: auto; border: 1px solid var(--academy-border); border-radius: 8px; background: var(--academy-bg-soft); text-align: center; }
+.VPDoc .mermaid svg { display: inline-block; min-width: 520px; max-width: 100%; height: auto; }
+.dark .VPDoc .mermaid { background: var(--academy-bg-elevated); }
+
 .academy-home { min-height: 100vh; color: var(--academy-text-strong); background: var(--academy-bg); }
 .academy-header { height: 68px; max-width: 1180px; margin: 0 auto; display: flex; align-items: center; gap: 38px; padding: 0 28px; border-bottom: 1px solid var(--vp-c-divider); }
 .academy-brand { display: inline-flex; align-items: center; gap: 10px; color: var(--academy-text-strong); font-weight: 760; letter-spacing: -.02em; white-space: nowrap; }
@@ -198,5 +211,7 @@ body { font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSyst
   .resource-strip a + a { padding: 24px 0; border-top: 1px solid var(--vp-c-divider); border-left: 0; }
   .academy-home footer { padding: 20px; }
   .VPDoc h1 { font-size: 32px; }
+  .VPDoc .mermaid { margin-right: -8px; margin-left: -8px; padding: 14px 10px; text-align: left; }
+  .VPDoc .mermaid svg { min-width: 620px; }
 }
 @media (prefers-reduced-motion: reduce) { *, *::before, *::after { scroll-behavior: auto !important; transition-duration: .01ms !important; } }

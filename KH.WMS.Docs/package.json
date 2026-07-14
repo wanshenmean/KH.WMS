@@ -6,12 +6,15 @@
   "scripts": {
     "sync": "node scripts/sync-content.mjs",
     "verify:content": "node scripts/verify-content.mjs",
+    "verify:docs": "node scripts/verify-doc-quality.mjs",
     "dev": "npm run sync && vitepress dev",
-    "build": "npm run sync && npm run verify:content && vitepress build",
+    "build": "npm run sync && npm run verify:docs && npm run verify:content && vitepress build",
     "preview": "vitepress preview"
   },
   "devDependencies": {
+    "mermaid": "^11.16.0",
     "vitepress": "1.6.4",
+    "vitepress-plugin-mermaid": "^2.0.17",
     "vue": "^3.5.13"
   }
 }

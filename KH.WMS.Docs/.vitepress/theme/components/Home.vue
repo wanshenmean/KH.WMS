@@ -18,7 +18,9 @@ const routes = computed(() => [
   { title: '架构设计', description: '理解前后端为什么这样分层、获得什么收益，以及什么时候应该例外。', href: withBase('/backend/架构设计/KH.WMS架构总览'), icon: '◇' },
   { title: '前端实战', description: '从启动、路由、权限到组件、状态、请求与 E2E。', href: withBase('/backend/KH.WMS前端开发指引%20V3.0'), icon: '⌘' },
   { title: '后端主线', description: '用完整 CRUD、Contract、事务与校验串起真实业务开发。', href: withBase('/backend/后端开发指引V3教程/01-KH.WMS后端整体地图'), icon: '↗' },
-  { title: '底层概念', description: '理解启动、依赖注入、AOP、运行时配置和可观测性。', href: withBase('/backend/后端底层概念/01-启动入口与程序集扫描'), icon: '◌' }
+  { title: '底层机制', description: '理解启动、依赖注入、AOP、运行时配置和可观测性。', href: withBase('/backend/后端底层概念/README'), icon: '◌' },
+  { title: 'API 与参考', description: '查阅公开类型、模块接口、扩展方式和工程实践。', href: withBase('/api/README'), icon: '⌁' },
+  { title: '培训与历史', description: '下载培训课件，查阅考题以及带版本提示的历史全文。', href: withBase('/training-materials'), icon: '□' }
 ]);
 </script>
 
@@ -42,6 +44,7 @@ const routes = computed(() => [
         <a :href="withBase('/backend/KH.WMS前端开发指引%20V3.0')">前端开发</a>
         <a :href="withBase('/backend/后端开发指引V3教程/01-KH.WMS后端整体地图')">后端开发</a>
         <a :href="withBase('/backend/后端底层概念/01-启动入口与程序集扫描')">底层概念</a>
+        <a :href="withBase('/api/README')">API / 参考</a>
       </nav>
       <div class="academy-tools">
         <div class="academy-search"><VPNavBarSearch /></div>
@@ -101,9 +104,9 @@ const routes = computed(() => [
           <p>用一条可执行的学习顺序，先建立系统地图，再完成第一个功能。</p>
         </div>
         <ol>
-          <li><span>01</span><a :href="withBase('/backend/KH.WMS前端配置与启动指引')">启动前端与认识项目结构</a></li>
-          <li><span>02</span><a :href="withBase('/backend/后端开发指引V3教程/01-KH.WMS后端整体地图')">理解后端模块与职责边界</a></li>
-          <li><span>03</span><a :href="withBase('/backend/后端底层概念/03-依赖注入自动注册与AOP代理')">追踪请求链路与底层机制</a></li>
+          <li><span>01</span><a :href="withBase('/backend/架构设计/KH.WMS架构总览')">先理解系统架构与边界</a></li>
+          <li><span>02</span><a :href="withBase('/backend/KH.WMS前端配置与启动指引')">启动前端与认识项目结构</a></li>
+          <li><span>03</span><a :href="withBase('/backend/后端开发指引V3教程/01-KH.WMS后端整体地图')">理解后端模块与职责边界</a></li>
         </ol>
         <a class="inline-link" :href="withBase('/learning-path')">打开完整学习路径 <span>→</span></a>
       </section>
