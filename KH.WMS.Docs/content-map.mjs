@@ -16,13 +16,13 @@ export const frontendFiles = [
 ];
 
 export const backendTutorialFiles = [
-  'backend/后端开发指引V3教程/README.md',
+  'backend/KH.WMS后端开发指引 V3.0.md',
   'backend/后端开发指引V3教程/00-这份文档怎么读.md',
   'backend/后端开发指引V3教程/01-KH.WMS后端整体地图.md',
   'backend/后端开发指引V3教程/02-后端基础配置与启动机制.md',
-  'backend/后端开发指引V3教程/03-请求链路事务异常TraceIdAOP.md',
   'backend/后端开发指引V3教程/04-职责边界.md',
   'backend/后端开发指引V3教程/05-服务自动注册RegisteredService.md',
+  'backend/后端开发指引V3教程/03-请求链路事务异常TraceIdAOP.md',
   'backend/后端开发指引V3教程/06-完整CRUD底层执行链路.md',
   'backend/后端开发指引V3教程/07-CRUD基类能力详解.md',
   'backend/后端开发指引V3教程/08-后端开发标准流程.md',
@@ -33,7 +33,7 @@ export const backendTutorialFiles = [
   'backend/后端开发指引V3教程/A-常用命令.md',
   'backend/后端开发指引V3教程/B-开发检查清单.md',
   'backend/后端开发指引V3教程/C-常见坑.md',
-  'backend/KH.WMS后端开发指引 V3.0.md'
+  'backend/后端开发指引V3教程/README.md'
 ];
 
 export const conceptGroups = [
