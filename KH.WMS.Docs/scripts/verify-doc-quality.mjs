@@ -6,7 +6,7 @@ import { allMappedFiles, archivedFiles } from '../content-map.mjs';
 const siteRoot = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const workspaceRoot = path.resolve(siteRoot, '..');
 const docsRoot = path.join(workspaceRoot, 'docs');
-const expectedCount = 78;
+const expectedCount = 80;
 const validStatuses = new Set(['current', 'reference', 'training', 'archived']);
 const failures = [];
 

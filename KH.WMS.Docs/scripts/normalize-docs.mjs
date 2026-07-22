@@ -27,6 +27,7 @@ const titleOverrides = new Map([
 
 const training = new Set([
   'backend/KH.WMS 阶段培训计划与文档.md',
+  'backend/实战培训/README.md',
   'backend/KH.WMS第一次培训考题.md',
   'backend/培训PPT/新版WMS前端页面开发培训_题库100题.md'
 ]);
@@ -87,7 +88,7 @@ function areaOf(relative) {
   if (relative.includes('/架构设计/')) return 'architecture';
   if (relative.includes('/后端底层概念/')) return 'concepts';
   if (relative.includes('/后端开发指引V3教程/')) return 'tutorial';
-  if (relative.includes('前端')) return 'frontend';
+  if (frontendFiles.includes(relative) || relative.includes('前端')) return 'frontend';
   return 'resources';
 }
 

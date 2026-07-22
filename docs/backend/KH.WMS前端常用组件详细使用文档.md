@@ -757,6 +757,8 @@ const tableColumns = [
 
 当 `crudOperations.view=true` 时，内置“查看”按钮会打开 `KhDetailDialog`。如果详情数据里含从表数组，可通过 `detailLines` 配置展示。
 
+`detailLines` 只负责只读详情，不会生成主从编辑页。需要完整新增、编辑和保存时，请按[KH.WMS 主从表页面配置与开发实战指引](/backend/KH.WMS主从表页面配置与开发实战指引)组合 `KhPage + KhDialog + KhForm + KhEditableTable`。
+
 ```js
 const detailLines = [
   {
@@ -2073,6 +2075,8 @@ async function loadDashboard() {
 ## 12. KhEditableTable 可编辑表格
 
 `KhEditableTable` 适合明细行录入，比如入库组盘、盘点明细、临时任务行。
+
+到货预约案例的完整请求体、明细 ID 规则和更新完整集合语义见[KH.WMS 主从表页面配置与开发实战指引](/backend/KH.WMS主从表页面配置与开发实战指引)。
 
 ### 12.1 基本思路
 

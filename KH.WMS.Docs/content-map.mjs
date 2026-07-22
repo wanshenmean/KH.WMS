@@ -10,6 +10,7 @@ export const frontendFiles = [
   'backend/KH.WMS前端路由菜单与权限开发指引.md',
   'backend/KH.WMS前端请求封装与接口开发指引.md',
   'backend/KH.WMS前端组件体系与页面开发指引.md',
+  'backend/KH.WMS主从表页面配置与开发实战指引.md',
   'backend/KH.WMS前端状态管理与公共工具指引.md',
   'backend/KH.WMS前端常用组件详细使用文档.md',
   'backend/KH.WMS前端E2E测试与质量检查指引.md'
@@ -108,6 +109,7 @@ export const referenceFiles = [
 
 export const trainingFiles = [
   'backend/KH.WMS 阶段培训计划与文档.md',
+  'backend/实战培训/README.md',
   'backend/KH.WMS第一次培训考题.md',
   'backend/培训PPT/新版WMS前端页面开发培训_题库100题.md'
 ];
