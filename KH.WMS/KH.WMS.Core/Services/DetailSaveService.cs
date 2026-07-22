@@ -42,15 +42,25 @@ public class DetailSaveService : IDetailSaveService
 
             var details = prop.GetValue(entity) as System.Collections.IList;
             var submittedIds = new List<long>();
+            var existingIds = isCreate
+                ? new HashSet<long>()
+                : (await QueryIdsByDynamic(detailType, fkName, entity.Id)).ToHashSet();
 
             if (details != null && details.Count > 0)
             {
                 foreach (var item in details)
                 {
-                    fkProp.SetValue(item, entity.Id);
-
                     var idProp = detailType.GetProperty(nameof(BaseEntity<long>.Id));
                     var detailId = (long)(idProp?.GetValue(item) ?? 0);
+
+                    if (isCreate && detailId != 0)
+                        throw new InvalidOperationException($"新增 {typeof(TEntity).Name} 时，{detailType.Name} 的 Id 必须为 0。");
+
+                    if (!isCreate && detailId != 0 && !existingIds.Contains(detailId))
+                        throw new InvalidOperationException(
+                            $"{detailType.Name}({detailId}) 不属于当前 {typeof(TEntity).Name}({entity.Id})，禁止跨主表修改明细。");
+
+                    fkProp.SetValue(item, entity.Id);
 
                     if (detailId == 0)
                     {
@@ -73,7 +83,6 @@ public class DetailSaveService : IDetailSaveService
 
             if (!isCreate)
             {
-                var existingIds = await QueryIdsByDynamic(detailType, fkName, entity.Id);
                 var deleteIds = existingIds.Except(submittedIds).ToList();
                 if (deleteIds.Count > 0)
                 {
@@ -130,7 +139,14 @@ public class DetailSaveService : IDetailSaveService
     {
         var repo = GetRepository(detailType);
         var method = repo.GetType().GetMethod("AddAsync", [detailType])!;
-        await (Task)method.Invoke(repo, [item])!;
+        var task = (Task)method.Invoke(repo, [item])!;
+        await task;
+
+        var result = task.GetType().GetProperty("Result")?.GetValue(task);
+        if (result != null)
+        {
+            detailType.GetProperty(nameof(BaseEntity<long>.Id))?.SetValue(item, Convert.ToInt64(result));
+        }
     }
 
     private async Task UpdateByDynamic(Type detailType, object item)
@@ -142,42 +158,24 @@ public class DetailSaveService : IDetailSaveService
 
     private async Task<List<long>> QueryIdsByDynamic(Type detailType, string fkName, long fkValue)
     {
-        var repo = GetRepository(detailType);
-        var fkProp = detailType.GetProperty(fkName);
-        if (fkProp == null) return new List<long>();
+        var method = GetType()
+            .GetMethod(nameof(QueryIdsAsync), BindingFlags.Instance | BindingFlags.NonPublic)!
+            .MakeGenericMethod(detailType);
+        var task = (Task<List<long>>)method.Invoke(this, [fkName, fkValue])!;
+        return await task;
+    }
 
-        var exprType = typeof(Func<,>).MakeGenericType(detailType, typeof(bool));
-        // 通过 AsQueryable 获取 ISugarQueryable，Where + Select
-        var asQueryableMethod = repo.GetType().GetMethod("AsQueryable")!;
-        var queryable = asQueryableMethod.Invoke(repo, null)!;
+    private async Task<List<long>> QueryIdsAsync<TDetail>(string fkName, long fkValue)
+        where TDetail : BaseEntity<long>, new()
+    {
+        var fkProp = typeof(TDetail).GetProperty(fkName);
+        if (fkProp == null) return [];
 
-        var queryableType = queryable.GetType();
-        var whereMethod = queryableType.GetMethod("Where", [exprType])!;
-
-        // 构建参数表达式：x => fkProp.GetValue(x)!.Equals(fkValue)
-        var param = Expression.Parameter(detailType, "x");
-        var fkAccess = Expression.Property(param, fkName);
-        var fkValueExpr = Expression.Constant(fkValue);
-        var body = Expression.Call(
-            Expression.Convert(fkAccess, typeof(object)),
-            typeof(object).GetMethod("Equals", [typeof(object)])!,
-            Expression.Convert(fkValueExpr, typeof(object)));
-        var lambda = Expression.Lambda(exprType, body, param);
-
-        var filteredQueryable = whereMethod.Invoke(queryable, [lambda])!;
-        var selectMethod = filteredQueryable.GetType().GetMethod("Select", [typeof(Func<,>).MakeGenericType(detailType, typeof(long))])!;
-
-        var selectParam = Expression.Parameter(detailType, "x");
-        var idProp = Expression.Property(selectParam, "Id");
-        var selectLambda = Expression.Lambda(
-            typeof(Func<,>).MakeGenericType(detailType, typeof(long)),
-            idProp, selectParam);
-
-        var idQueryable = selectMethod.Invoke(filteredQueryable, [selectLambda])!;
-        var toListMethod = idQueryable.GetType().GetMethod("ToListAsync")!;
-        var task = (Task)toListMethod.Invoke(idQueryable, null)!;
-        await task.ConfigureAwait(false);
-        return (List<long>)task.GetType().GetProperty("Result")!.GetValue(task)!;
+        var parameter = Expression.Parameter(typeof(TDetail), "x");
+        var body = Expression.Equal(Expression.Property(parameter, fkProp), Expression.Constant(fkValue));
+        var predicate = Expression.Lambda<Func<TDetail, bool>>(body, parameter);
+        var repository = _sp.GetRequiredService<IRepository<TDetail, long>>();
+        return await repository.AsQueryable().Where(predicate).Select(x => x.Id).ToListAsync();
     }
 
     private async Task DeleteByIdsByDynamic(Type detailType, List<long> ids)

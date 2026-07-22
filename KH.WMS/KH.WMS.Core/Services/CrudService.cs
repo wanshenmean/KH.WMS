@@ -102,6 +102,7 @@ public class CrudService<TEntity>
 
             // 插入主表（返回主键ID）
             var id = await _repository.AddAsync(entity);
+            entity.Id = id;
 
             // OneToMany：通过 DetailSaveService 逐条保存（支持增量比对）
             // OneToOne：通过 DetailSaveService 保存单一子实体

@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "data": {
+    "columns": [
+      {
+        "prop": "customerLevel",
+        "label": "客户等级",
+        "type": "input",
+        "isExt": true,
+        "required": true,
+        "defaultValue": "NORMAL"
+      },
+      {
+        "prop": "creditLimit",
+        "label": "信用额度",
+        "type": "number",
+        "isExt": true,
+        "required": false,
+        "defaultValue": 0
+      },
+      {
+        "prop": "requiresColdChain",
+        "label": "是否要求冷链",
+        "type": "switch",
+        "isExt": true,
+        "required": false,
+        "defaultValue": false,
+        "activeValue": true,
+        "inactiveValue": false
+      },
+      {
+        "prop": "contractExpiry",
+        "label": "合同到期日",
+        "type": "date",
+        "isExt": true,
+        "required": false,
+        "defaultValue": null
+      }
+    ],
+    "lineColumns": []
+  }
+}

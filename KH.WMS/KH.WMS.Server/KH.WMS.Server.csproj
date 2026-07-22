@@ -16,6 +16,7 @@
 		<ProjectReference Include="..\Modules\OutboundModule\KH.WMS.Modules.OutboundModule\KH.WMS.Modules.OutboundModule.csproj" />
 		<ProjectReference Include="..\Modules\SystemModule\KH.WMS.Modules.SystemModule\KH.WMS.Modules.SystemModule.csproj" />
 		<ProjectReference Include="..\Modules\TaskModule\KH.WMS.Modules.TaskModule\KH.WMS.Modules.TaskModule.csproj" />
+		<ProjectReference Include="..\Modules\TrainingModule\KH.WMS.Modules.TrainingModule\KH.WMS.Modules.TrainingModule.csproj" />
 		<ProjectReference Include="..\Modules\WarehouseModule\KH.WMS.Modules.WarehouseModule\KH.WMS.Modules.WarehouseModule.csproj" />
 	</ItemGroup>
 

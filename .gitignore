@@ -264,7 +264,7 @@ google-services.json
 /DB
 /KH.WMS.Client/test-results
 *.sql
-*.sql
+!docs/backend/实战培训/*.sql
 /doc
 /KH.WMS/KH.WMS.Server/Uploads/
 
